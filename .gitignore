@@ -1,3 +1,4 @@
 .env
 updater.py
 test.py
+requirements.txt
