@@ -55,9 +55,7 @@
     "version": "1.2.6"
   },
   "ReplaceTimestamps": {
-    "url": "https://raw.githubusercontent.com/HypedDomi/Enmity-Stuff/main/dist/ReplaceTimestamps.js",
-    "description": "Replaces plaintext 24 hour timestamps into Discord's timestamps",
-    "version": "1.1.8"
+    "url": "https://raw.githubusercontent.com/HypedDomi/Enmity-Stuff/main/dist/ReplaceTimestamps.js"
   },
   "PetPet": {
     "url": "https://raw.githubusercontent.com/spinfal/enmity-plugins/master/dist/PetPet.js",
@@ -65,9 +63,7 @@
     "version": "1.0.6"
   },
   "BetterTiktokEmbeds": {
-    "url": "https://raw.githubusercontent.com/spinfal/enmity-plugins/master/dist/BetterTiktokEmbeds.js",
-    "description": "Convert TikTok links to vm.dstn.to links so the TikTok embed is better and can be played.",
-    "version": "1.2.6"
+    "url": "https://raw.githubusercontent.com/spinfal/enmity-plugins/master/dist/BetterTiktokEmbeds.js"
   },
   "CopyEmbeds": {
     "url": "https://github.com/SirTenzin/enmity-copy-embed/releases/latest/download/CopyEmbeds.js",
@@ -113,9 +109,7 @@
     "version": "1.1.0"
   },
   "AccountInfo": {
-    "url": "https://raw.githubusercontent.com/acquitelol/account-info/main/dist/AccountInfo.js",
-    "description": "Shows Account Information and Account Assets.",
-    "version": "1.3.7"
+    "url": "https://raw.githubusercontent.com/acquitelol/account-info/main/dist/AccountInfo.js"
   },
   "NoTracking": {
     "url": "https://raw.githubusercontent.com/iCrazeiOS/Enmity-Plugins/main/Plugins/NoTracking/dist/NoTracking.js",
@@ -228,9 +222,7 @@
     "description": "Allows you to click avatars and banners to open them in-app."
   },
   "NSFWGateBypass": {
-    "url": "https://raw.githubusercontent.com/discord-modifications/enmity-addons/main/Plugins/NSFWGateBypass/dist/NSFWGateBypass.js",
-    "version": "1.0.0",
-    "description": "Bypasses NSFW guild, channel and invite gates."
+    "url": "https://raw.githubusercontent.com/discord-modifications/enmity-addons/main/Plugins/NSFWGateBypass/dist/NSFWGateBypass.js"
   },
   "wttr": {
     "url": "https://raw.githubusercontent.com/mugman174/Enmity-Plugins/main/docs/plugins/wttr.js",
