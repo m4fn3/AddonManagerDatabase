@@ -1,0 +1,7 @@
+{
+  "description": "NoTracking\n\nRemoves tracking details from supported URLs\n\n- Currently supports Twitter & Reddit (send me suggestions pls)\n\nDownload: https://raw.githubusercontent.com/iCrazeiOS/Enmity-Plugins/main/Plugins/NoTracking/dist/NoTracking.js\n\nSource: https://github.com/iCrazeiOS/Enmity-Plugins\n\n(GetPFP update/fix soon)",
+  "images": [
+    "https://cdn.discordapp.com/attachments/961782195767365732/1015434582528643142/NoTracking.png"
+  ],
+  "videos": []
+}

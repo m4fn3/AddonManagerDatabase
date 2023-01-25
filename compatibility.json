@@ -1,0 +1,82 @@
+{
+  "plugin": {
+    "AccountInfo": {
+      "text": "\"Get Account Assets\" and \"Get Account Status\" buttons will not appear.",
+      "ver": "~157.0"
+    },
+    "AccountSwitcher": {
+      "text": "Attempting to switch accounts using this plugin will cause your discord to crash forever. Only fix it to completely reinstall Discord.",
+      "ver": "~156.0"
+    },
+    "AllReplyMention": {
+      "text": "Replies without pings will not show up in notifications center.",
+      "ver": "~148.0"
+    },
+    "Catboys": {
+      "text": "Plugin will not load at all.",
+      "ver": "~148.0"
+    },
+    "Catgirls": {
+      "text": "Plugin will not load at all.",
+      "ver": "~148.0"
+    },
+    "CutMessage": {
+      "text": "Cut Message button does not appear in the message context menu.",
+      "ver": "~156.0"
+    },
+    "Dislate": {
+      "text": "/dislate type:Debug does not open the dedicated Debug Menu.",
+      "ver": "~163.0"
+    },
+    "Downloader": {
+      "text": "Download button does not appear in the link context menu.",
+      "ver": "~156.0"
+    },
+    "EmbedFailFixup": {
+      "text": "Plugin does not replace media.discordapp.com links with cdn.discordapp.com links.",
+      "ver": "~148.0"
+    },
+    "EnableStaging": {
+      "text": "Plugin may cause random crashes. Disabling and re enabling the plugin should fix most issues temporarily. Some experiments can crash Discord as well. This plugin will make your Discord crash infinitely if you encountered a React crash. The plugin might prompt you to restart Discord over and over when the plugin is in its disabled state.",
+      "ver": "~157.0"
+    },
+    "K2geLocker": {
+      "text": "Plugin will crash React on Discord startup if app-wide locking is enabled. It will also crash React if you try to unlock a locked server.",
+      "ver": "~162.0"
+    },
+    "NSFWGateBypass": {
+      "text": "Plugin might not bypass NSFW server and channel restrictions.",
+      "ver": "~148.0"
+    },
+    "Osu": {
+      "text": "Player stats will not be shown when running the slash command.",
+      "ver": "~157.0"
+    },
+    "ShowAllActivities": {
+      "text": "Plugin does not show all activities sometimes. It can also crash Discord when connecting to a Voice Channel",
+      "ver": "~157.0"
+    },
+    "ShowHiddenChannels": {
+      "text": "Enabling and disabling the plugin repeatedly will cause the lock icon shown next to hidden channels duplicate itself. \"Last message sent\" timestamp in hidden channels is not always accurate. Hidden Channels will not be shown in channel list if you are on Discord version 157.0 or below. Hidden channels should be displayed correctly between Discord versions 158.0 to 162.0. Hidden channels' locked page with the \"Last message sent\" timestamp will not be shown in Discord version 163.0.",
+      "ver": "158.0~162.0"
+    },
+    "Timestamps": {
+      "text": "Plugin does not replace normal timestamps with unix timestamps.",
+      "ver": "~148.0"
+    },
+    "Unfurl": {
+      "text": "Link will not generate after running the slash command",
+      "ver": "~157.0"
+    },
+    "UserDetails": {
+      "text": "User account creation date and server joined date will not appear. Discord has this feature built in with newer Discord versions.",
+      "ver": "~157.0"
+    },
+    "wttr": {
+      "text": "Plugin will not load at all.",
+      "ver": "~148.0"
+    }
+  },
+  "theme": {
+  }
+}

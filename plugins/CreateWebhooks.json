@@ -1,0 +1,7 @@
+{
+  "description": "CreateWebhooks\n\nCreate webhooks from the webhook management screens in server and channel settings. This adds a Create button (➕) to the navigation bar of the webhooks overview and erases the \"For now, webhooks can only be created on desktop\" text that you see when there are no webhooks.\n\n*Some improvements, such as a better + button, are planned for after the Enmity rewrite comes out.*\n\nDownload: https://fifithebulldog.github.io/enmity-addons-store/plugins/CreateWebhooks.js\nSource: https://github.com/FifiTheBulldog/enmity-plugins/tree/master/CreateWebhooks\nStore: https://fifithebulldog.github.io/enmity-addons-store",
+  "images": [
+    "https://cdn.discordapp.com/attachments/785672346320240680/972345543139397662/IMG_9606.png"
+  ],
+  "videos": []
+}

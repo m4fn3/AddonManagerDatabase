@@ -63,9 +63,9 @@
     "description": "Popular Better discord theme",
     "version": "1.0"
   },
-  "SpotifyDiscordAlt": {
-    "url": "https://cdn.discordapp.com/attachments/1017854329887129611/1038879642465075220/SpotifyDiscordAlt.json",
-    "description": "Spotify Theme Alternative:3",
+  "SpotifyDiscord": {
+    "url": "https://cdn.discordapp.com/attachments/1017854329887129611/1038879489335238796/SpotifyDiscord.json",
+    "description": "Spotify Theme:3",
     "version": "1.0"
   },
   "Tooper": {
@@ -73,9 +73,9 @@
     "description": "Tooper is a IDK.",
     "version": "1.0"
   },
-  "Mocha": {
-    "url": "https://raw.githubusercontent.com/catppuccin/enmity/main/themes/Mocha.json",
-    "description": "☕️ Catppuccin Mocha.",
+  "Latte": {
+    "url": "https://raw.githubusercontent.com/catppuccin/enmity/main/themes/Latte.json",
+    "description": "☕️ Catppuccin Latte.",
     "version": "1.5"
   },
   "BetterLight": {
@@ -215,10 +215,10 @@
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/DarkPlus.json",
     "description": "A nice combination of dark grey and purple"
   },
-  "FEFE69": {
-    "url": "https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/FEFE69.json",
-    "description": "Colorful hair, don't care",
-    "version": "69"
+  "FEFE": {
+    "url": "https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/FEFE.json",
+    "description": "Colorful hair, don't care (OLED)",
+    "version": "1.9"
   },
   "Waveout": {
     "url": "https://raw.githubusercontent.com/pwnPwner/Enmity-Themes/main/Waveout.json",
@@ -302,8 +302,8 @@
   "2077": {
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/2077.json"
   },
-  "Strawberry": {
-    "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Strawberry.json",
+  "StrawberryV2": {
+    "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/StrawberryV2.json",
     "version": "1.0"
   },
   "Malina": {

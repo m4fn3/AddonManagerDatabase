@@ -1,4 +1,9 @@
 {
+  "SecretMessage": {
+    "url": "https://raw.githubusercontent.com/m4fn3/SecretMessage/master/dist/SecretMessage.js",
+    "description": "Send secret message that only your friend can understand.",
+    "version": "1.0.0"
+  },
   "AddonManager": {
     "url": "https://raw.githubusercontent.com/m4fn3/AddonManager/master/dist/AddonManager.js",
     "description": "Manage plugins & themes easily!",
@@ -148,7 +153,7 @@
     "version": "1.0.2"
   },
   "Dashless": {
-    "url": "https://cdn.discordapp.com/attachments/950979198904852481/1010935443245760552/Dashless.js",
+    "url": "https://github.com/ssense1337/enmity-plugins/raw/main/Dashless/dist/Dashless.js",
     "description": "Changes dashes in text channel names to spaces.",
     "version": "1.0.0"
   },

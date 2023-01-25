@@ -1,0 +1,5 @@
+{
+  "description": "Freemoji\n\nSend external emoji in the chat without Nitro as image links. Emoji that you would normally be unable to send are unaffected, while external emoji are converted to image links. (Note: if you try to use external emojis in the middle of other text, the link will be visible. This also cannot support adding external emoji as reactions.)\n\nThis is still very much a work-in-progress. Things I still need to add include partial sticker support, customizing the size of emoji (only lets you use 48px currently), and better checking for whether or not it should actually replace stuff. For now, though, here's a basic version, ported almost directly from https://github.com/luimu64/nitro-spoof.\n\nDownload: https://fifithebulldog.github.io/enmity-addons-store/plugins/Freemoji.js\nSource: https://github.com/FifiTheBulldog/enmity-plugins/tree/master/Freemoji\nStore: https://fifithebulldog.github.io/enmity-addons-store/",
+  "images": [],
+  "videos": []
+}

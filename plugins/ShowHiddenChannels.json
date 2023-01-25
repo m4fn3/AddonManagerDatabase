@@ -1,0 +1,9 @@
+{
+  "description": "Show Hidden Channels\n\nDisplays all hidden channels which can't be accessed, this won't allow you to read them.\n\nDownload: https://raw.githubusercontent.com/discord-modifications/enmity-addons/main/Plugins/ShowHiddenChannels/dist/ShowHiddenChannels.js\nSource: https://github.com/discord-modifications/enmity-addons/tree/main/Plugins/ShowHiddenChannels\nStore: https://github.com/discord-modifications/enmity-addons",
+  "images": [
+    "https://cdn.discordapp.com/attachments/961782195767365732/1011705274345717890/IMG_0369.png",
+    "https://cdn.discordapp.com/attachments/961782195767365732/1011705274593189918/IMG_0370.png",
+    "https://cdn.discordapp.com/attachments/961782195767365732/1011705274794520757/unknown.png"
+  ],
+  "videos": []
+}
