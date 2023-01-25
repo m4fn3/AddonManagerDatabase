@@ -5,7 +5,7 @@
       "ver": "~157.0"
     },
     "AccountSwitcher": {
-      "text": "Attempting to switch accounts using this plugin will cause your discord to crash forever. Only fix it to completely reinstall Discord.",
+      "text": "Attempting to switch accounts using this plugin will cause your discord to crash forever. Only fix is to completely reinstall Discord.",
       "ver": "~156.0"
     },
     "AllReplyMention": {
