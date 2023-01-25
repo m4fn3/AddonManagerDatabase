@@ -20,6 +20,10 @@
       "text": "Plugin will not load at all.",
       "ver": "~148.0"
     },
+    "CopyEmbeds": {
+      "text": "The \"Copy Embed\" button inside the message context menu might break other functions.",
+      "ver": "~157.0"
+    },
     "CutMessage": {
       "text": "Cut Message button does not appear in the message context menu.",
       "ver": "~156.0"
