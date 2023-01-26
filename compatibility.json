@@ -48,8 +48,16 @@
       "text": "Plugin may cause random crashes. Disabling and re enabling the plugin should fix most issues temporarily. Some experiments can crash Discord as well. This plugin will make your Discord crash infinitely if you encountered a crash. The plugin might prompt you to restart Discord over and over when the plugin is in its disabled state.",
       "ver": "~157.0"
     },
+    "HideGiftButton": {
+      "text": "Hiding the gift button will cause SecretMessage plugin to stop working partially.",
+      "ver": "Working"
+    },
     "K2geLocker": {
-      "text": "No noticeable issues.\n\nError: Could not fire before patch for type of K2geLocker [TypeError: Cannot set property 'opacity' of undefined]",
+      "text": "No noticeable issues, but an error is present in console.\n\nError: Could not fire before patch for type of K2geLocker [TypeError: Cannot set property 'opacity' of undefined]",
+      "ver": "Working"
+    },
+    "MessageSpoofer": {
+      "text": "- \"Spoof Edit\" button will not appear if you have CutMessage and/or CopyEmbeds enabled because those plugins breaks the message context menu. \n- Having this plugin enabled kills the \"Copy Media Link\" button.",
       "ver": "Working"
     },
     "NSFWGateBypass": {
@@ -59,6 +67,10 @@
     "Osu": {
       "text": "Player stats will not be shown when running the slash command.",
       "ver": "~157.0"
+    },
+    "SecretMessage": {
+      "text": "Send secret message button will not appear on the chat input context menu if you have HideGiftButton enabled.",
+      "ver": "Working"
     },
     "ShowAllActivities": {
       "text": "Plugin does not show all activities sometimes. It can also crash Discord when connecting to a Voice Channel",
