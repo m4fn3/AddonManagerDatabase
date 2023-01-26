@@ -56,10 +56,6 @@
       "text": "No noticeable issues, but an error is present in console.\n\nError: Could not fire before patch for type of K2geLocker [TypeError: Cannot set property 'opacity' of undefined]",
       "ver": "Working"
     },
-    "MessageSpoofer": {
-      "text": "- \"Spoof Edit\" button will not appear if you have CutMessage and/or CopyEmbeds enabled because those plugins breaks the message context menu. \n- Having this plugin enabled kills the \"Copy Media Link\" button.",
-      "ver": "Working"
-    },
     "NSFWGateBypass": {
       "text": "Plugin might not bypass NSFW server and channel restrictions.",
       "ver": "~148.0"
@@ -77,7 +73,7 @@
       "ver": "~157.0"
     },
     "ShowHiddenChannels": {
-      "text": "Enabling and disabling the plugin repeatedly will cause the lock icon shown next to hidden channels to duplicate itself. \"Last message sent\" timestamp in hidden channels is not always accurate. Hidden Channels will not be shown in channel list if you are on Discord version 157.0 or below. Hidden channels should be displayed correctly between Discord versions 158.0 to 162.0. Hidden channels' locked page with the \"Last message sent\" timestamp will not be shown in Discord version 163.0.\n\nError: ShowHiddenChannels failed to load second argument \"mdl\" must be of type function or object",
+      "text": "- Enabling and disabling the plugin repeatedly will cause the lock icon shown next to hidden channels to duplicate itself. \n- \"Last message sent\" timestamp in hidden channels is not always accurate. \n- Hidden Channels will not be shown in channel list if you are on Discord version 157.0 or below. \n- Hidden channels should be displayed correctly between Discord versions 158.0 to 162.0. \n- Hidden channels' locked page with the \"Last message sent\" timestamp will not be shown in Discord version 163.0.\n\nError: ShowHiddenChannels failed to load second argument \"mdl\" must be of type function or object",
       "ver": "158.0~162.0"
     },
     "Timestamps": {
