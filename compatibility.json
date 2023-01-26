@@ -2,31 +2,31 @@
   "plugin": {
     "AccountInfo": {
       "text": "\"View Account Assets\" and \"Copy Account Status\" buttons will not appear.",
-      "ver": "~157.0"
+      "ver": "157.0 or earlier"
     },
     "AccountSwitcher": {
       "text": "Attempting to switch accounts using this plugin will cause your Discord to crash forever. The only fix is to completely reinstall Discord.",
-      "ver": "~156.0"
+      "ver": "156.0 or earlier(?)"
     },
     "AllReplyMention": {
       "text": "Replies without pings will not show up in the notifications center.",
-      "ver": "~148.0"
+      "ver": "Unknown"
     },
     "Catboys": {
       "text": "Plugin will not load at all.",
-      "ver": "~148.0"
+      "ver": "Unknown"
     },
     "Catgirls": {
       "text": "Plugin will not load at all.",
-      "ver": "~148.0"
+      "ver": "Unknown"
     },
     "CopyEmbeds": {
       "text": "The \"Copy Embed\" button inside the message context menu might break other functions.",
-      "ver": "~157.0"
+      "ver": "Unknown"
     },
     "CutMessage": {
       "text": "Cut Message button does not appear in the message context menu.",
-      "ver": "~156.0"
+      "ver": "Unknown"
     },
     "Dislate": {
       "text": "/dislate type:Debug does not open the dedicated Debug Menu.",
