@@ -48,6 +48,10 @@
       "text": "Plugin may cause random crashes. Disabling and re enabling the plugin should fix most issues temporarily. Some experiments can crash Discord as well. This plugin will make your Discord crash infinitely if you encountered a crash. The plugin might prompt you to restart Discord over and over when the plugin is in its disabled state.",
       "ver": "~157.0"
     },
+    "K2geLocker": {
+      "text": "No noticeable issues.\n\nError: Could not fire before patch for type of K2geLocker [TypeError: Cannot set property 'opacity' of undefined]",
+      "ver": "~163.0"
+    },
     "NSFWGateBypass": {
       "text": "Plugin might not bypass NSFW server and channel restrictions.",
       "ver": "~148.0"
