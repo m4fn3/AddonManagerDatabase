@@ -2,11 +2,11 @@
   "plugin": {
     "AccountInfo": {
       "text": "\"View Account Assets\" and \"Copy Account Status\" buttons will not appear.",
-      "ver": "157.0 or below"
+      "ver": "~157.0"
     },
     "AccountSwitcher": {
       "text": "Attempting to switch accounts using this plugin will cause your Discord to crash forever. The only fix is to completely reinstall Discord.",
-      "ver": "157.0 or below"
+      "ver": "~156.0"
     },
     "AllReplyMention": {
       "text": "Replies without pings will not show up in the notifications center.",
