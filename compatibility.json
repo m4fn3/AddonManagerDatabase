@@ -2,7 +2,7 @@
   "plugin": {
     "AccountInfo": {
       "text": "\"View Account Assets\" and \"Copy Account Status\" buttons will not appear.",
-      "ver": "~157.0"
+      "ver": "t 157.0"
     },
     "AccountSwitcher": {
       "text": "Attempting to switch accounts using this plugin will cause your Discord to crash forever. The only fix is to completely reinstall Discord.",
@@ -57,7 +57,7 @@
       "ver": "~157.0"
     },
     "ShowHiddenChannels": {
-      "text": "Enabling and disabling the plugin repeatedly will cause the lock icon shown next to hidden channels duplicate itself. \"Last message sent\" timestamp in hidden channels is not always accurate. Hidden Channels will not be shown in channel list if you are on Discord version 157.0 or below. Hidden channels should be displayed correctly between Discord versions 158.0 to 162.0. Hidden channels' locked page with the \"Last message sent\" timestamp will not be shown in Discord version 163.0.",
+      "text": "Enabling and disabling the plugin repeatedly will cause the lock icon shown next to hidden channels to duplicate itself. \"Last message sent\" timestamp in hidden channels is not always accurate. Hidden Channels will not be shown in channel list if you are on Discord version 157.0 or below. Hidden channels should be displayed correctly between Discord versions 158.0 to 162.0. Hidden channels' locked page with the \"Last message sent\" timestamp will not be shown in Discord version 163.0.",
       "ver": "158.0~162.0"
     },
     "Timestamps": {
