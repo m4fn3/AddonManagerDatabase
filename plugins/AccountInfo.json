@@ -1,0 +1,7 @@
+{
+  "description": "AccountInfo\n\nAdds a section under your profile to allow for grabbing users' Profile Pictures, Banners in PNG or GIF, and also Statuses with optional dedicated buttons.\n\nNotice:\nAs of right now this plugin is broken on Discord versions of 149 and higher.\nIf you are on this version currently, disable or uninstall the plugin until a patch is rolled out.\n\nDownload: https://raw.githubusercontent.com/acquitelol/account-info/main/dist/AccountInfo.js\nSource: https://github.com/acquitelol/account-info/\n\n \n\n(Latest: 1.3.7 stable)",
+  "images": [
+    "https://media.discordapp.net/attachments/1011346757214543875/1020801644381876324/IMG_5902.png"
+  ],
+  "videos": []
+}

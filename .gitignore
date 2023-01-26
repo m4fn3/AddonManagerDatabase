@@ -1,4 +1,4 @@
 .env
 updater.py
-test.py
+updater_v2.py
 requirements.txt

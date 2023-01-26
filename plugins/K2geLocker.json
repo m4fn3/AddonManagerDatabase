@@ -1,0 +1,7 @@
+{
+  "description": "K2geLocker 🔐 \n\nlock the App/Server with passcode!\n ・Set your passcode in plugin setting.\n ・Reload Discord after enabling plugin from setting to properly initialize K2gelocker, or you will face problems.\n App Lock:\n ・Enable app-wide locking in settings.\n Lock Server:\n ・Long press server icon and select \"Lock Server\" to lock the server.\n 　Also you can tap \"Invite\" button and select \"Lock the Server\" or use /lock command to lock the server.\n ・Select server icon, and modal to unlock server will show up.\n\nDownload: https://raw.githubusercontent.com/m4fn3/K2geLocker/master/dist/K2geLocker.js\nSource: https://github.com/m4fn3/K2geLocker\n\n\n\n・Changelogs\n[v1.2.0] Now you can lock entire App with passcode! 🔐 \n[v1.3.0] Added biometric authentication support! (Installing K2genmity is required: https://github.com/m4fn3/K2geLocker/blob/master/K2genmity.md)",
+  "images": [],
+  "videos": [
+    "https://cdn.discordapp.com/attachments/887259186918998046/1056581692804055060/K2geLocker.mp4"
+  ]
+}
