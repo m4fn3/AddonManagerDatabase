@@ -50,7 +50,7 @@
     },
     "K2geLocker": {
       "text": "No noticeable issues.\n\nError: Could not fire before patch for type of K2geLocker [TypeError: Cannot set property 'opacity' of undefined]",
-      "ver": "~163.0"
+      "ver": "Working"
     },
     "NSFWGateBypass": {
       "text": "Plugin might not bypass NSFW server and channel restrictions.",
