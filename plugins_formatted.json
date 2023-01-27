@@ -2,7 +2,7 @@
   "SecretMessage": {
     "url": "https://raw.githubusercontent.com/m4fn3/SecretMessage/master/dist/SecretMessage.js",
     "description": "Send secret message that only your friend can understand.",
-    "version": "1.0.0"
+    "version": "1.0.1"
   },
   "AddonManager": {
     "url": "https://raw.githubusercontent.com/m4fn3/AddonManager/master/dist/AddonManager.js",
