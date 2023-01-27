@@ -6,14 +6,14 @@
     },
     "AccountSwitcher": {
       "text": "Attempting to switch accounts using this plugin will cause your Discord to crash forever. The only fix is to completely reinstall Discord.",
-      "ver": "~156.0(?)"
+      "ver": "~156.0"
     },
     "AddonManager": {
       "text": "Attempting to open the addon manager will cause React to crash.",
       "ver": "~162.0"
     },
     "AssetViewer": {
-      "text": "Attempting to open the asset browser will crash React.",
+      "text": "Attempting to open the asset browser will cause React to crash.",
       "ver": "~162.0"
     },
     "AllReplyMention": {
@@ -50,7 +50,7 @@
     },
     "EmbedFailFixup": {
       "text": "Plugin does not replace media.discordapp.com links with cdn.discordapp.com links.",
-      "ver": "~148.0"
+      "ver": "Unknown"
     },
     "EnableStaging": {
       "text": "- Plugin may cause random crashes. \n- Disabling and re enabling the plugin should fix most issues temporarily. \n- Some experiments can crash Discord as well. \n- This plugin will make your Discord crash infinitely after encountering a crash. \n- The plugin might prompt you to restart Discord over and over when the plugin is in its disabled state.",
@@ -65,15 +65,15 @@
       "ver": "Working"
     },
     "NoDelete": {
-      "text": "Attempting to open the message logs will crash React.",
+      "text": "Attempting to open the message logs will cause React to crash.",
       "ver": "~162.0"
     },
     "NSFWGateBypass": {
       "text": "Plugin might not bypass NSFW server and channel restrictions.",
-      "ver": "~148.0"
+      "ver": "Maybe"
     },
     "Osu": {
-      "text": "Player stats will not be shown after running the slash command.",
+      "text": "Player stats will not show after running the slash command.",
       "ver": "~157.0"
     },
     "SecretMessage": {
@@ -82,7 +82,7 @@
     },
     "ShowAllActivities": {
       "text": "Plugin does not show all activities sometimes. It can also crash Discord when connecting to a Voice Channel",
-      "ver": "~157.0"
+      "ver": "Unknown"
     },
     "ShowHiddenChannels": {
       "text": "- Enabling and disabling the plugin repeatedly will cause the lock icon shown next to hidden channels to duplicate itself. \n- \"Last message sent\" timestamp in hidden channels is not always accurate. \n- Hidden Channels will not be shown in channel list if you are on Discord version 157.0 or below. \n- Hidden channels should be displayed correctly between Discord versions 158.0 to 162.0. \n- Hidden channels' locked page with the \"Last message sent\" timestamp will not be shown in Discord version 163.0.\n\nError: ShowHiddenChannels failed to load second argument \"mdl\" must be of type function or object",
@@ -90,7 +90,7 @@
     },
     "Timestamps": {
       "text": "Plugin does not replace normal timestamps with unix timestamps.",
-      "ver": "~148.0"
+      "ver": "Unknown"
     },
     "Unfurl": {
       "text": "Link will not generate after running the slash command",
