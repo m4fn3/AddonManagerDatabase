@@ -61,7 +61,7 @@
       "ver": "Working"
     },
     "K2geLocker": {
-      "text": "No noticeable issues, but an error is present in console.\n\nError: Could not fire before patch for type of K2geLocker [TypeError: Cannot set property 'opacity' of undefined]",
+      "text": "No noticeable issues, but an error is present in console on 163+.\n\nError: Could not fire before patch for type of K2geLocker [TypeError: Cannot set property 'opacity' of undefined]",
       "ver": "Working"
     },
     "NoDelete": {
