@@ -7,7 +7,7 @@
   "AddonManager": {
     "url": "https://raw.githubusercontent.com/m4fn3/AddonManager/master/dist/AddonManager.js",
     "description": "Manage plugins & themes easily!",
-    "version": "1.1.0"
+    "version": "1.1.1"
   },
   "GlobalBadges": {
     "url": "https://raw.githubusercontent.com/HypedDomi/Enmity-Stuff/main/dist/GlobalBadges.js",
