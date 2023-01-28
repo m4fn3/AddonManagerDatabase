@@ -8,10 +8,6 @@
       "text": "Attempting to switch accounts using this plugin will cause your Discord to crash forever. The only fix is to completely reinstall Discord.",
       "ver": "~156.0"
     },
-    "AddonManager": {
-      "text": "Attempting to open the addon manager will cause React to crash.",
-      "ver": "~162.0"
-    },
     "AssetViewer": {
       "text": "Attempting to open the asset browser will cause React to crash.",
       "ver": "~162.0"
@@ -56,14 +52,6 @@
       "text": "- Plugin may cause random crashes. \n- Disabling and re enabling the plugin should fix most issues temporarily. \n- Some experiments can crash Discord as well. \n- This plugin will make your Discord crash infinitely after encountering a crash. \n- The plugin might prompt you to restart Discord over and over when the plugin is in its disabled state.",
       "ver": "~157.0"
     },
-    "HideGiftButton": {
-      "text": "Hiding the gift button will cause SecretMessage plugin to stop working partially.",
-      "ver": "Working"
-    },
-    "K2geLocker": {
-      "text": "No noticeable issues, but an error is present in console on 163+.\n\nError: Could not fire before patch for type of K2geLocker [TypeError: Cannot set property 'opacity' of undefined]",
-      "ver": "Working"
-    },
     "NoDelete": {
       "text": "Attempting to open the message logs will cause React to crash.",
       "ver": "~162.0"
@@ -75,10 +63,6 @@
     "Osu": {
       "text": "Player stats will not show after running the slash command.",
       "ver": "~157.0"
-    },
-    "SecretMessage": {
-      "text": "Send secret message button will not appear on the chat input context menu if you have HideGiftButton enabled.",
-      "ver": "Working"
     },
     "ShowAllActivities": {
       "text": "Plugin does not show all activities sometimes. It can also crash Discord when connecting to a Voice Channel",
