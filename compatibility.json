@@ -52,6 +52,10 @@
       "text": "- Plugin may cause random crashes. \n- Disabling and re enabling the plugin should fix most issues temporarily. \n- Some experiments can crash Discord as well. \n- This plugin will make your Discord crash infinitely after encountering a crash. \n- The plugin might prompt you to restart Discord over and over when the plugin is in its disabled state.",
       "ver": "~157.0"
     },
+    "FriendInvites": {
+      "text": "Friend link will not create after running the command. Throws an error into console.",
+      "ver": "~163.0"
+    },
     "GlobalBadges": {
       "text": "Disabling or deleting the plugin will crash your Discord.",
       "ver": "Working"
