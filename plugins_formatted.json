@@ -1,4 +1,9 @@
 {
+  "ConfirmCalls": {
+    "url": "https://raw.githubusercontent.com/DebianProgrammer/enmity-plugins/main/ConfirmCalls/dist/ConfirmCalls.js",
+    "description": "Confirm calls so you don't wake up your friend at 3:00 AM",
+    "version": "1.0.0"
+  },
   "SecretMessage": {
     "url": "https://raw.githubusercontent.com/m4fn3/SecretMessage/master/dist/SecretMessage.js",
     "description": "Send secret message that only your friend can understand.",
@@ -153,7 +158,7 @@
     "version": "1.0.2"
   },
   "Dashless": {
-    "url": "https://github.com/ssense1337/enmity-plugins/raw/main/Dashless/dist/Dashless.js",
+    "url": "https://cdn.discordapp.com/attachments/950979198904852481/1010935443245760552/Dashless.js",
     "description": "Changes dashes in text channel names to spaces.",
     "version": "1.0.0"
   },
@@ -286,9 +291,9 @@
     "description": "Enables the ability to use React DevTools when using the developer build of enmity.",
     "version": "1.0.1"
   },
-  "ConfirmCalls": {
-    "url": "https://raw.githubusercontent.com/DebianProgrammer/enmity-plugins/main/ConfirmCalls/dist/ConfirmCalls.js",
-    "description": "Confirm calls so you don't wake up your friend at 3:00 AM",
-    "version": "1.0.0"
+  "BetterStatusIndicator": {
+    "url": "https://raw.githubusercontent.com/m4fn3/PlatformIndicators/master/dist/BetterStatusIndicator.js",
+    "description": "Reveal statuses for every platform user is using",
+    "version": "0.0.4"
   }
 }
