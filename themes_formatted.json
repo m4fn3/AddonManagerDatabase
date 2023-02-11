@@ -68,10 +68,10 @@
     "description": "Tooper is a IDK.",
     "version": "1.0"
   },
-  "Macchiato": {
-    "url": "https://raw.githubusercontent.com/catppuccin/enmity/main/themes/Macchiato.json",
-    "description": "☕️ Catppuccin Macchiato.",
-    "version": "1.6"
+  "Latte": {
+    "url": "https://raw.githubusercontent.com/catppuccin/enmity/main/themes/Latte.json",
+    "description": "☕️ Catppuccin Latte.",
+    "version": "1.5"
   },
   "BetterLight": {
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/BetterLight.json",
@@ -120,8 +120,8 @@
     "description": "Dark Rosie theme!!",
     "version": "1.0"
   },
-  "Pink_iphone": {
-    "url": "https://raw.githubusercontent.com/melonwer/themes/main/Pink_iphone.json",
+  "Pink_ipad": {
+    "url": "https://raw.githubusercontent.com/melonwer/themes/main/Pink_ipad.json",
     "description": "Pink Anime Theme",
     "version": "1.0"
   },
@@ -130,8 +130,8 @@
     "description": "Lines And Lines And Lines theme :)",
     "version": "1.0"
   },
-  "Vamp_iphone": {
-    "url": "https://raw.githubusercontent.com/melonwer/themes/main/Vamp_iphone.json",
+  "Vamp_ipad": {
+    "url": "https://raw.githubusercontent.com/melonwer/themes/main/Vamp_ipad.json",
     "description": "Vamp Anime Girl",
     "version": "1.0"
   },
@@ -148,8 +148,8 @@
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Harmony.json",
     "version": "1.0"
   },
-  "Vergil": {
-    "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Vergil.json",
+  "Yamato": {
+    "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Yamato.json",
     "description": "Motivated one",
     "version": "1.0"
   },
@@ -210,10 +210,10 @@
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/DarkPlus.json",
     "description": "A nice combination of dark grey and purple"
   },
-  "FEFE69": {
-    "url": "https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/FEFE69.json",
-    "description": "Colorful hair, don't care",
-    "version": "69"
+  "FEFE": {
+    "url": "https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/FEFE.json",
+    "description": "Colorful hair, don't care (OLED)",
+    "version": "1.9"
   },
   "Waveout": {
     "url": "https://raw.githubusercontent.com/pwnPwner/Enmity-Themes/main/Waveout.json",
@@ -297,8 +297,8 @@
   "2077": {
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/2077.json"
   },
-  "Strawberry": {
-    "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Strawberry.json",
+  "StrawberryV2": {
+    "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/StrawberryV2.json",
     "version": "1.0"
   },
   "Malina": {
