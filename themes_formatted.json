@@ -68,9 +68,9 @@
     "description": "Tooper is a IDK.",
     "version": "1.0"
   },
-  "Latte": {
-    "url": "https://raw.githubusercontent.com/catppuccin/enmity/main/themes/Latte.json",
-    "description": "☕️ Catppuccin Latte.",
+  "Frappé": {
+    "url": "https://raw.githubusercontent.com/catppuccin/enmity/main/themes/Frappe.json",
+    "description": "☕️ Catppuccin Frappe.",
     "version": "1.5"
   },
   "BetterLight": {
@@ -120,8 +120,8 @@
     "description": "Dark Rosie theme!!",
     "version": "1.0"
   },
-  "Pink_ipad": {
-    "url": "https://raw.githubusercontent.com/melonwer/themes/main/Pink_ipad.json",
+  "Pink_iphone": {
+    "url": "https://raw.githubusercontent.com/melonwer/themes/main/Pink_iphone.json",
     "description": "Pink Anime Theme",
     "version": "1.0"
   },
@@ -148,8 +148,8 @@
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Harmony.json",
     "version": "1.0"
   },
-  "Yamato": {
-    "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Yamato.json",
+  "Vergil": {
+    "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Vergil.json",
     "description": "Motivated one",
     "version": "1.0"
   },
@@ -297,8 +297,8 @@
   "2077": {
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/2077.json"
   },
-  "StrawberryV2": {
-    "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/StrawberryV2.json",
+  "Strawberry": {
+    "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Strawberry.json",
     "version": "1.0"
   },
   "Malina": {
