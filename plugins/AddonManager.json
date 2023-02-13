@@ -1,5 +1,5 @@
 {
-  "description": "AddonManager\n\nPlugin to browse/import/export/update released plugins & themes easily.\n\nUsage : use `/addon` command or open plugin setting page\n\nDownload : https://raw.githubusercontent.com/m4fn3/AddonManager/master/dist/AddonManager.js\nSource : https://github.com/m4fn3/AddonManager\n*I was given permission to release this by eternal, but it is recommend to use built-in updater once that's released (not yet)\n\n・Changelogs\n[v1.0.1] Added auto cloud backup feature! no longer lose installed addons.",
+  "description": "AddonManager\n\nPlugin to browse/import/export/update released plugins & themes easily.\n\nUsage : use `/addon` command or open plugin setting page\n\nDownload : https://raw.githubusercontent.com/m4fn3/AddonManager/master/dist/AddonManager.js\nSource : https://github.com/m4fn3/AddonManager\n*I was given permission to release this by eternal, but it is recommend to use built-in updater once that's released (not yet)\n\n・Changelogs\n[v1.0.1] Added auto cloud backup feature! no longer lose installed addons.\n[v1.1.0] Added Detailed Information page of addons.",
   "images": [],
   "videos": []
 }
