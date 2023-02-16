@@ -1,4 +1,9 @@
 {
+  "BetterStatusIndicator": {
+    "url": "https://raw.githubusercontent.com/m4fn3/BetterStatusIndicator/master/dist/BetterStatusIndicator.js",
+    "description": "Reveal statuses for every platform user is using with customizable color.",
+    "version": "1.0.0"
+  },
   "ConfirmCalls": {
     "url": "https://raw.githubusercontent.com/DebianProgrammer/enmity-plugins/main/ConfirmCalls/dist/ConfirmCalls.js",
     "description": "Confirm calls so you don't wake up your friend at 3:00 AM",
@@ -290,10 +295,5 @@
     "url": "https://raw.githubusercontent.com/xenos1337/enmity-plugins/main/ReactDevTools/dist/ReactDevTools.js",
     "description": "Enables the ability to use React DevTools when using the developer build of enmity.",
     "version": "1.0.1"
-  },
-  "BetterStatusIndicator": {
-    "url": "https://raw.githubusercontent.com/m4fn3/BetterStatusIndicator/master/dist/BetterStatusIndicator.js",
-    "description": "Reveal statuses for every platform user is using with customizable color.",
-    "version": "1.0.0"
   }
 }
