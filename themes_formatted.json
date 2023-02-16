@@ -130,8 +130,8 @@
     "description": "Lines And Lines And Lines theme :)",
     "version": "1.0"
   },
-  "Vamp_ipad": {
-    "url": "https://raw.githubusercontent.com/melonwer/themes/main/Vamp_ipad.json",
+  "Vamp_iphone": {
+    "url": "https://raw.githubusercontent.com/melonwer/themes/main/Vamp_iphone.json",
     "description": "Vamp Anime Girl",
     "version": "1.0"
   },
@@ -148,8 +148,8 @@
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Harmony.json",
     "version": "1.0"
   },
-  "Vergil": {
-    "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Vergil.json",
+  "Yamato": {
+    "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Yamato.json",
     "description": "Motivated one",
     "version": "1.0"
   },
@@ -210,10 +210,10 @@
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/DarkPlus.json",
     "description": "A nice combination of dark grey and purple"
   },
-  "FEFE": {
-    "url": "https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/FEFE.json",
-    "description": "Colorful hair, don't care (OLED)",
-    "version": "1.9"
+  "FEFE69": {
+    "url": "https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/FEFE69.json",
+    "description": "Colorful hair, don't care",
+    "version": "69"
   },
   "Waveout": {
     "url": "https://raw.githubusercontent.com/pwnPwner/Enmity-Themes/main/Waveout.json",
