@@ -295,5 +295,10 @@
     "url": "https://raw.githubusercontent.com/xenos1337/enmity-plugins/main/ReactDevTools/dist/ReactDevTools.js",
     "description": "Enables the ability to use React DevTools when using the developer build of enmity.",
     "version": "1.0.1"
+  },
+  "PronounDB": {
+    "url": "https://raw.githubusercontent.com/acquitelol/enmity-pronoun-db/main/dist/PronounDB.js",
+    "description": "Displays a Pronoun from PronounDB next to your name in the chat :3",
+    "version": "1.2.0"
   }
 }
