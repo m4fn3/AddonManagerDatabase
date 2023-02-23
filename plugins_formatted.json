@@ -1,4 +1,9 @@
 {
+  "PronounDB": {
+    "url": "https://raw.githubusercontent.com/acquitelol/enmity-pronoun-db/main/dist/PronounDB.js",
+    "description": "Displays a Pronoun from PronounDB next to your name in the chat :3",
+    "version": "1.2.0"
+  },
   "BetterStatusIndicator": {
     "url": "https://raw.githubusercontent.com/m4fn3/BetterStatusIndicator/master/dist/BetterStatusIndicator.js",
     "description": "Reveal statuses for every platform user is using with customizable color.",
@@ -295,10 +300,5 @@
     "url": "https://raw.githubusercontent.com/xenos1337/enmity-plugins/main/ReactDevTools/dist/ReactDevTools.js",
     "description": "Enables the ability to use React DevTools when using the developer build of enmity.",
     "version": "1.0.1"
-  },
-  "PronounDB": {
-    "url": "https://raw.githubusercontent.com/acquitelol/enmity-pronoun-db/main/dist/PronounDB.js",
-    "description": "Displays a Pronoun from PronounDB next to your name in the chat :3",
-    "version": "1.2.0"
   }
 }
