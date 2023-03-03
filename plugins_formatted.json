@@ -168,7 +168,7 @@
     "version": "1.0.2"
   },
   "Dashless": {
-    "url": "https://cdn.discordapp.com/attachments/950979198904852481/1010935443245760552/Dashless.js",
+    "url": "https://github.com/ssense1337/enmity-plugins/raw/main/Dashless/dist/Dashless.js",
     "description": "Changes dashes in text channel names to spaces.",
     "version": "1.0.0"
   },
@@ -300,5 +300,10 @@
     "url": "https://raw.githubusercontent.com/xenos1337/enmity-plugins/main/ReactDevTools/dist/ReactDevTools.js",
     "description": "Enables the ability to use React DevTools when using the developer build of enmity.",
     "version": "1.0.1"
+  },
+  "NoBlockedMessage": {
+    "url": "https://raw.githubusercontent.com/m4fn3/NoBlockedMessage/master/dist/NoBlockedMessage.js",
+    "description": "Completely remove blocked messages from your chat view",
+    "version": "1.0.0"
   }
 }
