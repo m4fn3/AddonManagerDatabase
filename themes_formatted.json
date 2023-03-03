@@ -1,4 +1,9 @@
 {
+  "Meowtumn": {
+    "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Meowtumn.json",
+    "description": "meow autumn :3 meow mrrp meow",
+    "version": "1.0"
+  },
   "itachi_one": {
     "url": "https://raw.githubusercontent.com/slick787/itachi_one/main/itachi_one.json",
     "description": "slick's personal theme",
@@ -28,11 +33,6 @@
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Material.json",
     "description": "Theme inspired by Google Material Design"
   },
-  "Festcord": {
-    "url": "https://enmity.frcat.xyz/themes/Spookycord.json",
-    "description": "Give your app the Christmas spirit. 🎄❄",
-    "version": "1.0.0"
-  },
   "Satisfy": {
     "url": "https://cdn.discordapp.com/attachments/1020730781636759562/1034997399967514634/Satisfy.json",
     "description": "A more pink verison of switch. Mixed up the same blue with the pink.",
@@ -47,6 +47,11 @@
     "url": "https://raw.githubusercontent.com/slick787/raven-theme-enmity/main/raven.json",
     "description": "raven from teen titan",
     "version": "1.0.1"
+  },
+  "Joksys": {
+    "url": "https://raw.githubusercontent.com/Joksy/Joksy-Enmity/main/Joksys-Theme-V1/Joksys.json",
+    "description": "Dark blue theme, made by Joksy",
+    "version": "1.0"
   },
   "Eris": {
     "url": "https://raw.githubusercontent.com/Yan-Jobs/enmity/main/themes/eris/Eris.json",
@@ -68,9 +73,9 @@
     "description": "Tooper is a IDK.",
     "version": "1.0"
   },
-  "Frappé": {
-    "url": "https://raw.githubusercontent.com/catppuccin/enmity/main/themes/Frappe.json",
-    "description": "☕️ Catppuccin Frappe.",
+  "Mocha": {
+    "url": "https://raw.githubusercontent.com/catppuccin/enmity/main/themes/Mocha.json",
+    "description": "☕️ Catppuccin Mocha.",
     "version": "1.5"
   },
   "BetterLight": {
@@ -130,8 +135,8 @@
     "description": "Lines And Lines And Lines theme :)",
     "version": "1.0"
   },
-  "Vamp_iphone": {
-    "url": "https://raw.githubusercontent.com/melonwer/themes/main/Vamp_iphone.json",
+  "Vamp_ipad": {
+    "url": "https://raw.githubusercontent.com/melonwer/themes/main/Vamp_ipad.json",
     "description": "Vamp Anime Girl",
     "version": "1.0"
   },
@@ -297,8 +302,8 @@
   "2077": {
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/2077.json"
   },
-  "Strawberry": {
-    "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Strawberry.json",
+  "StrawberryV2": {
+    "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/StrawberryV2.json",
     "version": "1.0"
   },
   "Malina": {
