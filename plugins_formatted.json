@@ -30,7 +30,9 @@
     "version": "1.1.4"
   },
   "Downloader": {
-    "url": "https://github.com/ConnorDoesDev/enmity-plugins/releases/download/Downloader/Downloader.js"
+    "url": "https://github.com/ConnorDoesDev/enmity-plugins/releases/download/Downloader/Downloader.js",
+    "description": "Install plugins or themes by simply pressing a button.",
+    "version": "1.0.1"
   },
   "Stealmoji": {
     "url": "https://github.com/FierysDiscordAddons/Stealmoji/releases/latest/download/Stealmoji.js",
