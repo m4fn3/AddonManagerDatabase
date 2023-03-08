@@ -1,4 +1,9 @@
 {
+  "Blushy": {
+    "url": "https://cdn.discordapp.com/attachments/1082431980609749103/1082432844430856232/Blushy.json",
+    "description": "A pink, lush, and fresh blush.",
+    "version": "1.2"
+  },
   "Meowtumn": {
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Meowtumn.json",
     "description": "meow autumn :3 meow mrrp meow",
@@ -33,16 +38,6 @@
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Material.json",
     "description": "Theme inspired by Google Material Design"
   },
-  "Satisfy": {
-    "url": "https://cdn.discordapp.com/attachments/1020730781636759562/1034997399967514634/Satisfy.json",
-    "description": "A more pink verison of switch. Mixed up the same blue with the pink.",
-    "version": "2.1"
-  },
-  "Switch": {
-    "url": "https://cdn.discordapp.com/attachments/1020730781636759562/1035178952446189622/Switch.json",
-    "description": "Wild theme using pink & light blue with a dark background.",
-    "version": "1.2"
-  },
   "raven": {
     "url": "https://raw.githubusercontent.com/slick787/raven-theme-enmity/main/raven.json",
     "description": "raven from teen titan",
@@ -73,9 +68,9 @@
     "description": "Tooper is a IDK.",
     "version": "1.0"
   },
-  "Mocha": {
-    "url": "https://raw.githubusercontent.com/catppuccin/enmity/main/themes/Mocha.json",
-    "description": "☕️ Catppuccin Mocha.",
+  "Latte": {
+    "url": "https://raw.githubusercontent.com/catppuccin/enmity/main/themes/Latte.json",
+    "description": "☕️ Catppuccin Latte.",
     "version": "1.5"
   },
   "BetterLight": {
@@ -85,11 +80,6 @@
   "Cuddlebot": {
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Cuddlebot.json",
     "description": "Cuddles ;("
-  },
-  "Blushy": {
-    "url": "https://cdn.discordapp.com/attachments/1020730781636759562/1032000901826760824/Blushy.json",
-    "description": "A pink, lush, and fresh blush.",
-    "version": "2.0"
   },
   "Zelk": {
     "url": "https://raw.githubusercontent.com/compilekaiten/Enmity-Themes/main/Zelk/Zelk.json",
@@ -125,8 +115,8 @@
     "description": "Dark Rosie theme!!",
     "version": "1.0"
   },
-  "Pink_iphone": {
-    "url": "https://raw.githubusercontent.com/melonwer/themes/main/Pink_iphone.json",
+  "Pink_ipad": {
+    "url": "https://raw.githubusercontent.com/melonwer/themes/main/Pink_ipad.json",
     "description": "Pink Anime Theme",
     "version": "1.0"
   },
@@ -135,8 +125,8 @@
     "description": "Lines And Lines And Lines theme :)",
     "version": "1.0"
   },
-  "Vamp_ipad": {
-    "url": "https://raw.githubusercontent.com/melonwer/themes/main/Vamp_ipad.json",
+  "Vamp_iphone": {
+    "url": "https://raw.githubusercontent.com/melonwer/themes/main/Vamp_iphone.json",
     "description": "Vamp Anime Girl",
     "version": "1.0"
   },
