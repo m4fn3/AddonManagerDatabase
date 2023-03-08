@@ -1,4 +1,9 @@
 {
+  "ReviewDB": {
+    "url": "https://raw.githubusercontent.com/spinfal/enmity-plugins/master/dist/ReviewDB.js",
+    "description": "Review other users. These reviews are visible to anyone with this type of plugin on any platform.",
+    "version": "1.7.9"
+  },
   "PronounDB": {
     "url": "https://raw.githubusercontent.com/acquitelol/enmity-pronoun-db/main/dist/PronounDB.js",
     "description": "Displays a Pronoun from PronounDB next to your name in the chat :3",
@@ -306,9 +311,9 @@
     "description": "Completely remove blocked messages from your chat view",
     "version": "1.0.0"
   },
-  "ReviewDB": {
-    "url": "https://raw.githubusercontent.com/spinfal/enmity-plugins/master/dist/ReviewDB.js",
-    "description": "Review other users. These reviews are visible to anyone with this type of plugin on any platform.",
-    "version": "1.7.9"
+  "ConfirmActions": {
+    "url": "https://raw.githubusercontent.com/m4fn3/ConfirmActions/master/dist/ConfirmActions.js",
+    "description": "Prevent you from accidentally doing what you didn't expected to do",
+    "version": "1.0.1"
   }
 }
