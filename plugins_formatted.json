@@ -2,7 +2,7 @@
   "ReviewDB": {
     "url": "https://raw.githubusercontent.com/spinfal/enmity-plugins/master/dist/ReviewDB.js",
     "description": "Review other users. These reviews are visible to anyone with this type of plugin on any platform.",
-    "version": "1.7.9"
+    "version": "1.8.0"
   },
   "PronounDB": {
     "url": "https://raw.githubusercontent.com/acquitelol/enmity-pronoun-db/main/dist/PronounDB.js",
@@ -67,7 +67,7 @@
   "NoDelete": {
     "url": "https://raw.githubusercontent.com/spinfal/enmity-plugins/master/dist/NoDelete.js",
     "description": "Somewhat basic \"Message Logger\"",
-    "version": "3.5.13"
+    "version": "3.5.14"
   },
   "CustomSlowmode": {
     "url": "https://raw.githubusercontent.com/spinfal/enmity-plugins/master/dist/CustomSlowmode.js",
