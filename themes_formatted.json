@@ -416,5 +416,10 @@
     "url": "https://raw.githubusercontent.com/discord-modifications/enmity-addons/main/Themes/AMOLED.json",
     "description": "A mostly pitch black theme with exceptions such as buttons being a bit lighter for convenience.",
     "version": "1.0.0"
+  },
+  "RedVoid": {
+    "url": "https://raw.githubusercontent.com/ozziebeanie/EnmityTheme/Version-1.1/RedVoid.json",
+    "description": "RedVoid is a theme that changes you discord to a darker mode. Main colors are Red and Black.",
+    "version": "1.1"
   }
 }
