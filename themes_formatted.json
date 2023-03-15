@@ -401,5 +401,10 @@
     "url": "https://raw.githubusercontent.com/discord-modifications/enmity-addons/main/Themes/AMOLED.json",
     "description": "A mostly pitch black theme with exceptions such as buttons being a bit lighter for convenience.",
     "version": "1.0.0"
+  },
+  "Primrose": {
+    "url": "https://cdn.discordapp.com/attachments/1075413927862747178/1085384384749781054/Primrose.json",
+    "description": "Red, black, and gray theme",
+    "version": "1.0"
   }
 }
