@@ -436,5 +436,10 @@
     "url": "https://raw.githubusercontent.com/discord-modifications/enmity-addons/main/Themes/AMOLED.json",
     "description": "A mostly pitch black theme with exceptions such as buttons being a bit lighter for convenience.",
     "version": "1.0.0"
+  },
+  "Midnight": {
+    "url": "https://raw.githubusercontent.com/VodkaXMartini/EnmityTheme/main/Midnight.json",
+    "description": "Original theme made by refact0r for Better Discord, ported to RN by Vodka Martini",
+    "version": "1.0"
   }
 }
