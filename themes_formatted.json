@@ -441,5 +441,10 @@
     "url": "https://raw.githubusercontent.com/VodkaXMartini/EnmityTheme/main/Midnight.json",
     "description": "Original theme made by refact0r for Better Discord, ported to RN by Vodka Martini",
     "version": "1.0"
+  },
+  "BubblegumBliss": {
+    "url": "https://raw.githubusercontent.com/RyFol/BubblegumBliss/main/BubblegumBliss.json",
+    "description": "Bubblegum Bliss theme for Enmity",
+    "version": "1.0.0"
   }
 }
