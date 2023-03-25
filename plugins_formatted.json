@@ -1,4 +1,9 @@
 {
+  "ThemeFixer": {
+    "url": "https://raw.githubusercontent.com/amsyarasyiq/enmity-theme-fixer/main/dist/ThemeFixer.js",
+    "description": "Workaround for light/AMOLED theme bug introduced by Enmity.",
+    "version": "1.0.0"
+  },
   "ReviewDB": {
     "url": "https://raw.githubusercontent.com/spinfal/enmity-plugins/master/dist/ReviewDB.js",
     "description": "(DEPRECATED VERSION) Review other users. These reviews are visible to anyone with this type of plugin on any platform.",
@@ -173,7 +178,7 @@
     "version": "1.0.2"
   },
   "Dashless": {
-    "url": "https://cdn.discordapp.com/attachments/950979198904852481/1010935443245760552/Dashless.js",
+    "url": "https://github.com/ssense1337/enmity-plugins/raw/main/Dashless/dist/Dashless.js",
     "description": "Changes dashes in text channel names to spaces.",
     "version": "1.0.0"
   },
@@ -314,6 +319,16 @@
   "ConfirmActions": {
     "url": "https://raw.githubusercontent.com/m4fn3/ConfirmActions/master/dist/ConfirmActions.js",
     "description": "Prevent you from accidentally doing what you didn't expected to do",
+    "version": "1.0.1"
+  },
+  "MarkAllAsRead": {
+    "url": "https://raw.githubusercontent.com/m4fn3/MarkAllAsRead/master/dist/MarkAllAsRead.js",
+    "description": "mark all messages as read",
+    "version": "1.0.0"
+  },
+  "LocalPin": {
+    "url": "https://raw.githubusercontent.com/m4fn3/LocalPin/master/dist/LocalPin.js",
+    "description": "Pin messages locally",
     "version": "1.0.1"
   }
 }

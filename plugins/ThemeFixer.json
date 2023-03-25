@@ -1,0 +1,5 @@
+{
+  "description": "ThemeFixer\n\nThis plugin introduces a workaround for Discord's theme bug in Enmity (light theme/AMOLED bug). It applies your theme settings on each startup.\n\nDownload: https://raw.githubusercontent.com/amsyarasyiq/enmity-theme-fixer/main/dist/ThemeFixer.js\nSource: https://github.com/amsyarasyiq/enmity-theme-fixer",
+  "images": [],
+  "videos": []
+}
