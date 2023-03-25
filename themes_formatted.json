@@ -1,4 +1,28 @@
 {
+  "PurpleKitty": {
+    "url": "https://raw.githubusercontent.com/VodkaXMartini/EnmityTheme/main/PurpleKitty.json",
+    "description": "A theme made by Vodka Martini"
+  },
+  "BubblegumBliss": {
+    "url": "https://raw.githubusercontent.com/RyFol/BubblegumBliss/main/BubblegumBliss.json",
+    "description": "Bubblegum Bliss theme for Enmity",
+    "version": "1.0.0"
+  },
+  "PeekingKittyPastel": {
+    "url": "https://raw.githubusercontent.com/VodkaXMartini/EnmityTheme/main/PeekingKittyPastel.json",
+    "description": "A theme made by Vodka Martini",
+    "version": "1.0"
+  },
+  "RosiePink170": {
+    "url": "https://cdn.discordapp.com/attachments/1011346757214543875/1087040810761081052/RosiePink170.json",
+    "description": "Rosie v2 but wayy more pink :333",
+    "version": "2.0"
+  },
+  "Midnight": {
+    "url": "https://raw.githubusercontent.com/VodkaXMartini/EnmityTheme/main/Midnight.json",
+    "description": "Original theme made by refact0r for Better Discord, ported to RN by Vodka Martini",
+    "version": "1.0"
+  },
   "BlacknBlue": {
     "url": "https://github.com/RyFol/Black-n-Blue-Enmity-Theme/releases/download/Enmity/BlacknBlue.json",
     "description": "A Black theme with blue accents ",
@@ -18,10 +42,6 @@
     "url": "https://raw.githubusercontent.com/VodkaXMartini/EnmityTheme/main/BetterDefault.json",
     "description": "Original theme made by xRqz3r for AliucordKT, ported to RN by Vodka Martini",
     "version": "1.0"
-  },
-  "RedVoid": {
-    "url": "https://raw.githubusercontent.com/ozziebeanie/EnmityTheme/Version-1.1/RedVoid.json",
-    "description": "A black theme splashed with red and blue"
   },
   "EmeraldPeppermint": {
     "url": "https://raw.githubusercontent.com/VodkaXMartini/EnmityTheme/main/EmeraldPeppermint.json",
@@ -82,6 +102,11 @@
     "description": "raven from teen titan",
     "version": "1.0.1"
   },
+  "Joksys": {
+    "url": "https://raw.githubusercontent.com/Joksy/Joksy-Enmity/main/Joksys-Theme-V1/Joksys.json",
+    "description": "Dark blue theme, made by Joksy",
+    "version": "1.0"
+  },
   "Eris": {
     "url": "https://raw.githubusercontent.com/Yan-Jobs/enmity/main/themes/eris/Eris.json",
     "description": "Black, classic Discord theme... now on Enmity",
@@ -92,9 +117,9 @@
     "description": "Popular Better discord theme",
     "version": "1.0"
   },
-  "SpotifyDiscord": {
-    "url": "https://cdn.discordapp.com/attachments/1017854329887129611/1038879489335238796/SpotifyDiscord.json",
-    "description": "Spotify Theme:3",
+  "SpotifyDiscordAlt": {
+    "url": "https://cdn.discordapp.com/attachments/1017854329887129611/1038879642465075220/SpotifyDiscordAlt.json",
+    "description": "Spotify Theme Alternative:3",
     "version": "1.0"
   },
   "Tooper": {
@@ -102,10 +127,10 @@
     "description": "Tooper is a IDK.",
     "version": "1.0"
   },
-  "Macchiato": {
-    "url": "https://raw.githubusercontent.com/catppuccin/enmity/main/themes/Macchiato.json",
-    "description": "☕️ Catppuccin Macchiato.",
-    "version": "1.6"
+  "Mocha": {
+    "url": "https://raw.githubusercontent.com/catppuccin/enmity/main/themes/Mocha.json",
+    "description": "☕️ Catppuccin Mocha.",
+    "version": "1.5"
   },
   "BetterLight": {
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/BetterLight.json",
@@ -149,8 +174,8 @@
     "description": "Dark Rosie theme!!",
     "version": "1.0"
   },
-  "Pink_iphone": {
-    "url": "https://raw.githubusercontent.com/melonwer/themes/main/Pink_iphone.json",
+  "Pink_ipad": {
+    "url": "https://raw.githubusercontent.com/melonwer/themes/main/Pink_ipad.json",
     "description": "Pink Anime Theme",
     "version": "1.0"
   },
@@ -326,8 +351,8 @@
   "2077": {
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/2077.json"
   },
-  "StrawberryV2": {
-    "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/StrawberryV2.json",
+  "Strawberry": {
+    "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Strawberry.json",
     "version": "1.0"
   },
   "Malina": {
@@ -434,16 +459,6 @@
   "AMOLED": {
     "url": "https://raw.githubusercontent.com/discord-modifications/enmity-addons/main/Themes/AMOLED.json",
     "description": "A mostly pitch black theme with exceptions such as buttons being a bit lighter for convenience.",
-    "version": "1.0.0"
-  },
-  "Midnight": {
-    "url": "https://raw.githubusercontent.com/VodkaXMartini/EnmityTheme/main/Midnight.json",
-    "description": "Original theme made by refact0r for Better Discord, ported to RN by Vodka Martini",
-    "version": "1.0"
-  },
-  "BubblegumBliss": {
-    "url": "https://raw.githubusercontent.com/RyFol/BubblegumBliss/main/BubblegumBliss.json",
-    "description": "Bubblegum Bliss theme for Enmity",
     "version": "1.0.0"
   }
 }
