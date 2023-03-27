@@ -1,4 +1,9 @@
 {
+  "RedLove": {
+    "url": "https://github.com/RyFol/RedLove/releases/download/Enmity/RedLove.json",
+    "description": "A hearty theme primarily red with white accents ",
+    "version": "1.0.0"
+  },
   "PurpleKitty": {
     "url": "https://raw.githubusercontent.com/VodkaXMartini/EnmityTheme/main/PurpleKitty.json",
     "description": "A theme made by Vodka Martini"
@@ -459,11 +464,6 @@
   "AMOLED": {
     "url": "https://raw.githubusercontent.com/discord-modifications/enmity-addons/main/Themes/AMOLED.json",
     "description": "A mostly pitch black theme with exceptions such as buttons being a bit lighter for convenience.",
-    "version": "1.0.0"
-  },
-  "RedLove": {
-    "url": "https://github.com/RyFol/RedLove/releases/download/Enmity/RedLove.json",
-    "description": "A hearty theme primarily red with white accents ",
     "version": "1.0.0"
   }
 }
