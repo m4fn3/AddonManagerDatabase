@@ -99,6 +99,11 @@
     "description": "Convert TikTok links to vm.dstn.to links so the TikTok embed is better and can be played.",
     "version": "1.2.6"
   },
+  "CopyEmbeds": {
+    "url": "https://github.com/SirTenzin/enmity-copy-embed/releases/latest/download/CopyEmbeds.js",
+    "description": "Copy the content of an embed.",
+    "version": "1.3.0"
+  },
   "GetThatRory": {
     "url": "https://niko.earth/rawgh/EnPlugins/main/GetThatRory/Release/GetThatRory.js",
     "description": "Get some cute rory pics",
