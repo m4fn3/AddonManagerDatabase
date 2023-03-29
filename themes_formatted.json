@@ -1,4 +1,14 @@
 {
+  "DawnSpace": {
+    "url": "https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/DawnSpace.json",
+    "description": "A more blue space theme.",
+    "version": "1.2"
+  },
+  "KuromiiPad": {
+    "url": "https://raw.githubusercontent.com/YuhMuva/Kuromii/main/KuromiiPad.json",
+    "description": "Kuromi iPad Theme (For Femboys)",
+    "version": "1"
+  },
   "RedLove": {
     "url": "https://github.com/RyFol/RedLove/releases/download/Enmity/RedLove.json",
     "description": "A hearty theme primarily red with white accents ",
