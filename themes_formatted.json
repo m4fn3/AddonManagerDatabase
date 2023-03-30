@@ -475,5 +475,10 @@
     "url": "https://raw.githubusercontent.com/discord-modifications/enmity-addons/main/Themes/AMOLED.json",
     "description": "A mostly pitch black theme with exceptions such as buttons being a bit lighter for convenience.",
     "version": "1.0.0"
+  },
+  "Cerulean": {
+    "url": "https://github.com/RyFol/Cerulean/releases/download/Enmity/Cerulean.json",
+    "description": "For 173+ | A Teal theme with a splash of pink highlights ",
+    "version": "1.0.0"
   }
 }
