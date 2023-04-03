@@ -12,7 +12,7 @@
   "PronounDB": {
     "url": "https://raw.githubusercontent.com/acquitelol/enmity-pronoun-db/main/dist/PronounDB.js",
     "description": "Displays a Pronoun from PronounDB next to your name in the chat :3",
-    "version": "1.2.0"
+    "version": "1.2.1"
   },
   "BetterStatusIndicator": {
     "url": "https://raw.githubusercontent.com/m4fn3/BetterStatusIndicator/master/dist/BetterStatusIndicator.js",
