@@ -6,7 +6,7 @@
   },
   "ReviewDB": {
     "url": "https://raw.githubusercontent.com/spinfal/enmity-plugins/master/dist/ReviewDB.js",
-    "description": "(DEPRECATED VERSION) Review other users. These reviews are visible to anyone with this type of plugin on any platform.",
+    "description": "Review other users. These reviews are visible to anyone with this type of plugin on any platform.",
     "version": "1.8.1"
   },
   "PronounDB": {
