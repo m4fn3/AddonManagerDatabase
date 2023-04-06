@@ -7,7 +7,7 @@
   "ReviewDB": {
     "url": "https://raw.githubusercontent.com/spinfal/enmity-plugins/master/dist/ReviewDB.js",
     "description": "Review other users. These reviews are visible to anyone with this type of plugin on any platform.",
-    "version": "1.8.1"
+    "version": "1.8.0"
   },
   "PronounDB": {
     "url": "https://raw.githubusercontent.com/acquitelol/enmity-pronoun-db/main/dist/PronounDB.js",
@@ -82,7 +82,7 @@
   "FriendInvites": {
     "url": "https://raw.githubusercontent.com/spinfal/enmity-plugins/master/dist/FriendInvites.js",
     "description": "Easily create a Discord friend invite link to make it easier for users to add you as a friend",
-    "version": "1.2.6"
+    "version": "1.3.6"
   },
   "ReplaceTimestamps": {
     "url": "https://raw.githubusercontent.com/HypedDomi/Enmity-Stuff/main/dist/ReplaceTimestamps.js",
