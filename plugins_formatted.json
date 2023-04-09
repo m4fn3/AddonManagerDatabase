@@ -30,7 +30,9 @@
     "version": "1.0.2"
   },
   "AddonManager": {
-    "url": "https://raw.githubusercontent.com/m4fn3/AddonManager/master/dist/AddonManager.js"
+    "url": "https://raw.githubusercontent.com/m4fn3/AddonManager/master/dist/AddonManager.js",
+    "description": "Manage plugins & themes easily!",
+    "version": "1.1.2"
   },
   "GlobalBadges": {
     "url": "https://raw.githubusercontent.com/HypedDomi/Enmity-Stuff/main/dist/GlobalBadges.js",
@@ -68,7 +70,9 @@
     "version": "1.1.0"
   },
   "NoDelete": {
-    "url": "https://raw.githubusercontent.com/spinfal/enmity-plugins/master/dist/NoDelete.js"
+    "url": "https://raw.githubusercontent.com/spinfal/enmity-plugins/master/dist/NoDelete.js",
+    "description": "Somewhat basic \"Message Logger\"",
+    "version": "3.5.15"
   },
   "CustomSlowmode": {
     "url": "https://raw.githubusercontent.com/spinfal/enmity-plugins/master/dist/CustomSlowmode.js",
@@ -76,10 +80,14 @@
     "version": "1.0.0"
   },
   "FriendInvites": {
-    "url": "https://raw.githubusercontent.com/spinfal/enmity-plugins/master/dist/FriendInvites.js"
+    "url": "https://raw.githubusercontent.com/spinfal/enmity-plugins/master/dist/FriendInvites.js",
+    "description": "Easily create a Discord friend invite link to make it easier for users to add you as a friend",
+    "version": "1.3.6"
   },
   "ReplaceTimestamps": {
-    "url": "https://raw.githubusercontent.com/HypedDomi/Enmity-Stuff/main/dist/ReplaceTimestamps.js"
+    "url": "https://raw.githubusercontent.com/HypedDomi/Enmity-Stuff/main/dist/ReplaceTimestamps.js",
+    "description": "Replaces plaintext 24 hour timestamps into Discord's timestamps",
+    "version": "1.1.8"
   },
   "PetPet": {
     "url": "https://raw.githubusercontent.com/spinfal/enmity-plugins/master/dist/PetPet.js",
@@ -120,10 +128,14 @@
     "url": "https://plugins.panties.moe/plugins/SilentTyping.js"
   },
   "Dislate": {
-    "url": "https://raw.githubusercontent.com/acquitelol/dislate/main/dist/Dislate.js"
+    "url": "https://raw.githubusercontent.com/acquitelol/dislate/main/dist/Dislate.js",
+    "description": "Translates text into a desired language.",
+    "version": "1.4.0"
   },
   "CutMessage": {
-    "url": "https://raw.githubusercontent.com/jqms/enmity-plugins/main/Cut/dist/CutMessage.js"
+    "url": "https://raw.githubusercontent.com/jqms/enmity-plugins/main/Cut/dist/CutMessage.js",
+    "description": "Copy & Delete (thanks to acquite for being gaming lol)",
+    "version": "1.2.3"
   },
   "CustomDiscordLink": {
     "url": "https://raw.githubusercontent.com/jqms/enmity-plugins/main/ChangeDiscordLink/dist/CustomDiscordLink.js",
@@ -161,7 +173,9 @@
     "version": "1.0.3"
   },
   "ShowAllActivities": {
-    "url": "https://github.com/ssense1337/enmity-plugins/raw/main/ShowAllActivities/dist/ShowAllActivities.js"
+    "url": "https://github.com/ssense1337/enmity-plugins/raw/main/ShowAllActivities/dist/ShowAllActivities.js",
+    "description": "See every status a user has enabled.",
+    "version": "1.0.2"
   },
   "Dashless": {
     "url": "https://github.com/ssense1337/enmity-plugins/raw/main/Dashless/dist/Dashless.js",
@@ -174,7 +188,9 @@
     "version": "1.1.0"
   },
   "CopyRoleColors": {
-    "url": "https://raw.githubusercontent.com/attic0001/enmityaddons/main/Plugins/CopyRoleColors/dist/CopyRoleColors.js"
+    "url": "https://raw.githubusercontent.com/attic0001/enmityaddons/main/Plugins/CopyRoleColors/dist/CopyRoleColors.js",
+    "description": "Adds option to copy role color in the User Profile context menu.",
+    "version": "1.0.0"
   },
   "GithubStats": {
     "url": "https://raw.githubusercontent.com/attic0001/enmityaddons/main/Plugins/GithubStats/dist/GithubStats.js",
@@ -202,7 +218,9 @@
     "version": "1.0.0"
   },
   "SplitMessages": {
-    "url": "https://raw.githubusercontent.com/discord-modifications/enmity-addons/main/Plugins/SplitMessages/dist/SplitMessages.js"
+    "url": "https://raw.githubusercontent.com/discord-modifications/enmity-addons/main/Plugins/SplitMessages/dist/SplitMessages.js",
+    "description": "Splits messages over the message length limit into multiple.",
+    "version": "1.0.0"
   },
   "EmbedFailFixup": {
     "url": "https://github.com/FierysDiscordAddons/EmbedFailFixup/releases/download/v1.0.0/EmbedFailFixup.js",
@@ -299,12 +317,18 @@
     "version": "1.0.0"
   },
   "ConfirmActions": {
-    "url": "https://raw.githubusercontent.com/m4fn3/ConfirmActions/master/dist/ConfirmActions.js"
+    "url": "https://raw.githubusercontent.com/m4fn3/ConfirmActions/master/dist/ConfirmActions.js",
+    "description": "Prevent you from accidentally doing what you didn't expected to do",
+    "version": "1.0.1"
   },
   "MarkAllAsRead": {
-    "url": "https://raw.githubusercontent.com/m4fn3/MarkAllAsRead/master/dist/MarkAllAsRead.js"
+    "url": "https://raw.githubusercontent.com/m4fn3/MarkAllAsRead/master/dist/MarkAllAsRead.js",
+    "description": "mark all messages as read",
+    "version": "1.0.0"
   },
   "LocalPin": {
-    "url": "https://raw.githubusercontent.com/m4fn3/LocalPin/master/dist/LocalPin.js"
+    "url": "https://raw.githubusercontent.com/m4fn3/LocalPin/master/dist/LocalPin.js",
+    "description": "Pin messages locally",
+    "version": "1.0.1"
   }
 }
