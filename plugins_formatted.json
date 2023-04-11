@@ -130,7 +130,7 @@
   "Dislate": {
     "url": "https://raw.githubusercontent.com/acquitelol/dislate/main/dist/Dislate.js",
     "description": "Translates text into a desired language.",
-    "version": "1.4.0"
+    "version": "1.4.1"
   },
   "CutMessage": {
     "url": "https://raw.githubusercontent.com/jqms/enmity-plugins/main/Cut/dist/CutMessage.js",
