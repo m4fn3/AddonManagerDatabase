@@ -254,7 +254,7 @@
   },
   "PictureLink": {
     "url": "https://raw.githubusercontent.com/discord-modifications/enmity-addons/main/Plugins/PictureLink/dist/PictureLink.js",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Allows you to click avatars and banners to open them in-app."
   },
   "NSFWGateBypass": {
