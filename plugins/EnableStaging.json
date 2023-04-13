@@ -1,5 +1,5 @@
 {
-  "description": "EnableStaging\n\nEnables experiments on discord (143+)\n\nDownload: https://raw.githubusercontent.com/6days9weeks/EnableStaging/mistress/dist/EnableStaging.js\nSource: https://github.com/6days9weeks/EnableStaging/blob/mistress/src/index.ts",
+  "description": "EnableStaging\n\nThis plugin is identical to <@696828906191454221>'s EnableStaging, except it adds a failsafe to prevent crashes. This plugin (should) never cause crashes anymore. Please note that if the current user takes too long to initialize you may have your TabsV2/AMOLED disabled and will need to re-enable it.\n\nDownload: https://raw.githubusercontent.com/acquitelol/EnableStaging/mistress/dist/EnableStaging.js\nSource: https://github.com/acquitelol/EnableStaging/tree/mistress",
   "images": [],
   "videos": []
 }

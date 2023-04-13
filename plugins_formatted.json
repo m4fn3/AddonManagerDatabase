@@ -120,9 +120,9 @@
     "version": "1.0.1"
   },
   "EnableStaging": {
-    "url": "https://raw.githubusercontent.com/6days9weeks/EnableStaging/mistress/dist/EnableStaging.js",
-    "description": "Bypasses experiment gate. Fuck you aj.",
-    "version": "3.0.0"
+    "url": "https://raw.githubusercontent.com/acquitelol/EnableStaging/mistress/dist/EnableStaging.js",
+    "version": "3.0.1",
+    "description": "Bypasses experiment gate. Fuck you aj."
   },
   "SilentTyping": {
     "url": "https://plugins.panties.moe/plugins/SilentTyping.js"
