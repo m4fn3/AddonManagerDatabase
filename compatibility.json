@@ -5,11 +5,11 @@
       "ver": "~157.0"
     },
     "AccountSwitcher": {
-      "text": "Attempting to switch accounts using this plugin may cause your Discord to crash forever. The only fix is to completely reinstall Discord.",
+      "text": "Attempting to switch accounts using this plugin may cause your Discord to crash forever. The only fix is to completely reinstall Discord.\n\nAlternatively you can install fixed version that works on 157+:\nhttps://cdn.discordapp.com/attachments/950850316318933004/1093294947291111434/AccountSwitcher.js",
       "ver": "~156.0"
     },
     "AssetViewer": {
-      "text": "Attempting to open the asset browser will cause React to crash.",
+      "text": "Attempting to open the asset browser will cause React to crash.\n\nAlternatively you can install fixed version that works on 164+:\nhttps://raw.githubusercontent.com/m4fn3/enmity-asset-viewer/master/dist/AssetViewer.js",
       "ver": "~162.0"
     },
     "AllReplyMention": {
@@ -48,10 +48,6 @@
       "text": "Plugin does not replace media.discordapp.com links with cdn.discordapp.com links.",
       "ver": "Unknown"
     },
-    "EnableStaging": {
-      "text": "- Plugin may cause random crashes. \n- Disabling and re enabling the plugin should fix most issues temporarily. \n- Some experiments can crash Discord as well. \n- This plugin will make your Discord crash infinitely after encountering a crash. \n- The plugin might prompt you to restart Discord over and over when the plugin is in its disabled state.",
-      "ver": "~157.0"
-    },
     "FriendInvites": {
       "text": "Friend link will not create after running the command. Throws an error into console.",
       "ver": "~163.0"
@@ -77,7 +73,7 @@
       "ver": "Unknown"
     },
     "ShowHiddenChannels": {
-      "text": "- Enabling and disabling the plugin repeatedly will cause the lock icon shown next to hidden channels to duplicate itself. \n- \"Last message sent\" timestamp in hidden channels is not always accurate. \n- Hidden Channels will not be shown in channel list if you are on Discord version 157.0 or below. \n- Hidden channels should be displayed correctly between Discord versions 158.0 to 162.0. \n- Hidden channels' locked page with the \"Last message sent\" timestamp will not be shown in Discord version 163.0.\n\nError: ShowHiddenChannels failed to load second argument \"mdl\" must be of type function or object",
+      "text": "- Enabling and disabling the plugin repeatedly will cause the lock icon shown next to hidden channels to duplicate itself. \n- \"Last message sent\" timestamp in hidden channels is not always accurate. \n- Hidden Channels will not be shown in channel list if you are on Discord version 157.0 or below. \n- Hidden channels should be displayed correctly between Discord versions 158.0 to 162.0. \n- Hidden channels' locked page with the \"Last message sent\" timestamp will not be shown in Discord version 163.0.\n\nAlternatively you can install fixed version that works on 163+:\nhttps://raw.githubusercontent.com/m4fn3/eternal-enmity-addons/main/Plugins/ShowHiddenChannels/dist/ShowHiddenChannels.js",
       "ver": "158.0~162.0"
     },
     "Timestamps": {
