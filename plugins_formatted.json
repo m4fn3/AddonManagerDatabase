@@ -1,4 +1,9 @@
 {
+  "EnableStaging": {
+    "url": "https://raw.githubusercontent.com/acquitelol/EnableStaging/mistress/dist/EnableStaging.js",
+    "version": "3.0.1",
+    "description": "Bypasses experiment gate. Fuck you aj."
+  },
   "ThemeFixer": {
     "url": "https://raw.githubusercontent.com/amsyarasyiq/enmity-theme-fixer/main/dist/ThemeFixer.js",
     "description": "Workaround for light/AMOLED theme bug introduced by Enmity.",
@@ -118,11 +123,6 @@
     "url": "https://github.com/ssense1337/enmity-plugins/raw/main/HideGiftButton/dist/HideGiftButton.js",
     "description": "Hide the gift button in Chat Input.",
     "version": "1.0.1"
-  },
-  "EnableStaging": {
-    "url": "https://raw.githubusercontent.com/acquitelol/EnableStaging/mistress/dist/EnableStaging.js",
-    "version": "3.0.1",
-    "description": "Bypasses experiment gate. Fuck you aj."
   },
   "SilentTyping": {
     "url": "https://plugins.panties.moe/plugins/SilentTyping.js"
