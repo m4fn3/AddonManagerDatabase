@@ -4,10 +4,6 @@
     "description": "For 173+ | A Teal theme with a splash of pink highlights ",
     "version": "1.0.0"
   },
-  "Midnight-Espresso": {
-    "url": "https://raw.githubusercontent.com/VodkaXMartini/VendettaTheme/main/Midnight-Espresso.json",
-    "description": "Original theme made by kanned (karto) for AliucordKT, ported to Vendetta by Vodka Martini"
-  },
   "LavenderHeaven": {
     "url": "https://raw.githubusercontent.com/VodkaXMartini/EnmityTheme/main/LavenderHeaven.json",
     "description": "A purply theme made by Vodka Martini",
@@ -141,9 +137,9 @@
     "description": "Popular Better discord theme",
     "version": "1.0"
   },
-  "SpotifyDiscordAlt": {
-    "url": "https://cdn.discordapp.com/attachments/1017854329887129611/1038879642465075220/SpotifyDiscordAlt.json",
-    "description": "Spotify Theme Alternative:3",
+  "SpotifyDiscord": {
+    "url": "https://cdn.discordapp.com/attachments/1017854329887129611/1038879489335238796/SpotifyDiscord.json",
+    "description": "Spotify Theme:3",
     "version": "1.0"
   },
   "Tooper": {
@@ -151,9 +147,9 @@
     "description": "Tooper is a IDK.",
     "version": "1.0"
   },
-  "Mocha": {
-    "url": "https://raw.githubusercontent.com/catppuccin/enmity/main/themes/Mocha.json",
-    "description": "☕️ Catppuccin Mocha.",
+  "Frappé": {
+    "url": "https://raw.githubusercontent.com/catppuccin/enmity/main/themes/Frappe.json",
+    "description": "☕️ Catppuccin Frappe.",
     "version": "1.7"
   },
   "Cuddlebot": {
@@ -194,8 +190,8 @@
     "description": "Dark Rosie theme!!",
     "version": "1.0"
   },
-  "Pink_ipad": {
-    "url": "https://raw.githubusercontent.com/melonwer/themes/main/Pink_ipad.json",
+  "Pink_iphone": {
+    "url": "https://raw.githubusercontent.com/melonwer/themes/main/Pink_iphone.json",
     "description": "Pink Anime Theme",
     "version": "1.0"
   },
@@ -204,8 +200,8 @@
     "description": "Lines And Lines And Lines theme :)",
     "version": "1.0"
   },
-  "Vamp_ipad": {
-    "url": "https://raw.githubusercontent.com/melonwer/themes/main/Vamp_ipad.json",
+  "Vamp_iphone": {
+    "url": "https://raw.githubusercontent.com/melonwer/themes/main/Vamp_iphone.json",
     "description": "Vamp Anime Girl",
     "version": "1.0"
   },
@@ -222,8 +218,8 @@
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Harmony.json",
     "version": "1.0"
   },
-  "Vergil": {
-    "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Vergil.json",
+  "Yamato": {
+    "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Yamato.json",
     "description": "Motivated one",
     "version": "1.0"
   },
@@ -371,8 +367,8 @@
   "2077": {
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/2077.json"
   },
-  "Strawberry": {
-    "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Strawberry.json",
+  "StrawberryV2": {
+    "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/StrawberryV2.json",
     "version": "1.0"
   },
   "Malina": {
