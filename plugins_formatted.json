@@ -22,7 +22,7 @@
   "BetterStatusIndicator": {
     "url": "https://raw.githubusercontent.com/m4fn3/BetterStatusIndicator/master/dist/BetterStatusIndicator.js",
     "description": "Reveal statuses for every platform user is using with customizable color.",
-    "version": "1.0.0"
+    "version": "1.0.1"
   },
   "ConfirmCalls": {
     "url": "https://raw.githubusercontent.com/DebianProgrammer/enmity-plugins/main/ConfirmCalls/dist/ConfirmCalls.js",
