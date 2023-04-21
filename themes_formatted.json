@@ -1,4 +1,21 @@
 {
+  "Vision": {
+    "url": "https://raw.githubusercontent.com/VodkaXMartini/EnmityTheme/main/Vision.json",
+    "description": "A theme made by Vodka Martini"
+  },
+  "Sultan": {
+    "url": "https://raw.githubusercontent.com/Leizurly/discord-sultan-v2/main/Sultan.json",
+    "description": "Vibrant Crimson Meets OLED Black",
+    "version": "2.0"
+  },
+  "Pebble": {
+    "url": "https://raw.githubusercontent.com/VodkaXMartini/EnmityTheme/main/Pebble.json",
+    "description": "A cozy theme"
+  },
+  "MidnightEspresso": {
+    "url": "https://raw.githubusercontent.com/VodkaXMartini/EnmityTheme/main/MidnightEspresso.json",
+    "description": "Original theme made by kanned (karto) for AliucordKT, ported to Vendetta by Vodka Martini"
+  },
   "Cerulean": {
     "url": "https://github.com/RyFol/Cerulean/releases/download/Rosiecord/Cerulean.json",
     "description": "For 173+ | A Teal theme with a splash of pink highlights ",
@@ -14,9 +31,9 @@
     "description": "A more blue space theme.",
     "version": "1.2"
   },
-  "KuromiiPad": {
-    "url": "https://raw.githubusercontent.com/YuhMuva/Kuromii/main/KuromiiPad.json",
-    "description": "Kuromi iPad Theme (For Femboys)",
+  "Kuromii": {
+    "url": "https://raw.githubusercontent.com/YuhMuva/Kuromii/main/Kuromii.json",
+    "description": "Kuromi Theme (For Femboys)",
     "version": "1"
   },
   "RedLove": {
@@ -32,11 +49,6 @@
     "url": "https://raw.githubusercontent.com/RyFol/BubblegumBliss/main/BubblegumBliss.json",
     "description": "Bubblegum Bliss theme for Enmity",
     "version": "1.0.0"
-  },
-  "PeekingKittyPastel": {
-    "url": "https://raw.githubusercontent.com/VodkaXMartini/EnmityTheme/main/PeekingKittyPastel.json",
-    "description": "A theme made by Vodka Martini",
-    "version": "1.0"
   },
   "RosiePink170": {
     "url": "https://cdn.discordapp.com/attachments/1011346757214543875/1087040810761081052/RosiePink170.json",
@@ -137,9 +149,9 @@
     "description": "Popular Better discord theme",
     "version": "1.0"
   },
-  "SpotifyDiscord": {
-    "url": "https://cdn.discordapp.com/attachments/1017854329887129611/1038879489335238796/SpotifyDiscord.json",
-    "description": "Spotify Theme:3",
+  "SpotifyDiscordAlt": {
+    "url": "https://cdn.discordapp.com/attachments/1017854329887129611/1038879642465075220/SpotifyDiscordAlt.json",
+    "description": "Spotify Theme Alternative:3",
     "version": "1.0"
   },
   "Tooper": {
@@ -200,8 +212,8 @@
     "description": "Lines And Lines And Lines theme :)",
     "version": "1.0"
   },
-  "Vamp_iphone": {
-    "url": "https://raw.githubusercontent.com/melonwer/themes/main/Vamp_iphone.json",
+  "Vamp_ipad": {
+    "url": "https://raw.githubusercontent.com/melonwer/themes/main/Vamp_ipad.json",
     "description": "Vamp Anime Girl",
     "version": "1.0"
   },
@@ -280,10 +292,10 @@
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/DarkPlus.json",
     "description": "A nice combination of dark grey and purple"
   },
-  "FEFE": {
-    "url": "https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/FEFE.json",
-    "description": "Colorful hair, don't care (OLED)",
-    "version": "1.9"
+  "FEFE69": {
+    "url": "https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/FEFE69.json",
+    "description": "Colorful hair, don't care",
+    "version": "69"
   },
   "Waveout": {
     "url": "https://raw.githubusercontent.com/pwnPwner/Enmity-Themes/main/Waveout.json",
@@ -434,9 +446,6 @@
     "url": "https://rosieorthinanos.dev/Orthinanos.json",
     "description": "a redish discord theme that goes easy on your eyes!",
     "version": "1.0.3"
-  },
-  "sultan": {
-    "url": "https://raw.githubusercontent.com/Leizurly/discord-sultan/main/sultan.json"
   },
   "discalm": {
     "url": "https://raw.githubusercontent.com/redstonetechwiz/pastelcord/main/discalm.json"
