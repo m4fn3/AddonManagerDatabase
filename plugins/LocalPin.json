@@ -1,5 +1,5 @@
 {
-  "description": "Usage:\nLong press on message and you will see the button to pin message locally\nYou can view locally pinned messages in the same way as you see normal pin messages",
+  "description": "・LocalPin\n\nPin messages locally\n\nUsage: Long press on message and select \"pin message locally\". And now you can see those messages in same way as you see normal pinned messages\n\nDownload: https://raw.githubusercontent.com/m4fn3/LocalPin/master/dist/LocalPin.js\nSource: https://github.com/m4fn3/LocalPin\n------------------------------",
   "images": [],
   "videos": []
 }
