@@ -28,17 +28,13 @@
       "text": "The \"Copy Embed\" button inside the message context menu might break other functions.",
       "ver": "Unknown"
     },
-    "CopyRoleColors": {
-      "text": "No noticeable issues, but an error is present in console.\n\nError: Could not fire after patch for type of copy-role-colors [TypeError: Cannot read property 'props' of undefined]",
-      "ver": "Working"
+    "CreateWebhooks": {
+      "text": "Plugin will not load at all.\n\nError: Fatal error with CreateWebhooks.js: [TypeError: Cannot read property 'default' of undefined]",
+      "ver" : "~174.0"
     },
     "CutMessage": {
       "text": "Cut Message button does not appear in the message context menu.",
       "ver": "Unknown"
-    },
-    "Dislate": {
-      "text": "Dislate menus will not work at all",
-      "ver": "163.0~"
     },
     "Downloader": {
       "text": "Download button does not appear in the link context menu. \n\nError: Could not fire after patch for default of downloader [TypeError: Cannot read property 'key' of undefined]",
@@ -48,9 +44,9 @@
       "text": "Plugin does not replace media.discordapp.com links with cdn.discordapp.com links.",
       "ver": "Unknown"
     },
-    "FriendInvites": {
-      "text": "Friend link will not create after running the command. Throws an error into console.",
-      "ver": "~163.0"
+    "Freemoji": {
+      "text": "Plugin may not function properly if your Nitro subscription expired recently.",
+      "ver": "Unknown"
     },
     "GlobalBadges": {
       "text": "Disabling or deleting the plugin will crash your Discord.",
@@ -60,13 +56,13 @@
       "text": "Attempting to open the message logs will cause React to crash.",
       "ver": "~162.0"
     },
-    "NSFWGateBypass": {
-      "text": "Plugin might not bypass NSFW server and channel restrictions.",
-      "ver": "Maybe"
-    },
     "Osu": {
       "text": "Player stats will not show after running the slash command.",
       "ver": "~157.0"
+    },
+    "PictureLink": {
+      "text": "Viewing a profile asset may freeze your Discord",
+      "ver" : "~164.0"
     },
     "ShowAllActivities": {
       "text": "Plugin does not show all activities sometimes. It can also crash Discord when connecting to a Voice Channel",
