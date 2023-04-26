@@ -195,7 +195,7 @@
   "AccountSwitcher": {
     "url": "https://github.com/ssense1337/enmity-plugins/raw/main/AccountSwitcher/dist/AccountSwitcher.js",
     "description": "Switch between multiple accounts.",
-    "version": "1.0.3"
+    "version": "1.0.5"
   },
   "ShowAllActivities": {
     "url": "https://github.com/ssense1337/enmity-plugins/raw/main/ShowAllActivities/dist/ShowAllActivities.js",
