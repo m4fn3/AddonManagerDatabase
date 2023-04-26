@@ -74,21 +74,6 @@
     "description": "Install plugins or themes by simply pressing a button.",
     "version": "1.0.1"
   },
-  "Stealmoji": {
-    "url": "https://github.com/FierysDiscordAddons/Stealmoji/releases/latest/download/Stealmoji.js",
-    "description": "Add emojis to your servers quickly and easily",
-    "version": "1.2.5"
-  },
-  "Presence": {
-    "url": "https://github.com/FierysDiscordAddons/Presence/releases/latest/download/Presence.js",
-    "description": "A custom rich presence",
-    "version": "1.1.1"
-  },
-  "Moyai": {
-    "url": "https://github.com/FierysDiscordAddons/Moyai/releases/latest/download/Moyai.js",
-    "description": "\\u{1F5FF}",
-    "version": "1.2.1"
-  },
   "K2geLocker": {
     "url": "https://raw.githubusercontent.com/m4fn3/K2geLocker/master/dist/K2geLocker.js",
     "description": "Lock App / Server with passcode!",
@@ -247,30 +232,15 @@
     "description": "Splits messages over the message length limit into multiple.",
     "version": "1.0.0"
   },
-  "EmbedFailFixup": {
-    "url": "https://github.com/FierysDiscordAddons/EmbedFailFixup/releases/download/v1.0.0/EmbedFailFixup.js",
-    "description": "Changes media.discordapp.net links to cdn.discordapp.com when sending messages",
-    "version": "1.0.0"
-  },
   "CreateWebhooks": {
     "url": "https://fifithebulldog.github.io/enmity-addons-store/plugins/CreateWebhooks.js",
     "description": "Create webhooks from the webhook management screens",
     "version": "2.0.1"
   },
-  "LMGTFY": {
-    "url": "https://github.com/FierysDiscordAddons/LMGTFY/releases/download/v1.2.0/LMGTFY.js",
-    "version": "1.2.0",
-    "description": "Let me google that for you..."
-  },
   "Freemoji": {
     "url": "https://fifithebulldog.github.io/enmity-addons-store/plugins/Freemoji.js",
     "description": "Send external emoji without Nitro as image links",
     "version": "2.0.0"
-  },
-  "TextEffects": {
-    "url": "https://github.com/FierysDiscordAddons/TextEffects/releases/download/v1.1.0/TextEffects.js",
-    "version": "1.1.0",
-    "description": "Bunch of text modifiers for your messages, all in one plugin."
   },
   "NoReplyMention": {
     "url": "https://fifithebulldog.github.io/enmity-addons-store/plugins/NoReplyMention.js",
