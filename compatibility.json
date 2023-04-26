@@ -40,10 +40,6 @@
       "text": "Download button does not appear in the link context menu. \n\nError: Could not fire after patch for default of downloader [TypeError: Cannot read property 'key' of undefined]",
       "ver": "~156.0"
     },
-    "EmbedFailFixup": {
-      "text": "Plugin does not replace media.discordapp.com links with cdn.discordapp.com links.",
-      "ver": "Unknown"
-    },
     "Freemoji": {
       "text": "Plugin may not function properly if your Nitro subscription expired recently.",
       "ver": "Unknown"
@@ -87,6 +83,30 @@
     "wttr": {
       "text": "Plugin will not load at all.\n\nError: Fatal error with wttr.js: [TypeError: Cannot read property 'React' of undefined]",
       "ver": "Unknown"
+    },
+    "Moyai": {
+      "text": "As the developer of this plugin was banned for misconduct in the server, you should avoid installing this plugin.\nPlease check #announcements in official Enmity server for more information.",
+      "ver": "Not Recommended"
+    },
+    "TextEffects": {
+      "text": "As the developer of this plugin was banned for misconduct in the server, you should avoid installing this plugin.\nPlease check #announcements in official Enmity server for more information.",
+      "ver": "Not Recommended"
+    },
+    "Stealmoji": {
+      "text": "As the developer of this plugin was banned for misconduct in the server, you should avoid installing this plugin.\nPlease check #announcements in official Enmity server for more information.",
+      "ver": "Not Recommended"
+    },
+    "Presence": {
+      "text": "As the developer of this plugin was banned for misconduct in the server, you should avoid installing this plugin.\nPlease check #announcements in official Enmity server for more information.",
+      "ver": "Not Recommended"
+    },
+    "EmbedFailFixup": {
+      "text": "As the developer of this plugin was banned for misconduct in the server, you should avoid installing this plugin.\nPlease check #announcements in official Enmity server for more information.\n\nPlugin does not replace media.discordapp.com links with cdn.discordapp.com links.",
+      "ver": "Not Recommended"
+    },
+    "LMGTFY": {
+      "text": "As the developer of this plugin was banned for misconduct in the server, you should avoid installing this plugin.\nPlease check #announcements in official Enmity server for more information.",
+      "ver": "Not Recommended"
     }
   },
   "theme": {
