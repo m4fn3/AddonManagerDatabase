@@ -305,5 +305,20 @@
     "url": "https://raw.githubusercontent.com/xenos1337/enmity-plugins/main/ReactDevTools/dist/ReactDevTools.js",
     "description": "Enables the ability to use React DevTools when using the developer build of enmity.",
     "version": "1.0.1"
+  },
+  "HideRecordButton": {
+    "url": "https://raw.githubusercontent.com/m4fn3/HideRecordButton/master/dist/HideRecordButton.js",
+    "description": "Hide",
+    "version": "1.0.0"
+  },
+  "FixEnmityLink": {
+    "url": "https://raw.githubusercontent.com/m4fn3/FixEnmityLink/master/dist/FixEnmityLink.js",
+    "description": "Make enmity:// link work for JB users or those who don't have enmity scheme",
+    "version": "1.0.0"
+  },
+  "NoBandwidthKick": {
+    "url": "https://raw.githubusercontent.com/m4fn3/NoBandwidthKick/master/dist/NoBandwidthKick.js",
+    "description": "Stops discord from disconnecting you when you're in a call alone for more than 5 minutes",
+    "version": "1.0.0"
   }
 }
