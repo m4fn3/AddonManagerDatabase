@@ -2,7 +2,7 @@
   "FakeSticker": {
     "url": "https://raw.githubusercontent.com/m4fn3/FakeSticker/master/dist/FakeSticker.js",
     "description": "Allows you to send stickers without Nitro",
-    "version": "1.0.0"
+    "version": "1.1.0"
   },
   "NoBlockedMessage": {
     "url": "https://raw.githubusercontent.com/m4fn3/NoBlockedMessage/master/dist/NoBlockedMessage.js",
