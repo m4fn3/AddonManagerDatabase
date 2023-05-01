@@ -1,4 +1,8 @@
 {
+  "PurpleGalaxy": {
+    "url": "https://raw.githubusercontent.com/VodkaXMartini/EnmityTheme/main/PurpleGalaxy.json",
+    "description": "A light purple sky theme"
+  },
   "Ethereal": {
     "url": "https://raw.githubusercontent.com/ngw69/enmity/main/Ethereal.json",
     "description": "Contrasting elegance in minimalistic design.",
@@ -340,11 +344,6 @@
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/MyMemesEndedHere.json",
     "description": "Memes, DNA of the soul",
     "version": "6.66"
-  },
-  "Galaxy": {
-    "url": "https://cdn.discordapp.com/attachments/960330514202492938/984271057089347624/Galaxy.json",
-    "description": "In a Galaxy theme far far away….",
-    "version": "1.0"
   },
   "Rosie": {
     "url": "https://cdn.discordapp.com/attachments/836793351818706984/1004479732244557884/Rosie.json",
