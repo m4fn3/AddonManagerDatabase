@@ -308,7 +308,7 @@
   },
   "HideRecordButton": {
     "url": "https://raw.githubusercontent.com/m4fn3/HideRecordButton/master/dist/HideRecordButton.js",
-    "description": "Hide",
+    "description": "Hide Record Button",
     "version": "1.0.0"
   },
   "FixEnmityLink": {
