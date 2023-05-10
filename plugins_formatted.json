@@ -67,7 +67,7 @@
   "GlobalBadges": {
     "url": "https://raw.githubusercontent.com/HypedDomi/Enmity-Stuff/main/dist/GlobalBadges.js",
     "description": "Adds global badges from other client mods",
-    "version": "1.1.4"
+    "version": "1.1.5"
   },
   "Downloader": {
     "url": "https://github.com/ConnorDoesDev/enmity-plugins/releases/download/Downloader/Downloader.js",
