@@ -13,11 +13,6 @@
     "description": "Credits to Zerthox for the better discord theme",
     "version": "1.0"
   },
-  "Serene_Horizon": {
-    "url": "https://raw.githubusercontent.com/ngw69/enmity/main/Serene_Horizon.json",
-    "description": "An epic scenery",
-    "version": "1.0"
-  },
   "Katana": {
     "url": "https://raw.githubusercontent.com/VodkaXMartini/EnmityTheme/main/Katana.json",
     "description": "A theme made by Vodka Martini"
@@ -59,11 +54,6 @@
     "description": "Kuromi Theme (For Femboys)",
     "version": "1"
   },
-  "RedLove": {
-    "url": "https://github.com/RyFol/RedLove/releases/download/Enmity/RedLove.json",
-    "description": "A hearty theme primarily red with white accents ",
-    "version": "1.0.1"
-  },
   "PurpleKitty": {
     "url": "https://raw.githubusercontent.com/VodkaXMartini/EnmityTheme/main/PurpleKitty.json",
     "description": "A theme made by Vodka Martini"
@@ -77,11 +67,6 @@
     "url": "https://cdn.discordapp.com/attachments/1011346757214543875/1087040242546126988/RosiePink164.json",
     "description": "Rosie v2 but wayy more pink :333",
     "version": "1.9"
-  },
-  "Midnight": {
-    "url": "https://raw.githubusercontent.com/VodkaXMartini/EnmityTheme/main/Midnight.json",
-    "description": "Original theme made by refact0r for Better Discord, ported to RN by Vodka Martini",
-    "version": "1.0"
   },
   "BlacknBlue": {
     "url": "https://github.com/RyFol/Black-n-Blue-Enmity-Theme/releases/download/Enmity/BlacknBlue.json",
@@ -132,11 +117,6 @@
     "url": "https://cdn.discordapp.com/attachments/792901931341053983/1057064282824650752/Pine.json",
     "description": "It’s pretty much Rosie but green",
     "version": "1.0"
-  },
-  "Ultra": {
-    "url": "https://raw.githubusercontent.com/TheCommieAxolotl/BetterDiscord-Stuff/main/Ultra/Ultra.json",
-    "description": "A Smooth, Black theme",
-    "version": "1.0.6"
   },
   "Sweetycon": {
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Sweetycon.json",
