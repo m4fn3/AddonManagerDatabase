@@ -56,7 +56,8 @@
   },
   "ReviewDB": {
     "url": "https://raw.githubusercontent.com/StupidityDB/EnmityPlugin/master/dist/ReviewDB.js",
-    "description": "Review other users. These reviews are visible to anyone with this type of plugin on any platform."
+    "description": "Review other users. These reviews are visible to anyone with this type of plugin on any platform.",
+    "version": "2.1.0"
   },
   "PronounDB": {
     "url": "https://raw.githubusercontent.com/acquitelol/enmity-pronoun-db/main/dist/PronounDB.js",
