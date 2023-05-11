@@ -149,7 +149,9 @@
     "version": "1.1.4"
   },
   "HideGiftButton": {
-    "url": "https://github.com/ssense1337/enmity-plugins/raw/main/HideGiftButton/dist/HideGiftButton.js"
+    "url": "https://github.com/ssense1337/enmity-plugins/raw/main/HideGiftButton/dist/HideGiftButton.js",
+    "description": "Hide the gift button in Chat Input.",
+    "version": "1.0.1"
   },
   "SilentTyping": {
     "url": "https://plugins.panties.moe/plugins/SilentTyping.js"
@@ -225,10 +227,14 @@
     "version": "1.0.0"
   },
   "AssetViewer": {
-    "url": "https://github.com/devicarus/enmity-asset-viewer/releases/download/latest/AssetViewer.js"
+    "url": "https://github.com/devicarus/enmity-asset-viewer/releases/download/latest/AssetViewer.js",
+    "description": "Viewer of assets provided by the Enmity Asset API",
+    "version": "0.2.2"
   },
   "UserDetails": {
-    "url": "https://raw.githubusercontent.com/discord-modifications/enmity-addons/main/Plugins/UserDetails/dist/UserDetails.js"
+    "url": "https://raw.githubusercontent.com/discord-modifications/enmity-addons/main/Plugins/UserDetails/dist/UserDetails.js",
+    "description": "Shows joined at & created at dates on user profiles.",
+    "version": "1.0.2"
   },
   "Unfurl": {
     "url": "https://niko.earth/rawgh/EnPlugins/main/Unfurl/Release/Unfurl.js",
@@ -236,7 +242,9 @@
     "version": "1.1.0"
   },
   "AllReplyMention": {
-    "url": "https://github.com/lexisother/Enmity-Plugins/raw/master/AllReplyMention/dist/AllReplyMention.js"
+    "url": "https://github.com/lexisother/Enmity-Plugins/raw/master/AllReplyMention/dist/AllReplyMention.js",
+    "description": "Does a load of random crap.",
+    "version": "1.0.0"
   },
   "SplitMessages": {
     "url": "https://raw.githubusercontent.com/discord-modifications/enmity-addons/main/Plugins/SplitMessages/dist/SplitMessages.js",
@@ -259,7 +267,9 @@
     "version": "1.1.0"
   },
   "PictureLink": {
-    "url": "https://raw.githubusercontent.com/discord-modifications/enmity-addons/main/Plugins/PictureLink/dist/PictureLink.js"
+    "url": "https://raw.githubusercontent.com/discord-modifications/enmity-addons/main/Plugins/PictureLink/dist/PictureLink.js",
+    "version": "1.0.2",
+    "description": "Allows you to click avatars and banners to open them in-app."
   },
   "NSFWGateBypass": {
     "url": "https://raw.githubusercontent.com/discord-modifications/enmity-addons/main/Plugins/NSFWGateBypass/dist/NSFWGateBypass.js",
