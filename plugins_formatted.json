@@ -1,7 +1,7 @@
 {
   "RandomizeFileName": {
     "url": "https://raw.githubusercontent.com/m4fn3/RandomizeFileName/master/dist/RandomizeFileName.js",
-    "description": "test",
+    "description": "Randomize the name of file you upload",
     "version": "1.0.0"
   },
   "NoBandwidthKick": {
@@ -208,7 +208,7 @@
     "version": "1.0.2"
   },
   "Dashless": {
-    "url": "https://github.com/ssense1337/enmity-plugins/raw/main/Dashless/dist/Dashless.js",
+    "url": "https://cdn.discordapp.com/attachments/950979198904852481/1010935443245760552/Dashless.js",
     "description": "Changes dashes in text channel names to spaces.",
     "version": "1.0.0"
   },
