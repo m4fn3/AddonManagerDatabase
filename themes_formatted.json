@@ -13,6 +13,11 @@
     "description": "Credits to Zerthox for the better discord theme",
     "version": "1.0"
   },
+  "Serene_Horizon": {
+    "url": "https://raw.githubusercontent.com/ngw69/enmity/main/Serene_Horizon.json",
+    "description": "An epic scenery",
+    "version": "1.0"
+  },
   "Katana": {
     "url": "https://raw.githubusercontent.com/VodkaXMartini/EnmityTheme/main/Katana.json",
     "description": "A theme made by Vodka Martini"
@@ -49,10 +54,15 @@
     "description": "A more blue space theme.",
     "version": "1.2"
   },
-  "Kuromii": {
-    "url": "https://raw.githubusercontent.com/YuhMuva/Kuromii/main/Kuromii.json",
-    "description": "Kuromi Theme (For Femboys)",
+  "KuromiiPad": {
+    "url": "https://raw.githubusercontent.com/YuhMuva/Kuromii/main/KuromiiPad.json",
+    "description": "Kuromi iPad Theme (For Femboys)",
     "version": "1"
+  },
+  "RedLove": {
+    "url": "https://github.com/RyFol/RedLove/releases/download/Enmity/RedLove.json",
+    "description": "A hearty theme primarily red with white accents ",
+    "version": "1.0.1"
   },
   "PurpleKitty": {
     "url": "https://raw.githubusercontent.com/VodkaXMartini/EnmityTheme/main/PurpleKitty.json",
@@ -63,10 +73,15 @@
     "description": "Bubblegum Bliss theme for Enmity",
     "version": "1.0.0"
   },
-  "RosiePink164": {
-    "url": "https://cdn.discordapp.com/attachments/1011346757214543875/1087040242546126988/RosiePink164.json",
+  "RosiePink170": {
+    "url": "https://cdn.discordapp.com/attachments/1011346757214543875/1087040810761081052/RosiePink170.json",
     "description": "Rosie v2 but wayy more pink :333",
-    "version": "1.9"
+    "version": "2.0"
+  },
+  "Midnight": {
+    "url": "https://raw.githubusercontent.com/VodkaXMartini/EnmityTheme/main/Midnight.json",
+    "description": "Original theme made by refact0r for Better Discord, ported to RN by Vodka Martini",
+    "version": "1.0"
   },
   "BlacknBlue": {
     "url": "https://github.com/RyFol/Black-n-Blue-Enmity-Theme/releases/download/Enmity/BlacknBlue.json",
@@ -117,6 +132,11 @@
     "url": "https://cdn.discordapp.com/attachments/792901931341053983/1057064282824650752/Pine.json",
     "description": "It’s pretty much Rosie but green",
     "version": "1.0"
+  },
+  "Ultra": {
+    "url": "https://raw.githubusercontent.com/TheCommieAxolotl/BetterDiscord-Stuff/main/Ultra/Ultra.json",
+    "description": "A Smooth, Black theme",
+    "version": "1.0.6"
   },
   "Sweetycon": {
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Sweetycon.json",
@@ -200,8 +220,8 @@
     "description": "Dark Rosie theme!!",
     "version": "1.0"
   },
-  "Pink_ipad": {
-    "url": "https://raw.githubusercontent.com/melonwer/themes/main/Pink_ipad.json",
+  "Pink_iphone": {
+    "url": "https://raw.githubusercontent.com/melonwer/themes/main/Pink_iphone.json",
     "description": "Pink Anime Theme",
     "version": "1.0"
   },
@@ -290,10 +310,10 @@
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/DarkPlus.json",
     "description": "A nice combination of dark grey and purple"
   },
-  "FEFE69": {
-    "url": "https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/FEFE69.json",
-    "description": "Colorful hair, don't care",
-    "version": "69"
+  "FEFE": {
+    "url": "https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/FEFE.json",
+    "description": "Colorful hair, don't care (OLED)",
+    "version": "1.9"
   },
   "Waveout": {
     "url": "https://raw.githubusercontent.com/pwnPwner/Enmity-Themes/main/Waveout.json",
@@ -372,8 +392,8 @@
   "2077": {
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/2077.json"
   },
-  "Strawberry": {
-    "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Strawberry.json",
+  "StrawberryV2": {
+    "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/StrawberryV2.json",
     "version": "1.0"
   },
   "Malina": {
