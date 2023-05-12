@@ -46,8 +46,8 @@
   },
   "EnableStaging": {
     "url": "https://raw.githubusercontent.com/acquitelol/EnableStaging/mistress/dist/EnableStaging.js",
-    "version": "3.0.1",
-    "description": "Bypasses experiment gate. Fuck you aj."
+    "version": "3.0.2",
+    "description": "Provides you access to staff-only features by assigning you pseudo-staff."
   },
   "ThemeFixer": {
     "url": "https://raw.githubusercontent.com/amsyarasyiq/enmity-theme-fixer/main/dist/ThemeFixer.js",
