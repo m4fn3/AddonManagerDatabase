@@ -325,5 +325,10 @@
     "url": "https://raw.githubusercontent.com/xenos1337/enmity-plugins/main/ReactDevTools/dist/ReactDevTools.js",
     "description": "Enables the ability to use React DevTools when using the developer build of enmity.",
     "version": "1.0.1"
+  },
+  "StealEmoji": {
+    "url": "https://raw.githubusercontent.com/SerStars/EnmityPlugins/README/StealEmoji/StealEmoji.js",
+    "description": "With this plugin you can easily add emojis to your servers :D",
+    "version": "1.0.0"
   }
 }
