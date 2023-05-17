@@ -87,7 +87,7 @@
   "GlobalBadges": {
     "url": "https://raw.githubusercontent.com/HypedDomi/Enmity-Stuff/main/dist/GlobalBadges.js",
     "description": "Adds global badges from other client mods",
-    "version": "1.1.5"
+    "version": "1.2.5"
   },
   "Downloader": {
     "url": "https://github.com/ConnorDoesDev/enmity-plugins/releases/download/Downloader/Downloader.js",
@@ -122,7 +122,7 @@
   "ReplaceTimestamps": {
     "url": "https://raw.githubusercontent.com/HypedDomi/Enmity-Stuff/main/dist/ReplaceTimestamps.js",
     "description": "Replaces plaintext 24 hour timestamps into Discord's timestamps",
-    "version": "1.1.8"
+    "version": "1.2.8"
   },
   "PetPet": {
     "url": "https://raw.githubusercontent.com/spinfal/enmity-plugins/master/dist/PetPet.js",
