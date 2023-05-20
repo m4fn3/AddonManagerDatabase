@@ -11,8 +11,8 @@
   },
   "FixEnmityLink": {
     "url": "https://raw.githubusercontent.com/m4fn3/FixEnmityLink/master/dist/FixEnmityLink.js",
-    "description": "Make enmity:// link work for JB users or those who don't have enmity scheme",
-    "version": "1.0.0"
+    "description": "make enmity:// link work for all users on any versions!",
+    "version": "1.1.0"
   },
   "HideRecordButton": {
     "url": "https://raw.githubusercontent.com/m4fn3/HideRecordButton/master/dist/HideRecordButton.js",

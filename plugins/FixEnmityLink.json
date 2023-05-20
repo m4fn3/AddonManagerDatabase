@@ -1,5 +1,5 @@
 {
-  "description": "・FixEnmityLink\n\nMake enmity:// link work for JB users or those who don't have enmity scheme\nNote: alternatively you can modify Info.plist manually but it'll revert itself every time you update Discord\n\nDownload: https://raw.githubusercontent.com/m4fn3/FixEnmityLink/master/dist/FixEnmityLink.js\nSource: https://github.com/m4fn3/FixEnmityLink\n------------------------------",
+  "description": "・FixEnmityLink\n\nMake enmity:// link work for JB users or those who don't have enmity scheme\nAlso, fix enmity:// not showing as clickable links on 180+.\n\nDownload: https://raw.githubusercontent.com/m4fn3/FixEnmityLink/master/dist/FixEnmityLink.js\nSource: https://github.com/m4fn3/FixEnmityLink\n------------------------------",
   "images": [],
   "videos": []
 }
