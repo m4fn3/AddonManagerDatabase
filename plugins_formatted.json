@@ -335,5 +335,10 @@
     "url": "https://raw.githubusercontent.com/acquitelol/enmity-you/mistress/dist/EnmityYou.js",
     "description": "Allows you to use Enmity inside of the new You Tab. Enable from DevTools Widget \\u279D Design Toggles :3",
     "version": "1.2.2"
+  },
+  "PrettyErrorBoundary": {
+    "url": "https://raw.githubusercontent.com/acquitelol/pretty-error-boundary/mistress/dist/PrettyErrorBoundary.js",
+    "description": "Makes the Discord ErrorBoundary much more pretty and functional. This is my implementation of the Vendetta concept.",
+    "version": "1.0.5"
   }
 }

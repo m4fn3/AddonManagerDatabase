@@ -1,0 +1,8 @@
+{
+  "description": "PrettyErrorBoundary\n\nShows a prettier and more functional screen upon triggering a React-based crash in Discord.\nPreviews for before and after can be seen below.\n\nDownload: https://raw.githubusercontent.com/acquitelol/pretty-error-boundary/mistress/dist/PrettyErrorBoundary.js\nSource: https://github.com/acquitelol/pretty-error-boundary",
+  "images": [
+    "https://cdn.discordapp.com/attachments/961782195767365732/1111400611318071446/1111399518072737902remix-1685048870422.png",
+    "https://cdn.discordapp.com/attachments/961782195767365732/1111400611657822288/1111398831909765292remix-1685048901833.png"
+  ],
+  "videos": []
+}
