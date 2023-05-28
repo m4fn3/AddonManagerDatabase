@@ -1,4 +1,9 @@
 {
+  "Gruvbox": {
+    "url": "https://cdn.discordapp.com/attachments/1070264120508698704/1095380923471626260/gruvbox.json",
+    "description": "Gruvbox Dark",
+    "version": "1.0.0"
+  },
   "PurpleGalaxy": {
     "url": "https://raw.githubusercontent.com/VodkaXMartini/EnmityTheme/main/PurpleGalaxy.json",
     "description": "A light purple sky theme"
@@ -54,9 +59,9 @@
     "description": "A more blue space theme.",
     "version": "1.2"
   },
-  "KuromiiPad": {
-    "url": "https://raw.githubusercontent.com/YuhMuva/Kuromii/main/KuromiiPad.json",
-    "description": "Kuromi iPad Theme (For Femboys)",
+  "Kuromii": {
+    "url": "https://raw.githubusercontent.com/YuhMuva/Kuromii/main/Kuromii.json",
+    "description": "Kuromi Theme (For Femboys)",
     "version": "1"
   },
   "RedLove": {
@@ -73,10 +78,10 @@
     "description": "Bubblegum Bliss theme for Enmity",
     "version": "1.0.0"
   },
-  "RosiePink170": {
-    "url": "https://cdn.discordapp.com/attachments/1011346757214543875/1108672095845621861/RosiePink170.json",
+  "RosiePink164": {
+    "url": "https://cdn.discordapp.com/attachments/1011346757214543875/1087040242546126988/RosiePink164.json",
     "description": "Rosie v2 but wayy more pink :333",
-    "version": "2.3"
+    "version": "1.9"
   },
   "Midnight": {
     "url": "https://raw.githubusercontent.com/VodkaXMartini/EnmityTheme/main/Midnight.json",
@@ -157,6 +162,11 @@
     "description": "raven from teen titan",
     "version": "1.0.1"
   },
+  "Joksys": {
+    "url": "https://raw.githubusercontent.com/Joksy/Joksy-Enmity/main/Joksys-Theme-V1/Joksys.json",
+    "description": "Dark blue theme, made by Joksy",
+    "version": "1.0"
+  },
   "Eris": {
     "url": "https://raw.githubusercontent.com/Yan-Jobs/enmity/main/themes/eris/Eris.json",
     "description": "Black, classic Discord theme... now on Enmity",
@@ -167,9 +177,9 @@
     "description": "Popular Better discord theme",
     "version": "1.0"
   },
-  "SpotifyDiscordAlt": {
-    "url": "https://cdn.discordapp.com/attachments/1017854329887129611/1038879642465075220/SpotifyDiscordAlt.json",
-    "description": "Spotify Theme Alternative:3",
+  "SpotifyDiscord": {
+    "url": "https://cdn.discordapp.com/attachments/1017854329887129611/1038879489335238796/SpotifyDiscord.json",
+    "description": "Spotify Theme:3",
     "version": "1.0"
   },
   "Tooper": {
@@ -220,8 +230,8 @@
     "description": "Dark Rosie theme!!",
     "version": "1.0"
   },
-  "Pink_iphone": {
-    "url": "https://raw.githubusercontent.com/melonwer/themes/main/Pink_iphone.json",
+  "Pink_ipad": {
+    "url": "https://raw.githubusercontent.com/melonwer/themes/main/Pink_ipad.json",
     "description": "Pink Anime Theme",
     "version": "1.0"
   },
@@ -230,8 +240,8 @@
     "description": "Lines And Lines And Lines theme :)",
     "version": "1.0"
   },
-  "Vamp_iphone": {
-    "url": "https://raw.githubusercontent.com/melonwer/themes/main/Vamp_iphone.json",
+  "Vamp_ipad": {
+    "url": "https://raw.githubusercontent.com/melonwer/themes/main/Vamp_ipad.json",
     "description": "Vamp Anime Girl",
     "version": "1.0"
   },
@@ -310,10 +320,10 @@
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/DarkPlus.json",
     "description": "A nice combination of dark grey and purple"
   },
-  "FEFE": {
-    "url": "https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/FEFE.json",
-    "description": "Colorful hair, don't care (OLED)",
-    "version": "1.9"
+  "FEFE69": {
+    "url": "https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/FEFE69.json",
+    "description": "Colorful hair, don't care",
+    "version": "69"
   },
   "Waveout": {
     "url": "https://raw.githubusercontent.com/pwnPwner/Enmity-Themes/main/Waveout.json",
@@ -392,8 +402,8 @@
   "2077": {
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/2077.json"
   },
-  "StrawberryV2": {
-    "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/StrawberryV2.json",
+  "Strawberry": {
+    "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Strawberry.json",
     "version": "1.0"
   },
   "Malina": {
@@ -497,11 +507,6 @@
   "AMOLED": {
     "url": "https://raw.githubusercontent.com/discord-modifications/enmity-addons/main/Themes/AMOLED.json",
     "description": "A mostly pitch black theme with exceptions such as buttons being a bit lighter for convenience.",
-    "version": "1.0.0"
-  },
-  "Gruvbox": {
-    "url": "https://cdn.discordapp.com/attachments/1070264120508698704/1095380923471626260/gruvbox.json",
-    "description": "Gruvbox Dark",
     "version": "1.0.0"
   }
 }
