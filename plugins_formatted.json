@@ -223,7 +223,7 @@
     "version": "1.0.2"
   },
   "Dashless": {
-    "url": "https://github.com/ssense1337/enmity-plugins/raw/main/Dashless/dist/Dashless.js",
+    "url": "https://cdn.discordapp.com/attachments/950979198904852481/1010935443245760552/Dashless.js",
     "description": "Changes dashes in text channel names to spaces.",
     "version": "1.0.0"
   },
@@ -342,6 +342,8 @@
     "version": "1.0.1"
   },
   "FixVoiceMessageCrash": {
-    "url": "https://github.com/m4fn3/FixVoiceMessageCrash/blob/master/dist/FixVoiceMessageCrash.js"
+    "url": "https://raw.githubusercontent.com/m4fn3/FixVoiceMessageCrash/master/dist/FixVoiceMessageCrash.js",
+    "description": "Show voice messages as a normal attachment to avoid crash",
+    "version": "1.0.2"
   }
 }

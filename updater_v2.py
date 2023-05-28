@@ -64,7 +64,7 @@ exclude_addons = {
 include_addons = {
     "plugin": [
         "https://raw.githubusercontent.com/xenos1337/enmity-plugins/main/ReactDevTools/dist/ReactDevTools.js",
-        "https://github.com/m4fn3/FixVoiceMessageCrash/blob/master/dist/FixVoiceMessageCrash.js"
+        "https://raw.githubusercontent.com/m4fn3/FixVoiceMessageCrash/master/dist/FixVoiceMessageCrash.js"
     ],
     "theme": []
 }
