@@ -1,4 +1,19 @@
 {
+  "PrettyErrorBoundary": {
+    "url": "https://raw.githubusercontent.com/acquitelol/pretty-error-boundary/mistress/dist/PrettyErrorBoundary.js",
+    "description": "Makes the Discord ErrorBoundary much more pretty and functional. This is my implementation of the Vendetta concept.",
+    "version": "1.0.5"
+  },
+  "EnmityYou": {
+    "url": "https://raw.githubusercontent.com/acquitelol/enmity-you/mistress/dist/EnmityYou.js",
+    "description": "Allows you to use Enmity inside of the new You Tab. Enable from DevTools Widget \\u279D Design Toggles :3",
+    "version": "1.2.2"
+  },
+  "StealEmoji": {
+    "url": "https://raw.githubusercontent.com/SerStars/EnmityPlugins/README/StealEmoji/StealEmoji.js",
+    "description": "With this plugin you can easily add emojis to your servers :D",
+    "version": "1.0.0"
+  },
   "RandomizeFileName": {
     "url": "https://raw.githubusercontent.com/m4fn3/RandomizeFileName/master/dist/RandomizeFileName.js",
     "description": "Randomize the name of file you upload",
@@ -208,7 +223,7 @@
     "version": "1.0.2"
   },
   "Dashless": {
-    "url": "https://cdn.discordapp.com/attachments/950979198904852481/1010935443245760552/Dashless.js",
+    "url": "https://github.com/ssense1337/enmity-plugins/raw/main/Dashless/dist/Dashless.js",
     "description": "Changes dashes in text channel names to spaces.",
     "version": "1.0.0"
   },
@@ -326,19 +341,7 @@
     "description": "Enables the ability to use React DevTools when using the developer build of enmity.",
     "version": "1.0.1"
   },
-  "StealEmoji": {
-    "url": "https://raw.githubusercontent.com/SerStars/EnmityPlugins/README/StealEmoji/StealEmoji.js",
-    "description": "With this plugin you can easily add emojis to your servers :D",
-    "version": "1.0.0"
-  },
-  "EnmityYou": {
-    "url": "https://raw.githubusercontent.com/acquitelol/enmity-you/mistress/dist/EnmityYou.js",
-    "description": "Allows you to use Enmity inside of the new You Tab. Enable from DevTools Widget \\u279D Design Toggles :3",
-    "version": "1.2.2"
-  },
-  "PrettyErrorBoundary": {
-    "url": "https://raw.githubusercontent.com/acquitelol/pretty-error-boundary/mistress/dist/PrettyErrorBoundary.js",
-    "description": "Makes the Discord ErrorBoundary much more pretty and functional. This is my implementation of the Vendetta concept.",
-    "version": "1.0.5"
+  "FixVoiceMessageCrash": {
+    "url": "https://github.com/m4fn3/FixVoiceMessageCrash/blob/master/dist/FixVoiceMessageCrash.js"
   }
 }
