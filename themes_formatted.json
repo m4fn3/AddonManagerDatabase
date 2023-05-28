@@ -78,10 +78,10 @@
     "description": "Bubblegum Bliss theme for Enmity",
     "version": "1.0.0"
   },
-  "RosiePink164": {
-    "url": "https://cdn.discordapp.com/attachments/1011346757214543875/1087040242546126988/RosiePink164.json",
+  "RosiePink170": {
+    "url": "https://cdn.discordapp.com/attachments/1011346757214543875/1108672095845621861/RosiePink170.json",
     "description": "Rosie v2 but wayy more pink :333",
-    "version": "1.9"
+    "version": "2.3"
   },
   "Midnight": {
     "url": "https://raw.githubusercontent.com/VodkaXMartini/EnmityTheme/main/Midnight.json",
@@ -177,9 +177,9 @@
     "description": "Popular Better discord theme",
     "version": "1.0"
   },
-  "SpotifyDiscord": {
-    "url": "https://cdn.discordapp.com/attachments/1017854329887129611/1038879489335238796/SpotifyDiscord.json",
-    "description": "Spotify Theme:3",
+  "SpotifyDiscordAlt": {
+    "url": "https://cdn.discordapp.com/attachments/1017854329887129611/1038879642465075220/SpotifyDiscordAlt.json",
+    "description": "Spotify Theme Alternative:3",
     "version": "1.0"
   },
   "Tooper": {
@@ -240,8 +240,8 @@
     "description": "Lines And Lines And Lines theme :)",
     "version": "1.0"
   },
-  "Vamp_ipad": {
-    "url": "https://raw.githubusercontent.com/melonwer/themes/main/Vamp_ipad.json",
+  "Vamp_iphone": {
+    "url": "https://raw.githubusercontent.com/melonwer/themes/main/Vamp_iphone.json",
     "description": "Vamp Anime Girl",
     "version": "1.0"
   },
@@ -258,8 +258,8 @@
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Harmony.json",
     "version": "1.0"
   },
-  "Vergil": {
-    "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Vergil.json",
+  "Yamato": {
+    "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Yamato.json",
     "description": "Motivated one",
     "version": "1.0"
   },
