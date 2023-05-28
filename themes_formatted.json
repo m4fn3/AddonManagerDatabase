@@ -498,5 +498,10 @@
     "url": "https://raw.githubusercontent.com/discord-modifications/enmity-addons/main/Themes/AMOLED.json",
     "description": "A mostly pitch black theme with exceptions such as buttons being a bit lighter for convenience.",
     "version": "1.0.0"
+  },
+  "Gruvbox": {
+    "url": "https://cdn.discordapp.com/attachments/1070264120508698704/1095380923471626260/gruvbox.json",
+    "description": "Gruvbox Dark",
+    "version": "1.0.0"
   }
 }
