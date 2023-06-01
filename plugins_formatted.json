@@ -345,5 +345,10 @@
     "url": "https://raw.githubusercontent.com/m4fn3/FixVoiceMessageCrash/master/dist/FixVoiceMessageCrash.js",
     "description": "Show voice messages as a normal attachment to avoid crash",
     "version": "1.0.2"
+  },
+  "BetterBioText": {
+    "url": "https://raw.githubusercontent.com/m4fn3/BetterBioText/master/dist/BetterBioText.js",
+    "description": "adds some extra actions like copying on Long press, opening a link",
+    "version": "1.0.1"
   }
 }
