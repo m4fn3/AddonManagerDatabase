@@ -1,4 +1,24 @@
 {
+  "UnfollowAllPosts": {
+    "url": "https://raw.githubusercontent.com/m4fn3/UnfollowAllPosts/master/dist/UnfollowAllPosts.js",
+    "description": "Unfollow all posts/threads with one click",
+    "version": "1.0.0"
+  },
+  "FreeNitroTheme": {
+    "url": "https://raw.githubusercontent.com/m4fn3/FreeNitroTheme/master/dist/FreeNitroTheme.js",
+    "description": "Use Nitro Themes for FREE",
+    "version": "0.0.2"
+  },
+  "RelationshipNotifier": {
+    "url": "https://raw.githubusercontent.com/m4fn3/RelationshipNotifier/master/dist/RelationshipNotifier.js",
+    "description": "Notifies you when a friend, group chat, or server removes you",
+    "version": "1.0.1"
+  },
+  "BetterBioText": {
+    "url": "https://raw.githubusercontent.com/m4fn3/BetterBioText/master/dist/BetterBioText.js",
+    "description": "adds some extra actions like copying on Long press, opening a link",
+    "version": "1.0.1"
+  },
   "PrettyErrorBoundary": {
     "url": "https://raw.githubusercontent.com/acquitelol/pretty-error-boundary/mistress/dist/PrettyErrorBoundary.js",
     "description": "Makes the Discord ErrorBoundary much more pretty and functional. This is my implementation of the Vendetta concept.",
@@ -345,15 +365,5 @@
     "url": "https://raw.githubusercontent.com/m4fn3/FixVoiceMessageCrash/master/dist/FixVoiceMessageCrash.js",
     "description": "Show voice messages as a normal attachment to avoid crash",
     "version": "1.0.2"
-  },
-  "BetterBioText": {
-    "url": "https://raw.githubusercontent.com/m4fn3/BetterBioText/master/dist/BetterBioText.js",
-    "description": "adds some extra actions like copying on Long press, opening a link",
-    "version": "1.0.1"
-  },
-  "FreeNitroTheme": {
-    "url": "https://raw.githubusercontent.com/m4fn3/FreeNitroTheme/master/dist/FreeNitroTheme.js",
-    "description": "Use Nitro Themes for FREE",
-    "version": "0.0.2"
   }
 }
