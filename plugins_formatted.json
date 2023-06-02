@@ -72,7 +72,7 @@
   "ConfirmActions": {
     "url": "https://raw.githubusercontent.com/m4fn3/ConfirmActions/master/dist/ConfirmActions.js",
     "description": "Prevent you from accidentally doing what you didn't expected to do",
-    "version": "1.0.2"
+    "version": "1.0.3"
   },
   "LocalPin": {
     "url": "https://raw.githubusercontent.com/m4fn3/LocalPin/master/dist/LocalPin.js",
