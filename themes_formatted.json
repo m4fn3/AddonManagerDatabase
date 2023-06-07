@@ -1,4 +1,9 @@
 {
+  "RoyalUndella": {
+    "url": "https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/RoyalUndella.json",
+    "description": "A somewhat pink and blue theme, with an anime girl.",
+    "version": "1.5"
+  },
   "Gruvbox": {
     "url": "https://cdn.discordapp.com/attachments/1070264120508698704/1095380923471626260/gruvbox.json",
     "description": "Gruvbox Dark",
