@@ -1,5 +1,5 @@
 {
-  "description": "・FreeNitroTheme\nUnlock nitro only client themes for non Nitro users\nNote: You must disable \"sync across clients\" to get it to work properly\n\nDownload: https://raw.githubusercontent.com/m4fn3/FreeNitroTheme/master/dist/FreeNitroTheme.js\nSource: https://github.com/m4fn3/FreeNitroTheme\n------------------------------",
+  "description": "・FreeNitroTheme\nUnlock nitro only client themes for non Nitro users\nUsage: go to Settings -> Appearance and just choose the one you like\nNote: It doesn't work on tabsv2 as Discord haven't added yet. Also it may not work properly if you are on old versions.\n\nDownload: https://raw.githubusercontent.com/m4fn3/FreeNitroTheme/master/dist/FreeNitroTheme.js\nSource: https://github.com/m4fn3/FreeNitroTheme\n------------------------------",
   "images": [],
   "videos": []
 }
