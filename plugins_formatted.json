@@ -1,4 +1,9 @@
 {
+  "SuppressEmbeds": {
+    "url": "https://raw.githubusercontent.com/HypedDomi/Enmity-Stuff/main/dist/SuppressEmbeds.js",
+    "description": "Allows you to Suppress/Unsuppress Embeds",
+    "version": "1.0.0"
+  },
   "UnfollowAllPosts": {
     "url": "https://raw.githubusercontent.com/m4fn3/UnfollowAllPosts/master/dist/UnfollowAllPosts.js",
     "description": "Unfollow all posts/threads with one click",
@@ -118,11 +123,6 @@
     "url": "https://raw.githubusercontent.com/m4fn3/AddonManager/master/dist/AddonManager.js",
     "description": "Manage plugins & themes easily!",
     "version": "1.1.6"
-  },
-  "GlobalBadges": {
-    "url": "https://raw.githubusercontent.com/HypedDomi/Enmity-Stuff/main/dist/GlobalBadges.js",
-    "description": "Adds global badges from other client mods",
-    "version": "1.2.5"
   },
   "Downloader": {
     "url": "https://github.com/ConnorDoesDev/enmity-plugins/releases/download/Downloader/Downloader.js",
