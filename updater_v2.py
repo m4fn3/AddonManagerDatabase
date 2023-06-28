@@ -20,8 +20,8 @@ load_dotenv(os.path.join(os.path.dirname(__file__), ".env"))
 bot = commands.Bot("!", self_bot=True, intents=discord.Intents.default())
 
 # 設定
-debug = True
-dump_all = True
+debug = False
+dump_all = False
 
 # データ
 channel_ids = {
