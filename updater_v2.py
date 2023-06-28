@@ -46,18 +46,20 @@ emoji_pattern = re.compile(r"<a?:.+?:\d{18}>")
 title_pattern = re.compile(r"^\*\*.*?\n\n")
 title2_pattern = re.compile(r"^\*\*.*?\n")
 command_pattern = re.compile(r"</(.+?):1>")
-desc_pattern1 = re.compile(r"{name:[a-zA-Z0-9_]+,.*?description:([a-zA-Z0-9_]+)")  # <一般的なパターン> 1~2文字の略された変数で、その変数の指す値をとりに行く
-desc_pattern2 = re.compile(r'{name:"[a-zA-Z_]+",.*?description:["\'](.*?)["\']')  # <特殊なパターン> 直接文字列が指定されている
-desc_pattern3 = re.compile(r'description:\s*["\'](.*?)["\']')  # <超特殊なパターン> minifyされていない場合
+desc_pattern1 = re.compile(r"{name:[a-zA-Z0-9$_]+,.*?description:([a-zA-Z0-9$_]+)")  # <一般的なパターン> 1~2文字の略された変数で、その変数の指す値をとりに行く
+# desc_pattern2 = re.compile(r'{name:"[a-zA-Z_]+",.*?description:["\'](.*?)["\']')  # <特殊なパターン> 直接文字列が指定されている
+desc_pattern2 = re.compile(r'{name:"[a-zA-Z_]+",.*?description:(?:"(.*?)"|\'(.*?)\')')  # <特殊なパターン> 直接文字列が指定されている
+# desc_pattern3 = re.compile(r'description:\s*["\'](.*?)["\']')  # <超特殊なパターン> minifyされていない場合
+desc_pattern3 = re.compile(r'description:\s*(?:"(.*?)"|\'(.*?)\')')  # <超特殊なパターン> minifyされていない場合
 variable_pattern = r'=["\'](.*?)["\'],'  # TODO: 最後の,は必要か不明
 variable_pattern_list = r'=(\[.*?\]),'
-version_pattern1 = re.compile(r"{name:[a-zA-Z0-9_]+,.*?version:([a-zA-Z0-9_]+)")
+version_pattern1 = re.compile(r"{name:[a-zA-Z0-9$_]+,.*?version:([a-zA-Z0-9$_]+)")
 version_pattern2 = re.compile(r'{name:"[a-zA-Z_]+",.*?version:"([0-9.]+)"')
 version_pattern_simple = re.compile(r'version:\s*["\']([0-9.]+)["\']')
 version_pattern_raw = re.compile(r'[0-9.]+')
-color_pattern1 = re.compile(r"{name:[a-zA-Z0-9_]+,.*?color:([a-zA-Z0-9_]+)")
+color_pattern1 = re.compile(r"{name:[a-zA-Z0-9$_]+,.*?color:([a-zA-Z0-9$_]+)")
 color_pattern2 = re.compile(r'{name:"[a-zA-Z_]+",.*?color:"([0-9a-fA-F#]+)"')
-author_pattern1 = re.compile(r"{name:[a-zA-Z0-9_]+,.*?authors:([a-zA-Z0-9_]+)")
+author_pattern1 = re.compile(r"{name:[a-zA-Z0-9$_]+,.*?authors:([a-zA-Z0-9$_]+)")
 author_pattern2 = re.compile(r'{name:"[a-zA-Z_]+",.*?authors:(\[.*?\])')
 
 # 独自設定
@@ -175,6 +177,11 @@ def format_author_array(raw):
         return formatted
 
 
+# $が変数名に使われていると困るのでエスケープする
+def escape_regex(t):
+    return t.replace("$", r"\$")
+
+
 # URLからダウンロードして情報を解析する
 def fetch(addon_type, download_url):
     if addon_type == "plugin":
@@ -190,20 +197,23 @@ def fetch(addon_type, download_url):
                 return None
 
             if res := desc_pattern1.findall(r.text):  # descriptionに対応する変数名を取得
-                res = re.findall(res[0] + variable_pattern, r.text)  # 変数名に対応する値を取得
-                plugin["description"] = res[0]
-                if res := version_pattern1.findall(r.text):  # versionも同様に
-                    res = re.findall(res[0] + variable_pattern, r.text)
-                    plugin["version"] = res[0]
-                if res := color_pattern1.findall(r.text):  # colorも同様に
-                    res = re.findall(res[0] + variable_pattern, r.text)
-                    plugin["color"] = res[0]
-                if res := author_pattern1.findall(r.text):  # authorも同様に
-                    res = re.findall(res[0] + variable_pattern_list, r.text)
-                    if author := format_author_array(res[0]):
-                        plugin["author"] = author
+                res = re.findall(escape_regex(res[0]) + variable_pattern, r.text)  # 変数名に対応する値を取得
+                if res:
+                    plugin["description"] = res[0]
+                    if res := version_pattern1.findall(r.text):  # versionも同様に
+                        res = re.findall(escape_regex(res[0]) + variable_pattern, r.text)
+                        if res:
+                            plugin["version"] = res[0]
+                    if res := color_pattern1.findall(r.text):  # colorも同様に
+                        res = re.findall(escape_regex(res[0]) + variable_pattern, r.text)
+                        if res:
+                            plugin["color"] = res[0]
+                    if res := author_pattern1.findall(r.text):  # authorも同様に
+                        res = re.findall(escape_regex(res[0]) + variable_pattern_list, r.text)
+                        if res and (author := format_author_array(res[0])):
+                            plugin["author"] = author
             elif res := desc_pattern2.findall(r.text):  # descriptionを直接取得
-                plugin["description"] = res[0]
+                plugin["description"] = res[0][0]  # 何故か(desc,"")の形になるので[0]でとる <- キャプチャ無しグルーピング(?: )が機能してない?
                 if res := version_pattern2.findall(r.text):  # versionも同様に
                     plugin["version"] = res[0]
                 if res := color_pattern2.findall(r.text):  # colorも同様に
@@ -212,7 +222,7 @@ def fetch(addon_type, download_url):
                     if author := format_author_array(res[0]):
                         plugin["author"] = author
             elif res := desc_pattern3.findall(r.text):  # descriptionを直接取得
-                plugin["description"] = res[0]
+                plugin["description"] = res[0][0]
 
             if "version" not in plugin:
                 if res := version_pattern_simple.findall(r.text):  # ""でバージョンが書いてあるパターン(2,3で普通はとれる)
@@ -220,6 +230,9 @@ def fetch(addon_type, download_url):
 
             return [plugin_name, plugin]
         except:
+            print("------ Error on parsing a plugin -----------")
+            print(download_url)
+            print(traceback2.format_exc())
             return None
 
     elif addon_type == "theme":
