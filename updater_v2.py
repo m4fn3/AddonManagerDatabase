@@ -19,17 +19,19 @@ load_dotenv(os.path.join(os.path.dirname(__file__), ".env"))
 # Client作成
 bot = commands.Bot("!", self_bot=True, intents=discord.Intents.default())
 
-debug = False
-dump_all = False
+# 設定
+debug = True
+dump_all = True
 
 # データ
 channel_ids = {
     "plugin": 961782195767365732,
     "theme": 961782176062509117
-} if not debug else {
-    "plugin": 1066087899449274479,
-    "theme": 1066087924904509523
 }
+# } if not debug else {
+#     "plugin": 1066087899449274479,
+#     "theme": 1066087924904509523
+# }
 
 # 正規表現
 js_pattern = re.compile(r"https?://[\w!?/+\-_~;.,*&@#$%()'[\]]+\.js")
@@ -44,14 +46,19 @@ emoji_pattern = re.compile(r"<a?:.+?:\d{18}>")
 title_pattern = re.compile(r"^\*\*.*?\n\n")
 title2_pattern = re.compile(r"^\*\*.*?\n")
 command_pattern = re.compile(r"</(.+?):1>")
-desc_pattern1 = re.compile(r"{name:[a-zA-Z_]+,.*?description:([a-zA-Z_]+)")  # <一般的なパターン> 1~2文字の略された変数で、その変数の指す値をとりに行く
-desc_pattern2 = re.compile(r'version:"([0-9.]+)",.*?description:["\'](.*?)["\']')  # ""で文字列が直接入っているパターン(より絞れる)
-desc_pattern3 = re.compile(r'{name:"[a-zA-Z_]+",.*?description:["\'](.*?)["\']')  # ""で文字列が直接入っているパターン2(versionがない場合もあるので/コマンドがひっかる場合もあるので注意)
-desc_pattern4 = re.compile(r'description:\s*["\'](.*?)["\']')  # minifyされていないコード
-variable_pattern = rf'=["\'](.*?)["\'],'
-version_pattern = re.compile(r'version:\s*["\']([0-9.]+)["\']')
-version_pattern2 = re.compile(r"{name:[a-zA-Z_]+,.*?version:([a-zA-Z_]+)")
+desc_pattern1 = re.compile(r"{name:[a-zA-Z0-9_]+,.*?description:([a-zA-Z0-9_]+)")  # <一般的なパターン> 1~2文字の略された変数で、その変数の指す値をとりに行く
+desc_pattern2 = re.compile(r'{name:"[a-zA-Z_]+",.*?description:["\'](.*?)["\']')  # <特殊なパターン> 直接文字列が指定されている
+desc_pattern3 = re.compile(r'description:\s*["\'](.*?)["\']')  # <超特殊なパターン> minifyされていない場合
+variable_pattern = r'=["\'](.*?)["\'],'  # TODO: 最後の,は必要か不明
+variable_pattern_list = r'=(\[.*?\]),'
+version_pattern1 = re.compile(r"{name:[a-zA-Z0-9_]+,.*?version:([a-zA-Z0-9_]+)")
+version_pattern2 = re.compile(r'{name:"[a-zA-Z_]+",.*?version:"([0-9.]+)"')
+version_pattern_simple = re.compile(r'version:\s*["\']([0-9.]+)["\']')
 version_pattern_raw = re.compile(r'[0-9.]+')
+color_pattern1 = re.compile(r"{name:[a-zA-Z0-9_]+,.*?color:([a-zA-Z0-9_]+)")
+color_pattern2 = re.compile(r'{name:"[a-zA-Z_]+",.*?color:"([0-9a-fA-F#]+)"')
+author_pattern1 = re.compile(r"{name:[a-zA-Z0-9_]+,.*?authors:([a-zA-Z0-9_]+)")
+author_pattern2 = re.compile(r'{name:"[a-zA-Z_]+",.*?authors:(\[.*?\])')
 
 # 独自設定
 exclude_addons = {
@@ -75,14 +82,15 @@ cached = {}  # message_id: timestamp
 
 # GitHubに更新を反映
 def push_changes(addon_type, log="No Log"):
-    t = str(time.time())
+    if not debug:
+        t = str(time.time())
 
-    with open(f"{addon_type}s_update.txt", "w") as f:
-        f.write(t)
+        with open(f"{addon_type}s_update.txt", "w") as f:
+            f.write(t)
 
-    os.system("git add .")
-    os.system(f'git commit -m "{log}"')
-    os.system("git push")
+        os.system("git add .")
+        os.system(f'git commit -m "{log}"')
+        os.system("git push")
 
 
 def pull_changes():
@@ -155,6 +163,18 @@ async def loop():
         check_update(addon_type)
 
 
+# JavaScript形式の連想配列をプロパティ名を囲ってjson形式に変換
+def format_author_array(raw):
+    # TODO: とりあえずなんとかしているが本来は正規表現で対処すべき
+    formatted = raw.replace('name:', '"name":').replace('id:', '"id":').replace("profile:", '"profile":').replace("icon:", '"icon":')
+    try:
+        json.loads(formatted)
+    except:  # とりあえず無視
+        return None
+    else:
+        return formatted
+
+
 # URLからダウンロードして情報を解析する
 def fetch(addon_type, download_url):
     if addon_type == "plugin":
@@ -172,21 +192,30 @@ def fetch(addon_type, download_url):
             if res := desc_pattern1.findall(r.text):  # descriptionに対応する変数名を取得
                 res = re.findall(res[0] + variable_pattern, r.text)  # 変数名に対応する値を取得
                 plugin["description"] = res[0]
-                # バージョン解析 - 同様に
-                if res := version_pattern2.findall(r.text):
+                if res := version_pattern1.findall(r.text):  # versionも同様に
                     res = re.findall(res[0] + variable_pattern, r.text)
                     plugin["version"] = res[0]
-            elif res := desc_pattern2.findall(r.text):
-                # まとめて取得
-                plugin["version"] = res[0][0]
-                plugin["description"] = res[0][1]
-            elif res := desc_pattern3.findall(r.text):
+                if res := color_pattern1.findall(r.text):  # colorも同様に
+                    res = re.findall(res[0] + variable_pattern, r.text)
+                    plugin["color"] = res[0]
+                if res := author_pattern1.findall(r.text):  # authorも同様に
+                    res = re.findall(res[0] + variable_pattern_list, r.text)
+                    if author := format_author_array(res[0]):
+                        plugin["author"] = author
+            elif res := desc_pattern2.findall(r.text):  # descriptionを直接取得
                 plugin["description"] = res[0]
-            elif res := desc_pattern4.findall(r.text):
+                if res := version_pattern2.findall(r.text):  # versionも同様に
+                    plugin["version"] = res[0]
+                if res := color_pattern2.findall(r.text):  # colorも同様に
+                    plugin["color"] = res[0]
+                if res := author_pattern2.findall(r.text):  # authorも同様に
+                    if author := format_author_array(res[0]):
+                        plugin["author"] = author
+            elif res := desc_pattern3.findall(r.text):  # descriptionを直接取得
                 plugin["description"] = res[0]
 
             if "version" not in plugin:
-                if res := version_pattern.findall(r.text):  # ""でバージョンが書いてあるパターン(2,3で普通はとれる)
+                if res := version_pattern_simple.findall(r.text):  # ""でバージョンが書いてあるパターン(2,3で普通はとれる)
                     plugin["version"] = res[0]
 
             return [plugin_name, plugin]

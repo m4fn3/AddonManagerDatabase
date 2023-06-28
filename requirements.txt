@@ -4,3 +4,4 @@ discord===1.7.3
 python-dotenv
 tqdm
 traceback2
+-e git+https://github.com/dolfies/discord.py-self@renamed#egg=selfcord.py
