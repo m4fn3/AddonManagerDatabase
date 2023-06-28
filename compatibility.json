@@ -17,11 +17,11 @@
       "ver": "Unknown"
     },
     "Catboys": {
-      "text": "Plugin will not load at all.\n\nError: Fatal error with Catboys.js: [TypeError: Cannot read property 'React' of undefined]",
+      "text": "Plugin will not load at all.",
       "ver": "Unknown"
     },
     "Catgirls": {
-      "text": "Plugin will not load at all.\n\nError: Fatal error with Catgirls.js: [TypeError: Cannot read property 'React' of undefined]",
+      "text": "Plugin will not load at all.",
       "ver": "Unknown"
     },
     "CopyEmbeds": {
@@ -29,7 +29,7 @@
       "ver": "Unknown"
     },
     "CreateWebhooks": {
-      "text": "Plugin will not load at all.\n\nError: Fatal error with CreateWebhooks.js: [TypeError: Cannot read property 'default' of undefined]",
+      "text": "Plugin will not load at all.",
       "ver" : "~174.0"
     },
     "CutMessage": {
@@ -37,7 +37,7 @@
       "ver": "Unknown"
     },
     "Downloader": {
-      "text": "Download button does not appear in the link context menu. \n\nError: Could not fire after patch for default of downloader [TypeError: Cannot read property 'key' of undefined]",
+      "text": "Download button does not appear in the link context menu.",
       "ver": "~156.0"
     },
     "Freemoji": {
@@ -81,7 +81,7 @@
       "ver": "~157.0"
     },
     "wttr": {
-      "text": "Plugin will not load at all.\n\nError: Fatal error with wttr.js: [TypeError: Cannot read property 'React' of undefined]",
+      "text": "Plugin will not load at all.",
       "ver": "Unknown"
     },
     "Moyai": {
