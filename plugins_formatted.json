@@ -1,4 +1,29 @@
 {
+  "HighlightCode": {
+    "url": "https://raw.githubusercontent.com/m4fn3/HighlightCode/master/dist/HighlightCode.js",
+    "description": "Code highlighting for iOS!?",
+    "version": "1.0.0"
+  },
+  "PreviewFile": {
+    "url": "https://raw.githubusercontent.com/m4fn3/PreviewFile/master/dist/PreviewFile.js",
+    "description": "allow previewing text files",
+    "version": "1.0.1"
+  },
+  "FileSizeOnPicker": {
+    "url": "https://raw.githubusercontent.com/m4fn3/FileSizeOnPicker/master/dist/FileSizeOnPicker.js",
+    "description": "Show the size of files in the media picker",
+    "version": "1.0.0"
+  },
+  "ShowUserName": {
+    "url": "https://raw.githubusercontent.com/m4fn3/ShowUserName/master/dist/ShowUserName.js",
+    "description": "Show username in chat views",
+    "version": "1.0.1"
+  },
+  "Presence": {
+    "url": "https://raw.githubusercontent.com/SerStars/EnmityPresence/README/src/Presence.js",
+    "description": "A custom rich presence (RPC)",
+    "version": "1.0.0"
+  },
   "SuppressEmbeds": {
     "url": "https://raw.githubusercontent.com/HypedDomi/Enmity-Stuff/main/dist/SuppressEmbeds.js",
     "description": "Allows you to Suppress/Unsuppress Embeds",
@@ -125,9 +150,7 @@
     "version": "1.1.6"
   },
   "Downloader": {
-    "url": "https://github.com/ConnorDoesDev/enmity-plugins/releases/download/Downloader/Downloader.js",
-    "description": "Install plugins or themes by simply pressing a button.",
-    "version": "1.0.1"
+    "url": "https://github.com/ConnorDoesDev/enmity-plugins/releases/download/Downloader/Downloader.js"
   },
   "K2geLocker": {
     "url": "https://raw.githubusercontent.com/m4fn3/K2geLocker/master/dist/K2geLocker.js",
@@ -170,9 +193,7 @@
     "version": "1.2.6"
   },
   "CopyEmbeds": {
-    "url": "https://github.com/SirTenzin/enmity-copy-embed/releases/latest/download/CopyEmbeds.js",
-    "description": "Copy the content of an embed.",
-    "version": "1.3.0"
+    "url": "https://github.com/SirTenzin/enmity-copy-embed/releases/latest/download/CopyEmbeds.js"
   },
   "GetThatRory": {
     "url": "https://niko.earth/rawgh/EnPlugins/main/GetThatRory/Release/GetThatRory.js",
@@ -263,9 +284,7 @@
     "version": "1.0.0"
   },
   "AssetViewer": {
-    "url": "https://github.com/devicarus/enmity-asset-viewer/releases/download/latest/AssetViewer.js",
-    "description": "Viewer of assets provided by the Enmity Asset API",
-    "version": "0.2.2"
+    "url": "https://github.com/devicarus/enmity-asset-viewer/releases/download/latest/AssetViewer.js"
   },
   "UserDetails": {
     "url": "https://raw.githubusercontent.com/discord-modifications/enmity-addons/main/Plugins/UserDetails/dist/UserDetails.js",
@@ -365,10 +384,5 @@
     "url": "https://raw.githubusercontent.com/m4fn3/FixVoiceMessageCrash/master/dist/FixVoiceMessageCrash.js",
     "description": "Show voice messages as a normal attachment to avoid crash",
     "version": "1.0.2"
-  },
-  "Presence": {
-    "url": "https://raw.githubusercontent.com/SerStars/EnmityPresence/README/src/Presence.js",
-    "description": "A custom rich presence (RPC)",
-    "version": "1.0.0"
   }
 }
