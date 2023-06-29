@@ -49,11 +49,6 @@
     "url": "https://raw.githubusercontent.com/VodkaXMartini/EnmityTheme/main/MidnightEspresso.json",
     "description": "Original theme made by kanned (karto) for AliucordKT, ported to Vendetta by Vodka Martini"
   },
-  "Cerulean": {
-    "url": "https://github.com/RyFol/Cerulean/releases/download/Rosiecord/Cerulean.json",
-    "description": "For 173+ | A Teal theme with a splash of pink highlights ",
-    "version": "1.0.0"
-  },
   "LavenderHeaven": {
     "url": "https://raw.githubusercontent.com/VodkaXMartini/EnmityTheme/main/LavenderHeaven.json",
     "description": "A purply theme made by Vodka Martini",
@@ -68,11 +63,6 @@
     "url": "https://raw.githubusercontent.com/YuhMuva/Kuromii/main/Kuromii.json",
     "description": "Kuromi Theme (For Femboys)",
     "version": "1"
-  },
-  "RedLove": {
-    "url": "https://github.com/RyFol/RedLove/releases/download/Enmity/RedLove.json",
-    "description": "A hearty theme primarily red with white accents ",
-    "version": "1.0.1"
   },
   "PurpleKitty": {
     "url": "https://raw.githubusercontent.com/VodkaXMartini/EnmityTheme/main/PurpleKitty.json",
@@ -92,16 +82,6 @@
     "url": "https://raw.githubusercontent.com/VodkaXMartini/EnmityTheme/main/Midnight.json",
     "description": "Original theme made by refact0r for Better Discord, ported to RN by Vodka Martini",
     "version": "1.0"
-  },
-  "BlacknBlue": {
-    "url": "https://github.com/RyFol/Black-n-Blue-Enmity-Theme/releases/download/Enmity/BlacknBlue.json",
-    "description": "A Black theme with blue accents ",
-    "version": "1.0.1"
-  },
-  "BlacknRed": {
-    "url": "https://github.com/RyFol/Black-n-Red-Emnity-Theme/releases/download/Enmity/BlacknRed.json",
-    "description": "A Black theme with red accents ",
-    "version": "2.0"
   },
   "Bonfire": {
     "url": "https://raw.githubusercontent.com/phoenixyyz/Enmity-Themes/main/Bonfire.json",
