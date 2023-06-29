@@ -150,7 +150,9 @@
     "version": "1.1.6"
   },
   "Downloader": {
-    "url": "https://github.com/ConnorDoesDev/enmity-plugins/releases/download/Downloader/Downloader.js"
+    "url": "https://github.com/ConnorDoesDev/enmity-plugins/releases/download/Downloader/Downloader.js",
+    "description": "Install plugins or themes by simply pressing a button.",
+    "version": "1.0.1"
   },
   "K2geLocker": {
     "url": "https://raw.githubusercontent.com/m4fn3/K2geLocker/master/dist/K2geLocker.js",
@@ -193,7 +195,9 @@
     "version": "1.2.6"
   },
   "CopyEmbeds": {
-    "url": "https://github.com/SirTenzin/enmity-copy-embed/releases/latest/download/CopyEmbeds.js"
+    "url": "https://github.com/SirTenzin/enmity-copy-embed/releases/latest/download/CopyEmbeds.js",
+    "description": "Copy the content of an embed.",
+    "version": "1.3.0"
   },
   "GetThatRory": {
     "url": "https://niko.earth/rawgh/EnPlugins/main/GetThatRory/Release/GetThatRory.js",
@@ -284,7 +288,9 @@
     "version": "1.0.0"
   },
   "AssetViewer": {
-    "url": "https://github.com/devicarus/enmity-asset-viewer/releases/download/latest/AssetViewer.js"
+    "url": "https://github.com/devicarus/enmity-asset-viewer/releases/download/latest/AssetViewer.js",
+    "description": "Viewer of assets provided by the Enmity Asset API",
+    "version": "0.2.2"
   },
   "UserDetails": {
     "url": "https://raw.githubusercontent.com/discord-modifications/enmity-addons/main/Plugins/UserDetails/dist/UserDetails.js",
