@@ -13,6 +13,7 @@ import time
 from tqdm import tqdm
 import json
 import demjson
+from discord_webhook import DiscordWebhook
 
 # 環境変数読込
 load_dotenv(verbose=True)
@@ -101,8 +102,8 @@ async def push_changes(addon_type: str, log: str = "No Log"):
             wh_url = os.environ["WH_PLUGIN"]
         elif addon_type == "theme":
             wh_url = os.environ["WH_THEME"]
-        webhook = selfcord.Webhook.from_url(wh_url)
-        await webhook.send("updated")
+        webhook = DiscordWebhook(url=wh_url, content='update!')
+        webhook.execute()
 
 
 def pull_changes():
