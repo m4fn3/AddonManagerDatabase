@@ -3,7 +3,7 @@ asyncio
 python-dotenv
 tqdm
 traceback2
--e git+https://github.com/dolfies/discord.py-self@renamed#egg=selfcord.py
+git+https://github.com/dolfies/discord.py-self@renamed#egg=selfcord.py
 demjson
 brotlipy
 discord-webhook
