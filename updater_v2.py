@@ -96,6 +96,14 @@ def push_changes(addon_type: str, log: str = "No Log"):
         os.system(f'git commit -m "{log}"')
         os.system("git push")
 
+        wh_url = ""
+        if addon_type == "plugin":
+            wh_url = os.environ["WH_PLUGIN"]
+        elif addon_type == "theme":
+            wh_url = os.environ["WH_THEME"]
+        webhook = selfcord.Webhook.from_url(wh_url)
+        await webhook.send("updated")
+
 
 def pull_changes():
     if not debug:
