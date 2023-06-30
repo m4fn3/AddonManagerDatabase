@@ -1,4 +1,29 @@
 {
+  "HighlightCode": {
+    "url": "https://raw.githubusercontent.com/m4fn3/HighlightCode/master/dist/HighlightCode.js",
+    "description": "Code highlighting for iOS!?",
+    "version": "1.0.0"
+  },
+  "PreviewFile": {
+    "url": "https://raw.githubusercontent.com/m4fn3/PreviewFile/master/dist/PreviewFile.js",
+    "description": "allow previewing text files",
+    "version": "1.0.1"
+  },
+  "FileSizeOnPicker": {
+    "url": "https://raw.githubusercontent.com/m4fn3/FileSizeOnPicker/master/dist/FileSizeOnPicker.js",
+    "description": "Show the size of files in the media picker",
+    "version": "1.0.0"
+  },
+  "ShowUserName": {
+    "url": "https://raw.githubusercontent.com/m4fn3/ShowUserName/master/dist/ShowUserName.js",
+    "description": "Show username in chat views",
+    "version": "1.0.1"
+  },
+  "Presence": {
+    "url": "https://raw.githubusercontent.com/SerStars/EnmityPresence/README/src/Presence.js",
+    "description": "A custom rich presence (RPC)",
+    "version": "1.0.0"
+  },
   "SuppressEmbeds": {
     "url": "https://raw.githubusercontent.com/HypedDomi/Enmity-Stuff/main/dist/SuppressEmbeds.js",
     "description": "Allows you to Suppress/Unsuppress Embeds",
@@ -365,10 +390,5 @@
     "url": "https://raw.githubusercontent.com/m4fn3/FixVoiceMessageCrash/master/dist/FixVoiceMessageCrash.js",
     "description": "Show voice messages as a normal attachment to avoid crash",
     "version": "1.0.2"
-  },
-  "Presence": {
-    "url": "https://raw.githubusercontent.com/SerStars/EnmityPresence/README/src/Presence.js",
-    "description": "A custom rich presence (RPC)",
-    "version": "1.0.0"
   }
 }
