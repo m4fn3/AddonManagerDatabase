@@ -195,7 +195,7 @@ async def loop() -> None:
     pull_changes()
     # check updates respectively
     for addon_type in ["plugin", "theme"]:
-        check_update(addon_type)
+        await check_update(addon_type)
 
 
 # JavaScript形式の連想配列をプロパティ名を囲ってjson形式に変換
@@ -454,7 +454,7 @@ async def dump_all(addon_type: str):
 
 
 # 既存のアドオンの更新を確認して情報を更新する
-def check_update(addon_type: str):
+async def check_update(addon_type: str):
     """
     check updates of all addons of the specific addon type
     :param addon_type: either plugin or theme
