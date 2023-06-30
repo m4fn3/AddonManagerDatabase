@@ -85,7 +85,7 @@ cached = {}  # message_id: timestamp
 
 
 # GitHubに更新を反映
-def push_changes(addon_type: str, log: str = "No Log"):
+async def push_changes(addon_type: str, log: str = "No Log"):
     if not debug:
         t = str(time.time())
 
@@ -408,7 +408,7 @@ async def upsert(addon_type: str, message: selfcord.Message, is_edit: bool = Fal
                 json.dump(data, f, ensure_ascii=False)
             with open(f"{addon_type}s_formatted.json", "w", encoding="utf-8") as f:
                 json.dump(data, f, ensure_ascii=False, indent=2)
-            push_changes(addon_type, f"[{'Edit' if is_edit else 'Add'}] {res[0]} ({addon_type})")
+            await push_changes(addon_type, f"[{'Edit' if is_edit else 'Add'}] {res[0]} ({addon_type})")
     except:
         print(traceback2.format_exc())
 
@@ -448,7 +448,7 @@ async def dump_all(addon_type: str):
             json.dump(data, f, ensure_ascii=False)
         with open(f"{addon_type}s_formatted.json", "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
-        push_changes(addon_type, f"[Dump] {addon_type}")
+        await push_changes(addon_type, f"[Dump] {addon_type}")
     except:
         print(traceback2.format_exc(()))
 
@@ -477,7 +477,7 @@ def check_update(addon_type: str):
             json.dump(data, f, ensure_ascii=False)
         with open(f"{addon_type}s_formatted.json", "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
-        push_changes(addon_type, f"[Update] {','.join(updated)} ({addon_type})")
+        await push_changes(addon_type, f"[Update] {','.join(updated)} ({addon_type})")
         return True
     else:
         return False
