@@ -8,13 +8,15 @@
         "id": "705853948052897813"
       }
     ],
-    "version": "1.5"
+    "version": "1.5",
+    "message_id": 1114623295900360906
   },
   "Gruvbox": {
     "url": "https://cdn.discordapp.com/attachments/1070264120508698704/1095380923471626260/gruvbox.json",
     "description": "Gruvbox Dark",
     "color": "#ebdbb2",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "message_id": 1109771267868987422
   },
   "PurpleGalaxy": {
     "url": "https://raw.githubusercontent.com/VodkaXMartini/EnmityTheme/main/PurpleGalaxy.json",
@@ -25,7 +27,8 @@
         "id": "1068030255455015013"
       }
     ],
-    "color": "#4d4463"
+    "color": "#4d4463",
+    "message_id": 1101894373475635311
   },
   "Ethereal": {
     "url": "https://raw.githubusercontent.com/ngw69/enmity/main/Ethereal.json",
@@ -37,7 +40,8 @@
       }
     ],
     "color": "#000000",
-    "version": "2.0"
+    "version": "2.0",
+    "message_id": 1101078089481588796
   },
   "ClearVision": {
     "url": "https://raw.githubusercontent.com/ngw69/enmity/main/ClearVision.json",
@@ -48,7 +52,8 @@
         "id": "757530324686340197"
       }
     ],
-    "version": "1.0"
+    "version": "1.0",
+    "message_id": 1100824877642031185
   },
   "Serene_Horizon": {
     "url": "https://raw.githubusercontent.com/ngw69/enmity/main/Serene_Horizon.json",
@@ -59,7 +64,8 @@
         "id": "757530324686340197"
       }
     ],
-    "version": "1.0"
+    "version": "1.0",
+    "message_id": 1100822868222296114
   },
   "Katana": {
     "url": "https://raw.githubusercontent.com/VodkaXMartini/EnmityTheme/main/Katana.json",
@@ -70,7 +76,8 @@
         "id": "1068030255455015013"
       }
     ],
-    "color": "#4d4463"
+    "color": "#4d4463",
+    "message_id": 1099328522000015400
   },
   "Vision": {
     "url": "https://raw.githubusercontent.com/VodkaXMartini/EnmityTheme/main/Vision.json",
@@ -81,7 +88,8 @@
         "id": "1068030255455015013"
       }
     ],
-    "color": "#4d4463"
+    "color": "#4d4463",
+    "message_id": 1098353386803433534
   },
   "Sultan": {
     "url": "https://raw.githubusercontent.com/Leizurly/discord-sultan-v2/main/Sultan.json",
@@ -93,7 +101,8 @@
       }
     ],
     "color": "#BB000E",
-    "version": "2.0"
+    "version": "2.0",
+    "message_id": 1097575323178106900
   },
   "Pebble": {
     "url": "https://raw.githubusercontent.com/VodkaXMartini/EnmityTheme/main/Pebble.json",
@@ -103,7 +112,8 @@
         "name": "Vodka Martini",
         "id": "1068030255455015013"
       }
-    ]
+    ],
+    "message_id": 1096819188238127156
   },
   "MidnightEspresso": {
     "url": "https://raw.githubusercontent.com/VodkaXMartini/EnmityTheme/main/MidnightEspresso.json",
@@ -117,7 +127,21 @@
         "name": "Vodka Martini",
         "id": "1068030255455015013"
       }
-    ]
+    ],
+    "message_id": 1096818773090111599
+  },
+  "Cerulean": {
+    "url": "https://github.com/RyFol/Cerulean/releases/download/Rosiecord/Cerulean.json",
+    "description": "For 173+ | A Teal theme with a splash of pink highlights ",
+    "author": [
+      {
+        "name": "RyanFol#0001",
+        "id": "12345678910111213"
+      }
+    ],
+    "color": "#FFB6C1",
+    "version": "1.0.0",
+    "message_id": 1091099257953599679
   },
   "LavenderHeaven": {
     "url": "https://raw.githubusercontent.com/VodkaXMartini/EnmityTheme/main/LavenderHeaven.json",
@@ -128,7 +152,8 @@
         "id": "1068030255455015013"
       }
     ],
-    "version": "1.3"
+    "version": "1.3",
+    "message_id": 1091040779146895460
   },
   "DawnSpace": {
     "url": "https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/DawnSpace.json",
@@ -139,11 +164,12 @@
         "id": "705853948052897813"
       }
     ],
-    "version": "1.2"
+    "version": "1.2",
+    "message_id": 1090134756877934592
   },
-  "Kuromii": {
-    "url": "https://raw.githubusercontent.com/YuhMuva/Kuromii/main/Kuromii.json",
-    "description": "Kuromi Theme (For Femboys)",
+  "KuromiiPad": {
+    "url": "https://raw.githubusercontent.com/YuhMuva/Kuromii/main/KuromiiPad.json",
+    "description": "Kuromi iPad Theme (For Femboys)",
     "author": [
       {
         "name": "YuhMuva#1799",
@@ -151,7 +177,21 @@
       }
     ],
     "color": "#fdc0d2",
-    "version": "1"
+    "version": "1",
+    "message_id": 1089989342761595031
+  },
+  "RedLove": {
+    "url": "https://github.com/RyFol/RedLove/releases/download/Enmity/RedLove.json",
+    "description": "A hearty theme primarily red with white accents ",
+    "author": [
+      {
+        "name": "RyanFol#0001",
+        "id": "12345678910111213"
+      }
+    ],
+    "color": "#B30018",
+    "version": "1.0.1",
+    "message_id": 1089662371867402281
   },
   "PurpleKitty": {
     "url": "https://raw.githubusercontent.com/VodkaXMartini/EnmityTheme/main/PurpleKitty.json",
@@ -161,7 +201,8 @@
         "name": "Vodka Martini",
         "id": "1068030255455015013"
       }
-    ]
+    ],
+    "message_id": 1088523145683677286
   },
   "BubblegumBliss": {
     "url": "https://raw.githubusercontent.com/RyFol/BubblegumBliss/main/BubblegumBliss.json",
@@ -173,10 +214,11 @@
       }
     ],
     "color": "#FE5BAC",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "message_id": 1088519111669190666
   },
-  "RosiePink170": {
-    "url": "https://cdn.discordapp.com/attachments/1011346757214543875/1108672095845621861/RosiePink170.json",
+  "RosiePink164": {
+    "url": "https://cdn.discordapp.com/attachments/1011346757214543875/1087040242546126988/RosiePink164.json",
     "description": "Rosie v2 but wayy more pink :333",
     "author": [
       {
@@ -185,7 +227,8 @@
       }
     ],
     "color": "#ff91ff",
-    "version": "2.3"
+    "version": "1.9",
+    "message_id": 1087041681783783545
   },
   "Midnight": {
     "url": "https://raw.githubusercontent.com/VodkaXMartini/EnmityTheme/main/Midnight.json",
@@ -196,7 +239,34 @@
         "id": "1068030255455015013"
       }
     ],
-    "version": "1.0"
+    "version": "1.0",
+    "message_id": 1085932816749047808
+  },
+  "BlacknBlue": {
+    "url": "https://github.com/RyFol/Black-n-Blue-Enmity-Theme/releases/download/Enmity/BlacknBlue.json",
+    "description": "A Black theme with blue accents ",
+    "author": [
+      {
+        "name": "RyanFol#0001",
+        "id": "12345678910111213"
+      }
+    ],
+    "color": "#2368FB",
+    "version": "1.0.1",
+    "message_id": 1085708875078049865
+  },
+  "BlacknRed": {
+    "url": "https://github.com/RyFol/Black-n-Red-Emnity-Theme/releases/download/Enmity/BlacknRed.json",
+    "description": "A Black theme with red accents ",
+    "author": [
+      {
+        "name": "RyanFol#0001",
+        "id": "12345678910111213"
+      }
+    ],
+    "color": "#D2042D",
+    "version": "2.0",
+    "message_id": 1085708439679930500
   },
   "Bonfire": {
     "url": "https://raw.githubusercontent.com/phoenixyyz/Enmity-Themes/main/Bonfire.json",
@@ -208,7 +278,8 @@
       }
     ],
     "color": "#e69138",
-    "version": "1.0"
+    "version": "1.0",
+    "message_id": 1085705108198797332
   },
   "BetterDefault": {
     "url": "https://raw.githubusercontent.com/VodkaXMartini/EnmityTheme/main/BetterDefault.json",
@@ -223,7 +294,8 @@
         "id": "1068030255455015013"
       }
     ],
-    "version": "1.0"
+    "version": "1.0",
+    "message_id": 1085684267616579725
   },
   "EmeraldPeppermint": {
     "url": "https://raw.githubusercontent.com/VodkaXMartini/EnmityTheme/main/EmeraldPeppermint.json",
@@ -234,7 +306,8 @@
         "id": "1068030255455015013"
       }
     ],
-    "version": "1.0"
+    "version": "1.0",
+    "message_id": 1085483321989005434
   },
   "Primrose": {
     "url": "https://github.com/imrevertz/Primrose/raw/main/Primrose.json",
@@ -245,7 +318,8 @@
         "id": "1056288327399129108"
       }
     ],
-    "version": "1.0"
+    "version": "1.0",
+    "message_id": 1085389317565853716
   },
   "Blushy": {
     "url": "https://cdn.discordapp.com/attachments/1082431980609749103/1082432844430856232/Blushy.json",
@@ -256,7 +330,8 @@
         "id": "499287211381096458"
       }
     ],
-    "version": "1.2"
+    "version": "1.2",
+    "message_id": 1082449202971418714
   },
   "Meowtumn": {
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Meowtumn.json",
@@ -267,7 +342,8 @@
         "id": "499287211381096458"
       }
     ],
-    "version": "1.0"
+    "version": "1.0",
+    "message_id": 1078384990393483304
   },
   "itachi_one": {
     "url": "https://raw.githubusercontent.com/slick787/itachi_one/main/itachi_one.json",
@@ -278,7 +354,8 @@
         "id": "706241165090881548"
       }
     ],
-    "version": "1.0"
+    "version": "1.0",
+    "message_id": 1058203761606144120
   },
   "Pine": {
     "url": "https://cdn.discordapp.com/attachments/792901931341053983/1057064282824650752/Pine.json",
@@ -290,7 +367,8 @@
       }
     ],
     "color": "#cda88f",
-    "version": "1.0"
+    "version": "1.0",
+    "message_id": 1057064721049731083
   },
   "Ultra": {
     "url": "https://raw.githubusercontent.com/TheCommieAxolotl/BetterDiscord-Stuff/main/Ultra/Ultra.json",
@@ -301,7 +379,8 @@
         "id": "538487970408300544"
       }
     ],
-    "version": "1.0.6"
+    "version": "1.0.6",
+    "message_id": 1057046116371279982
   },
   "Sweetycon": {
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Sweetycon.json",
@@ -312,7 +391,8 @@
         "id": "499287211381096458"
       }
     ],
-    "version": "1.0"
+    "version": "1.0",
+    "message_id": 1046487233819062333
   },
   "Rosie-v2": {
     "url": "https://cdn.discordapp.com/attachments/792901931341053983/1042700256560807956/Rosie-v2.json",
@@ -323,7 +403,8 @@
         "id": "318191466373709826"
       }
     ],
-    "version": "1.0"
+    "version": "1.0",
+    "message_id": 1042701569768046635
   },
   "Material": {
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Material.json",
@@ -333,7 +414,8 @@
         "name": "Abby",
         "id": "499287211381096458"
       }
-    ]
+    ],
+    "message_id": 1038752560233844777
   },
   "raven": {
     "url": "https://raw.githubusercontent.com/slick787/raven-theme-enmity/main/raven.json",
@@ -344,7 +426,8 @@
         "id": "706241165090881548"
       }
     ],
-    "version": "1.0.1"
+    "version": "1.0.1",
+    "message_id": 1033998317916541029
   },
   "Joksys": {
     "url": "https://raw.githubusercontent.com/Joksy/Joksy-Enmity/main/Joksys-Theme-V1/Joksys.json",
@@ -356,7 +439,8 @@
       }
     ],
     "color": "#202a4a",
-    "version": "1.0"
+    "version": "1.0",
+    "message_id": 1031825622676275270
   },
   "Eris": {
     "url": "https://raw.githubusercontent.com/Yan-Jobs/enmity/main/themes/eris/Eris.json",
@@ -368,7 +452,8 @@
       }
     ],
     "color": "#14161A",
-    "version": "1.0"
+    "version": "1.0",
+    "message_id": 1031485875407826944
   },
   "DarkMatter": {
     "url": "https://raw.githubusercontent.com/ngw69/enmity/main/DarkMatter.json",
@@ -379,18 +464,20 @@
         "id": "757530324686340197"
       }
     ],
-    "version": "1.0"
+    "version": "1.0",
+    "message_id": 1030921808263778304
   },
-  "SpotifyDiscordAlt": {
-    "url": "https://cdn.discordapp.com/attachments/1017854329887129611/1038879642465075220/SpotifyDiscordAlt.json",
-    "description": "Spotify Theme Alternative:3",
+  "SpotifyDiscord": {
+    "url": "https://cdn.discordapp.com/attachments/1017854329887129611/1038879489335238796/SpotifyDiscord.json",
+    "description": "Spotify Theme:3",
     "author": [
       {
         "name": "flower",
         "id": "836452332387565589"
       }
     ],
-    "version": "1.0"
+    "version": "1.0",
+    "message_id": 1029998743430381689
   },
   "Tooper": {
     "url": "https://raw.githubusercontent.com/RedShkes/enmity/main/themes/Tooper.json",
@@ -402,11 +489,12 @@
       }
     ],
     "color": "#30EBFA",
-    "version": "1.0"
+    "version": "1.0",
+    "message_id": 1029878790563835978
   },
-  "Macchiato": {
-    "url": "https://raw.githubusercontent.com/catppuccin/enmity/main/themes/Macchiato.json",
-    "description": "☕️ Catppuccin Macchiato.",
+  "Frappé": {
+    "url": "https://raw.githubusercontent.com/catppuccin/enmity/main/themes/Frappe.json",
+    "description": "☕️ Catppuccin Frappe.",
     "author": [
       {
         "name": "112c",
@@ -417,8 +505,9 @@
         "id": "469514043053309952"
       }
     ],
-    "color": "#c6a0f6",
-    "version": "1.7"
+    "color": "#ca9ee6",
+    "version": "1.7",
+    "message_id": 1029526597428072571
   },
   "Cuddlebot": {
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Cuddlebot.json",
@@ -428,7 +517,8 @@
         "name": "Abby",
         "id": "499287211381096458"
       }
-    ]
+    ],
+    "message_id": 1020758601071079535
   },
   "Zelk": {
     "url": "https://raw.githubusercontent.com/compilekaiten/Enmity-Themes/main/Zelk/Zelk.json",
@@ -440,7 +530,8 @@
       }
     ],
     "color": "#8dd4f8",
-    "version": "1.2"
+    "version": "1.2",
+    "message_id": 964989885326954607
   },
   "DiscordPlus": {
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/DiscordPlus.json",
@@ -451,7 +542,8 @@
         "id": "499287211381096458"
       }
     ],
-    "version": "42.0"
+    "version": "42.0",
+    "message_id": 1017457562012094574
   },
   "Amethyst": {
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Amethyst.json",
@@ -461,7 +553,8 @@
         "name": "Abby",
         "id": "499287211381096458"
       }
-    ]
+    ],
+    "message_id": 1014230449800884305
   },
   "bliss": {
     "url": "https://joshuah345.github.io/enmity/themes/bliss.json",
@@ -473,7 +566,8 @@
       }
     ],
     "color": "#eed1c7",
-    "version": "1.0"
+    "version": "1.0",
+    "message_id": 1011809424467300444
   },
   "Everforest": {
     "url": "https://cdn.discordapp.com/attachments/836793351818706984/1011511835830259832/Everforest.json",
@@ -484,7 +578,8 @@
         "id": "836452332387565589"
       }
     ],
-    "version": "1.0"
+    "version": "1.0",
+    "message_id": 1011512395270721656
   },
   "EnmityHub": {
     "url": "https://cdn.discordapp.com/attachments/836793351818706984/1011499795711537223/EnmityHub.json",
@@ -495,7 +590,8 @@
         "id": "836452332387565589"
       }
     ],
-    "version": "1.0"
+    "version": "1.0",
+    "message_id": 1011499950007402556
   },
   "RosieDark": {
     "url": "https://cdn.discordapp.com/attachments/836793351818706984/1011495597263560704/RosieDark.json",
@@ -506,7 +602,8 @@
         "id": "836452332387565589"
       }
     ],
-    "version": "1.0"
+    "version": "1.0",
+    "message_id": 1011495817842008115
   },
   "Pink_ipad": {
     "url": "https://raw.githubusercontent.com/melonwer/themes/main/Pink_ipad.json",
@@ -517,7 +614,8 @@
         "id": "848518188195250176"
       }
     ],
-    "version": "1.0"
+    "version": "1.0",
+    "message_id": 1009476311766548581
   },
   "LinesAndLines": {
     "url": "https://raw.githubusercontent.com/melonwer/themes/main/LinesAndLines.json",
@@ -528,7 +626,8 @@
         "id": "848518188195250176"
       }
     ],
-    "version": "1.0"
+    "version": "1.0",
+    "message_id": 1009126385178128506
   },
   "Vamp_iphone": {
     "url": "https://raw.githubusercontent.com/melonwer/themes/main/Vamp_iphone.json",
@@ -539,7 +638,8 @@
         "id": "848518188195250176"
       }
     ],
-    "version": "1.0"
+    "version": "1.0",
+    "message_id": 1008773047215472731
   },
   "RosieBlue": {
     "url": "https://cdn.discordapp.com/attachments/864703971860152320/1004480615653052567/RosieBlue.json",
@@ -550,7 +650,8 @@
         "id": "318191466373709826"
       }
     ],
-    "version": "1.0"
+    "version": "1.0",
+    "message_id": 1003810994084139078
   },
   "Aurora": {
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Aurora.json",
@@ -560,7 +661,8 @@
         "name": "Abby",
         "id": "499287211381096458"
       }
-    ]
+    ],
+    "message_id": 1002523135549132921
   },
   "Harmony": {
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Harmony.json",
@@ -570,7 +672,8 @@
         "id": "499287211381096458"
       }
     ],
-    "version": "1.0"
+    "version": "1.0",
+    "message_id": 976434299609972737
   },
   "Yamato": {
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Yamato.json",
@@ -581,7 +684,8 @@
         "id": "499287211381096458"
       }
     ],
-    "version": "1.0"
+    "version": "1.0",
+    "message_id": 1001939263086145646
   },
   "Desperado": {
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Desperado.json",
@@ -590,7 +694,8 @@
         "name": "Abby",
         "id": "499287211381096458"
       }
-    ]
+    ],
+    "message_id": 1001853322837364837
   },
   "DEVILTR": {
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/DEVILTR.json",
@@ -601,7 +706,8 @@
         "id": "499287211381096458"
       }
     ],
-    "version": "6.6.6"
+    "version": "6.6.6",
+    "message_id": 1000923774616612914
   },
   "Discord_Dark": {
     "url": "https://syndishanx.github.io/Discord-Dark/Enmity/Discord_Dark.json",
@@ -612,7 +718,8 @@
         "id": "178394162381455360"
       }
     ],
-    "version": "1.16"
+    "version": "1.16",
+    "message_id": 999856916970864650
   },
   "Colr": {
     "url": "https://cdn.discordapp.com/attachments/836793351818706984/999823548296216586/Colr.json",
@@ -623,7 +730,8 @@
         "id": "836452332387565589"
       }
     ],
-    "version": "1.0"
+    "version": "1.0",
+    "message_id": 999823769885479052
   },
   "Lines": {
     "url": "https://raw.githubusercontent.com/pwnPwner/Enmity-Themes/main/Lines.json",
@@ -635,7 +743,8 @@
       }
     ],
     "color": "#212944",
-    "version": "1.2"
+    "version": "1.2",
+    "message_id": 999384657227423754
   },
   "Minthill": {
     "url": "https://raw.githubusercontent.com/pwnPwner/Enmity-Themes/main/Minthill.json",
@@ -647,7 +756,8 @@
       }
     ],
     "color": "#2E6049",
-    "version": "1.0"
+    "version": "1.0",
+    "message_id": 997924157394259999
   },
   "Abstract": {
     "url": "https://raw.githubusercontent.com/pwnPwner/Enmity-Themes/main/Abstract.json",
@@ -659,7 +769,8 @@
       }
     ],
     "color": "#2B2B2B",
-    "version": "1.0"
+    "version": "1.0",
+    "message_id": 997924141049053304
   },
   "DarkDiscord": {
     "url": "https://raw.githubusercontent.com/discord-modifications/enmity-addons/main/Themes/DarkDiscord.json",
@@ -670,7 +781,8 @@
         "id": "263689920210534400"
       }
     ],
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "message_id": 997726524356710530
   },
   "Enmity": {
     "url": "https://raw.githubusercontent.com/discord-modifications/enmity-addons/main/Themes/Enmity.json",
@@ -681,7 +793,8 @@
         "id": "263689920210534400"
       }
     ],
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "message_id": 997699569653657610
   },
   "Retrowave": {
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Retrowave.json",
@@ -692,7 +805,8 @@
         "id": "499287211381096458"
       }
     ],
-    "version": "15.07.2022"
+    "version": "15.07.2022",
+    "message_id": 997588047937933333
   },
   "Darktones": {
     "url": "https://raw.githubusercontent.com/pwnPwner/Enmity-Themes/main/Darktones.json",
@@ -704,7 +818,8 @@
       }
     ],
     "color": "#070F16",
-    "version": "1.0"
+    "version": "1.0",
+    "message_id": 996479595371040858
   },
   "DarkPlus": {
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/DarkPlus.json",
@@ -714,7 +829,8 @@
         "name": "Abby",
         "id": "499287211381096458"
       }
-    ]
+    ],
+    "message_id": 995045416003444797
   },
   "FEFE69": {
     "url": "https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/FEFE69.json",
@@ -726,7 +842,8 @@
       }
     ],
     "color": "#00B050",
-    "version": "69"
+    "version": "69",
+    "message_id": 992712535830712410
   },
   "Waveout": {
     "url": "https://raw.githubusercontent.com/pwnPwner/Enmity-Themes/main/Waveout.json",
@@ -738,7 +855,8 @@
       }
     ],
     "color": "#939DBD",
-    "version": "1.2"
+    "version": "1.2",
+    "message_id": 989065945576271902
   },
   "Landslide": {
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Landslide.json",
@@ -749,7 +867,8 @@
         "id": "499287211381096458"
       }
     ],
-    "version": "6.6.6"
+    "version": "6.6.6",
+    "message_id": 987078055493238834
   },
   "Pip-Boy": {
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Pip-Boy.json",
@@ -760,7 +879,8 @@
         "id": "499287211381096458"
       }
     ],
-    "version": "6.66"
+    "version": "6.66",
+    "message_id": 983405800309522563
   },
   "Femboy": {
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Femboy.json",
@@ -771,7 +891,8 @@
         "id": "499287211381096458"
       }
     ],
-    "version": "6.66"
+    "version": "6.66",
+    "message_id": 983240847732641843
   },
   "Minty": {
     "url": "https://cdn.niko.earth/Minty.json",
@@ -782,7 +903,8 @@
         "id": "341377368075796483"
       }
     ],
-    "version": "1.0"
+    "version": "1.0",
+    "message_id": 983166992292909106
   },
   "MyMemesEndedHere": {
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/MyMemesEndedHere.json",
@@ -793,7 +915,8 @@
         "id": "499287211381096458"
       }
     ],
-    "version": "6.66"
+    "version": "6.66",
+    "message_id": 982388246669570048
   },
   "Rosie": {
     "url": "https://cdn.discordapp.com/attachments/836793351818706984/1004479732244557884/Rosie.json",
@@ -804,7 +927,8 @@
         "id": "836452332387565589"
       }
     ],
-    "version": "1.0"
+    "version": "1.0",
+    "message_id": 981764823756967956
   },
   "StaryNight": {
     "url": "https://cdn.discordapp.com/attachments/836793351818706984/981709984205275146/StaryNight.json",
@@ -815,7 +939,8 @@
         "id": "836452332387565589"
       }
     ],
-    "version": "1.0"
+    "version": "1.0",
+    "message_id": 981452174582231050
   },
   "PrideTheme": {
     "url": "https://cdn.discordapp.com/attachments/836793351818706984/981443531837145088/PrideTheme.json",
@@ -826,7 +951,8 @@
         "id": "836452332387565589"
       }
     ],
-    "version": "1.0"
+    "version": "1.0",
+    "message_id": 981444308899074058
   },
   "Greytones": {
     "url": "https://raw.githubusercontent.com/pwnPwner/Enmity-Themes/main/Greytones.json",
@@ -838,7 +964,8 @@
       }
     ],
     "color": "#373A44",
-    "version": "1.1"
+    "version": "1.1",
+    "message_id": 981244123522678856
   },
   "Catppuccin": {
     "url": "https://raw.githubusercontent.com/pwnPwner/Enmity-Themes/main/Catppuccin.json",
@@ -850,7 +977,8 @@
       }
     ],
     "color": "#D9E0EE",
-    "version": "1.1"
+    "version": "1.1",
+    "message_id": 981117836565033010
   },
   "ArcadeLite": {
     "url": "https://cdn.discordapp.com/attachments/836793351818706984/979802401643053096/ArcadeLite.json",
@@ -861,7 +989,8 @@
         "id": "836452332387565589"
       }
     ],
-    "version": "0.3"
+    "version": "0.3",
+    "message_id": 979803517235626115
   },
   "Blurple": {
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Blurple.json",
@@ -871,7 +1000,8 @@
         "id": "499287211381096458"
       }
     ],
-    "version": "1.0"
+    "version": "1.0",
+    "message_id": 978767475858608138
   },
   "Cappuccino": {
     "url": "https://raw.githubusercontent.com/pwnPwner/Enmity-Themes/main/Cappuccino.json",
@@ -883,7 +1013,8 @@
       }
     ],
     "color": "#7D6E65",
-    "version": "1.0"
+    "version": "1.0",
+    "message_id": 978210628772700160
   },
   "Cydia": {
     "url": "https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/Cydia.json",
@@ -895,20 +1026,23 @@
       }
     ],
     "color": "#573022",
-    "version": "1.9"
+    "version": "1.9",
+    "message_id": 978186854526492742
   },
   "2077": {
-    "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/2077.json"
+    "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/2077.json",
+    "message_id": 978006668354912338
   },
-  "Strawberry": {
-    "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Strawberry.json",
+  "StrawberryV2": {
+    "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/StrawberryV2.json",
     "author": [
       {
         "name": "Abby",
         "id": "499287211381096458"
       }
     ],
-    "version": "1.0"
+    "version": "1.0",
+    "message_id": 975807948733435925
   },
   "Malina": {
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Malina.json",
@@ -918,7 +1052,8 @@
         "id": "499287211381096458"
       }
     ],
-    "version": "1.0"
+    "version": "1.0",
+    "message_id": 974929349910339634
   },
   "PinkAmoled": {
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/PinkAmoled.json",
@@ -929,10 +1064,12 @@
         "id": "499287211381096458"
       }
     ],
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "message_id": 974925780935135262
   },
   "Stealth": {
-    "url": "https://raw.githubusercontent.com/Bobrobot1/EnmityStealth/main/Stealth.json"
+    "url": "https://raw.githubusercontent.com/Bobrobot1/EnmityStealth/main/Stealth.json",
+    "message_id": 973641165939281960
   },
   "Matrix": {
     "url": "https://raw.githubusercontent.com/art3754/Useful-Things-discord-etc.-/main/Matrix.json",
@@ -942,7 +1079,8 @@
         "id": "499287211381096458"
       }
     ],
-    "version": "1.0"
+    "version": "1.0",
+    "message_id": 972216523353649213
   },
   "Toothpaste": {
     "url": "https://cdn.discordapp.com/attachments/836793351818706984/971961703166255174/Toothpaste.json",
@@ -953,7 +1091,8 @@
         "id": "836452332387565589"
       }
     ],
-    "version": "0.2"
+    "version": "0.2",
+    "message_id": 971612998215016488
   },
   "Rose": {
     "url": "https://rosieorthinanos.dev/Rose.json",
@@ -964,7 +1103,8 @@
         "id": "543174216493563925"
       }
     ],
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "message_id": 969375259742601247
   },
   "CityFog": {
     "url": "https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/CityFog.json",
@@ -976,7 +1116,8 @@
       }
     ],
     "color": "#C5C387",
-    "version": "1.9"
+    "version": "1.9",
+    "message_id": 968995070688784384
   },
   "Merlot": {
     "url": "https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/Merlot.json",
@@ -988,7 +1129,8 @@
       }
     ],
     "color": "#630707",
-    "version": "1.9"
+    "version": "1.9",
+    "message_id": 968416280732401714
   },
   "Carbon": {
     "url": "https://raw.githubusercontent.com/compilekaiten/Enmity-Themes/main/Carbon/Carbon.json",
@@ -1000,7 +1142,8 @@
       }
     ],
     "color": "#D65A31",
-    "version": "1.2"
+    "version": "1.2",
+    "message_id": 966537106220515328
   },
   "Nord": {
     "url": "https://raw.githubusercontent.com/compilekaiten/Enmity-Themes/main/Nord/Nord.json",
@@ -1012,10 +1155,12 @@
       }
     ],
     "color": "#5E81AC",
-    "version": "1.2"
+    "version": "1.2",
+    "message_id": 966128098976333845
   },
   "oceanic": {
-    "url": "https://raw.githubusercontent.com/DaredevilJB/Enmity-Themes/main/oceanic.json"
+    "url": "https://raw.githubusercontent.com/DaredevilJB/Enmity-Themes/main/oceanic.json",
+    "message_id": 965720141818114059
   },
   "Solar": {
     "url": "https://rosieorthinanos.dev/Solar.json",
@@ -1026,7 +1171,8 @@
         "id": "543174216493563925"
       }
     ],
-    "version": "1.0.2"
+    "version": "1.0.2",
+    "message_id": 965305141421039676
   },
   "Emerald": {
     "url": "https://rosieorthinanos.dev/Emerald.json",
@@ -1037,7 +1183,8 @@
         "id": "543174216493563925"
       }
     ],
-    "version": "1.0.3"
+    "version": "1.0.3",
+    "message_id": 964955294784421919
   },
   "Orthinanos": {
     "url": "https://rosieorthinanos.dev/Orthinanos.json",
@@ -1048,16 +1195,20 @@
         "id": "543174216493563925"
       }
     ],
-    "version": "1.0.3"
+    "version": "1.0.3",
+    "message_id": 964955161615286293
   },
   "discalm": {
-    "url": "https://raw.githubusercontent.com/redstonetechwiz/pastelcord/main/discalm.json"
+    "url": "https://raw.githubusercontent.com/redstonetechwiz/pastelcord/main/discalm.json",
+    "message_id": 963407202893303839
   },
   "flashbang": {
-    "url": "https://raw.githubusercontent.com/Leizurly/discord-flashbang/f047332d9b3baf83686c94979838a5da84876877/flashbang.json"
+    "url": "https://raw.githubusercontent.com/Leizurly/discord-flashbang/f047332d9b3baf83686c94979838a5da84876877/flashbang.json",
+    "message_id": 963321487803174923
   },
   "freeze": {
-    "url": "https://nya.lol/files/freeze.json"
+    "url": "https://nya.lol/files/freeze.json",
+    "message_id": 963307583303725076
   },
   "BozoTheClown": {
     "url": "https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/BozoTheClown.json",
@@ -1069,22 +1220,28 @@
       }
     ],
     "color": "#FF79FF",
-    "version": "1.9"
+    "version": "1.9",
+    "message_id": 963286879476781056
   },
   "lotus": {
-    "url": "https://static.itsnebula.net/lotus.json"
+    "url": "https://static.itsnebula.net/lotus.json",
+    "message_id": 963193731899596800
   },
   "tokyonight": {
-    "url": "https://static.itsnebula.net/tokyonight.json"
+    "url": "https://static.itsnebula.net/tokyonight.json",
+    "message_id": 963180624938684426
   },
   "mist": {
-    "url": "https://static.itsnebula.net/mist.json"
+    "url": "https://static.itsnebula.net/mist.json",
+    "message_id": 962774351361482843
   },
   "mars": {
-    "url": "https://static.itsnebula.net/mars.json"
+    "url": "https://static.itsnebula.net/mars.json",
+    "message_id": 962771901330116668
   },
   "dracula": {
-    "url": "https://static.itsnebula.net/dracula.json"
+    "url": "https://static.itsnebula.net/dracula.json",
+    "message_id": 962755829889642526
   },
   "Blu": {
     "url": "https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/Blu.json",
@@ -1096,7 +1253,8 @@
       }
     ],
     "color": "#9CDFFF",
-    "version": "1.9"
+    "version": "1.9",
+    "message_id": 962583127908302850
   },
   "AMOLED": {
     "url": "https://raw.githubusercontent.com/discord-modifications/enmity-addons/main/Themes/AMOLED.json",
@@ -1107,6 +1265,7 @@
         "id": "263689920210534400"
       }
     ],
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "message_id": 961813970333876254
   }
 }
