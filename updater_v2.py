@@ -229,13 +229,21 @@ def escape_regex(t: str) -> str:
     return t.replace("$", r"\$")
 
 
+def get_addon_name_from_url(addon_type: str, url: str) -> str:
+    if addon_type == "plugin":
+        return url.split("/")[-1].replace(".js", "")
+    elif addon_type == "theme":
+        return url.split("/")[-1].replace(".json", "")
+
+
 # URLからダウンロードして情報を解析する
-def fetch(addon_type, download_url, old_meta=None) -> Union[List[Union[str, dict]], None]:
+def fetch(addon_type, download_url, old_meta=None, message_id=None) -> Union[List[Union[str, dict]], None]:
     """
     fetch an raw addon code and parse the necessary data
     :param addon_type: plugin or theme
     :param download_url: install url of an addon
     :param old_meta: (optional) old metadata of an addon
+    :param message_id: message id of the original post
     :return: [addon_name, addon_data] (return None if it fails to download/parse the code)
     """
     if addon_type == "plugin":
@@ -305,9 +313,13 @@ def fetch(addon_type, download_url, old_meta=None) -> Union[List[Union[str, dict
                 if res := version_pattern_simple.findall(r.text):  # ""でバージョンが書いてあるパターン(2,3で普通はとれる)
                     plugin["version"] = res[0]
 
+            # save the message id of the original post
+            if message_id:
+                plugin["message_id"] = message_id
+
             # restore missing fields with old data if any
             if old_meta:
-                keys = ["description", "version", "color", "author", "last_update"]
+                keys = ["description", "version", "color", "author", "last_update", "message_id"]
                 for k in keys:
                     if (k not in plugin) and (k in old_meta):
                         plugin[k] = old_meta[k]
@@ -337,6 +349,18 @@ def fetch(addon_type, download_url, old_meta=None) -> Union[List[Union[str, dict
             if "version" in res:
                 if version_pattern_raw.fullmatch(res["version"]):  # 適当な文字列を入れているふざけたやつが含まれるので除く！
                     theme["version"] = res["version"]
+
+            # save the message id of the original post
+            if message_id:
+                theme["message_id"] = message_id
+
+            # restore missing fields with old data if any
+            if old_meta:
+                keys = ["description", "version", "color", "author", "message_id"]
+                for k in keys:
+                    if (k not in theme) and (k in old_meta):
+                        theme[k] = old_meta[k]
+
             return [res["name"], theme]
         except:
             return None
@@ -399,7 +423,12 @@ async def upsert(addon_type: str, message: selfcord.Message, is_edit: bool = Fal
             return
         with open(f"{addon_type}s.json", "r", encoding="utf-8") as f:
             data = json.load(f)
-        if res := fetch(addon_type, download_url):
+        # 新規追加でない場合は昔のデータを復元用に取得して渡す
+        addon_name = get_addon_name_from_url(addon_type, download_url)
+        params = {}
+        if addon_name in data:
+            params["old_meta"] = data[addon_name]
+        if res := fetch(addon_type, download_url, message_id=message.id, **params):
             data[res[0]] = res[1]
             meta = extract_preview(message, addon_type)
             with open(f"{addon_type}s/{res[0]}.json", "w", encoding="utf-8") as f:
@@ -434,7 +463,8 @@ async def dump_all(addon_type: str):
                 download_url = result[0]
                 if download_url in exclude_addons[addon_type]:
                     continue
-                if res := fetch(addon_type, download_url):
+                # dump_allは既存のデータを上書きして全取得しなおすことに意味があるのでold_metaは不要
+                if res := fetch(addon_type, download_url, message_id=message.id):
                     data[res[0]] = res[1]
                     meta = extract_preview(message, addon_type)
                     with open(f"{addon_type}s/{res[0]}.json", "w", encoding="utf-8") as f:
