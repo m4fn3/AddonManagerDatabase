@@ -123,7 +123,7 @@ async def on_ready() -> None:
             await dump_all(addon_type)
         async for message in bot.get_channel(channel_ids[addon_type]).history(limit=None):
             cached[message.id] = message.created_at
-    if not debug:
+    if not debug and not loop.is_running():
         loop.start()
 
 
