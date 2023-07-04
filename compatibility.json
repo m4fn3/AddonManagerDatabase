@@ -110,6 +110,14 @@
     "LMGTFY": {
       "text": "As the developer of this plugin was banned for misconduct in the server, you should avoid installing this plugin.\nPlease check #announcements in official Enmity server for more information.",
       "ver": "Not Recommended"
+    },
+    "PronounDB": {
+      "text": "Plugin will not load at all.",
+      "ver": "~186.0"
+    },
+    "ReviewDB": {
+      "text": "Plugin will not load at all.",
+      "ver": "~186.0"
     }
   },
   "theme": {
