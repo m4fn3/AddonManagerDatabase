@@ -15,9 +15,9 @@
   },
   "PreviewFile": {
     "url": "https://raw.githubusercontent.com/m4fn3/PreviewFile/master/dist/PreviewFile.js",
-    "last_update": 1687420440,
+    "last_update": 1688447533,
     "description": "allow previewing text files",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "color": "#00a3af",
     "author": [
       {
