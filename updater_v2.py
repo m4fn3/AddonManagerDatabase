@@ -258,6 +258,8 @@ def fetch(addon_type, download_url, old_meta=None, message_id=None) -> Union[Lis
 
             # ignore plugins that return invalid code
             if len(r.text) <= 20 or ("<h1>404</h1>" in r.text and "<!DOCTYPE html>" in r.text):  # invalid or 404
+                if old_meta:
+                    return [plugin_name, old_meta]
                 return None
 
             # get last updated time
@@ -330,6 +332,8 @@ def fetch(addon_type, download_url, old_meta=None, message_id=None) -> Union[Lis
             print("------ Error in parsing a plugin -----------")
             print(download_url)
             print(traceback2.format_exc())
+            if old_meta:
+                return [plugin_name, old_meta]
             return None
 
     elif addon_type == "theme":
@@ -364,6 +368,8 @@ def fetch(addon_type, download_url, old_meta=None, message_id=None) -> Union[Lis
 
             return [res["name"], theme]
         except:
+            if old_meta:
+                return [get_addon_name_from_url(addon_type, download_url), old_meta]
             return None
 
     return []
