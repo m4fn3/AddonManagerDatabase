@@ -438,14 +438,15 @@ async def upsert(addon_type: str, message: selfcord.Message, is_edit: bool = Fal
         if res := fetch(addon_type, download_url, message_id=message.id, **params):
             data[res[0]] = res[1]
             meta = extract_preview(message, addon_type)
+            # 詳細説明を書き込む
             with open(f"{addon_type}s/{res[0]}.json", "w", encoding="utf-8") as f:
                 json.dump(meta, f, ensure_ascii=False, indent=2)
-
+            # 基本情報を書き込む
             with open(f"{addon_type}s.json", "w", encoding="utf-8") as f:
                 json.dump(data, f, ensure_ascii=False)
             with open(f"{addon_type}s_formatted.json", "w", encoding="utf-8") as f:
                 json.dump(data, f, ensure_ascii=False, indent=2)
-            await push_changes(addon_type, f"[{'Edit' if is_edit else 'Add'}] {res[0]} ({addon_type})")
+            await push_changes(addon_type, f"[{'Edited' if is_edit else 'New'}] {res[0]} ({addon_type})")
     except:
         print(traceback2.format_exc())
 
@@ -510,6 +511,15 @@ async def check_update(addon_type: str):
             data[name_] = meta
             if data_old[name] != meta:  # 何らかの変更があった場合は更新リストに追加
                 updated.append(name)
+
+        # 独自追加に新規のものがないか確認
+        for url in include_addons[addon_type]:
+            name = get_addon_name_from_url(addon_type, url)
+            if name not in names:
+                if res := fetch(addon_type, url):
+                    data[res[0]] = res[1]
+                    updated.append(name)
+
     if data_old != data:
         with open(f"{addon_type}s.json", "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False)

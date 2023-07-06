@@ -1,7 +1,12 @@
 # AddonManagerDatabase
 Addon database for [AddonManager](https://github.com/m4fn3/AddonManager)
 
-updater_v2.py is running on my server to check updates of all addons every hour automatically.
+## How it works
+`updater_v2.py` is running on my server to check updates of all addons every hour automatically.
+
+Basic information of addons are stored in plugins(themes).json. Readable version can be found in plugins(themes)_formatted.json
+
+The detailed description of addons (fetched from the release post in official Enmity server) can be found in plugins(themes)/[AddonName].json 
 
 ## Host
 1. Creat `.env` with following keys
@@ -19,5 +24,10 @@ updater_v2.py is running on my server to check updates of all addons every hour 
 - If dump_all is executed, all data will be overwritten by the fetched information at that time
 ### Known Issues
 - The file name of the addon and the actual name is supposed to be the same name and it may not work correctly if not.
-### To-Do
-- Manually added addons won't get included in check_updates and only in dump_all as of now (editing plugins.json will reflect it)
+
+### Commits
+Commits start with following string are automatically made by the updater.
+- [New] - Added a newly released addon
+- [Edit] - Detailed addon description is edited (the posted message in either #plugins or #themes got updated)
+- [Update] - Addon got updated to new version
+- [Dump] - Dumped all addons with the dump_all function
