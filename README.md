@@ -4,6 +4,8 @@ Addon database for [AddonManager](https://github.com/m4fn3/AddonManager)
 ## How it works
 `updater_v2.py` is running on my server to check updates of all addons every hour automatically.
 
+The updater also detect new posts and message editing in #plugins and #themes channel of official Enmity server to keep database updated.   
+
 Basic information of addons are stored in plugins(themes).json. Readable version can be found in plugins(themes)_formatted.json
 
 The detailed description of addons (fetched from the release post in official Enmity server) can be found in plugins(themes)/[AddonName].json 
