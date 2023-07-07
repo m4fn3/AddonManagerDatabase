@@ -1267,5 +1267,18 @@
     ],
     "version": "1.0.0",
     "message_id": 961813970333876254
+  },
+  "OrthinanosPink": {
+    "url": "https://rosieorthinanos.dev/themes/OrthinanosPink.json",
+    "description": "Pink revamp of my BetterDiscord theme.",
+    "author": [
+      {
+        "name": "Rosie",
+        "id": "99239287052054528"
+      }
+    ],
+    "color": "#f78bb1",
+    "version": "1.4",
+    "message_id": 1127015668588494858
   }
 }
