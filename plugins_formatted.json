@@ -1072,5 +1072,18 @@
         "id": "519760564755365888"
       }
     ]
+  },
+  "TrackEdit": {
+    "url": "https://raw.githubusercontent.com/m4fn3/TrackEdit/master/dist/TrackEdit.js",
+    "last_update": 1688447934,
+    "description": "Track edits/delete of other's messages",
+    "version": "1.0.1",
+    "color": "#fff98a",
+    "author": [
+      {
+        "name": "mafu",
+        "id": "519760564755365888"
+      }
+    ]
   }
 }
