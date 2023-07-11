@@ -512,13 +512,13 @@ async def check_update(addon_type: str):
             if data_old[name] != meta:  # 何らかの変更があった場合は更新リストに追加
                 updated.append(name)
 
-        # 独自追加に新規のものがないか確認
-        for url in include_addons[addon_type]:
-            name = get_addon_name_from_url(addon_type, url)
-            if name not in names:
-                if res := fetch(addon_type, url):
-                    data[res[0]] = res[1]
-                    updated.append(name)
+    # 独自追加に新規のものがないか確認
+    for url in include_addons[addon_type]:
+        name = get_addon_name_from_url(addon_type, url)
+        if name not in names:
+            if res := fetch(addon_type, url):
+                data[res[0]] = res[1]
+                updated.append(name)
 
     if data_old != data:
         with open(f"{addon_type}s.json", "w", encoding="utf-8") as f:
