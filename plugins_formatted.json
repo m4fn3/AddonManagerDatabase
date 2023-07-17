@@ -638,9 +638,9 @@
   },
   "Dislate": {
     "url": "https://raw.githubusercontent.com/acquitelol/dislate/main/dist/Dislate.js",
-    "last_update": 1681202713,
+    "last_update": 1689579317,
     "description": "Translates text into a desired language.",
-    "version": "1.4.1",
+    "version": "1.4.2",
     "color": "#ff91ff",
     "author": [
       {
