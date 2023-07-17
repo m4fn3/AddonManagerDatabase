@@ -119,10 +119,6 @@
       "text": "Plugin will not load at all.",
       "ver": "~186.0"
     },
-    "Dislate": {
-      "text": "Plugin will crash React after long pressing on a message.",
-      "ver": "~188.0"
-    },
     "SuppressEmbeds": {
       "text": "Plugin will crash React after long pressing on a message.",
       "ver": "~188.0"
