@@ -77,7 +77,10 @@ include_addons = {
     "plugin": [
         "https://raw.githubusercontent.com/xenos1337/enmity-plugins/main/ReactDevTools/dist/ReactDevTools.js",
         "https://raw.githubusercontent.com/m4fn3/FixVoiceMessageCrash/master/dist/FixVoiceMessageCrash.js",
-        "https://raw.githubusercontent.com/m4fn3/TrackEdit/master/dist/TrackEdit.js"
+        "https://raw.githubusercontent.com/m4fn3/TrackEdit/master/dist/TrackEdit.js",
+        "https://raw.githubusercontent.com/acquitelol/enmity-utility-patches/main/dist/UtilityPatches.js",
+        "https://raw.githubusercontent.com/acquitelol/vendetta-compat/main/dist/VendettaCompat.js",
+        "https://raw.githubusercontent.com/m4fn3/FixConnecting/master/dist/FixConnecting.js"
     ],
     "theme": []
 }
