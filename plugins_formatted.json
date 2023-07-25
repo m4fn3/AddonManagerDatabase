@@ -1085,5 +1085,35 @@
         "id": "519760564755365888"
       }
     ]
+  },
+  "UtilityPatches": {
+    "url": "https://raw.githubusercontent.com/acquitelol/enmity-utility-patches/main/dist/UtilityPatches.js",
+    "last_update": 1685718161,
+    "description": "Minor patches/fixes all bundled into a single plugin for convenience.",
+    "version": "1.2.2",
+    "color": "#ff91ff",
+    "author": [
+      {
+        "name": "Rosie<3",
+        "id": "581573474296791211"
+      }
+    ]
+  },
+  "VendettaCompat": {
+    "url": "https://raw.githubusercontent.com/acquitelol/vendetta-compat/main/dist/VendettaCompat.js",
+    "last_update": 1675524306
+  },
+  "FixConnecting": {
+    "url": "https://raw.githubusercontent.com/m4fn3/FixConnecting/master/dist/FixConnecting.js",
+    "last_update": 1690268664,
+    "description": "Fix the annoying Connecting bug",
+    "version": "1.0.0",
+    "color": "#0D324D",
+    "author": [
+      {
+        "name": "mafu",
+        "id": "519760564755365888"
+      }
+    ]
   }
 }
