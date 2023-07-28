@@ -573,7 +573,7 @@
   },
   "CopyEmbeds": {
     "url": "https://github.com/SirTenzin/enmity-copy-embed/releases/latest/download/CopyEmbeds.js",
-    "last_update": 1666415120,
+    "last_update": 1690524030,
     "description": "Copy the content of an embed.",
     "version": "1.3.0",
     "color": "#B00B69",
