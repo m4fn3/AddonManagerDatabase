@@ -44,15 +44,11 @@
     },
     "Freemoji": {
       "text": "Plugin may not function properly if your Nitro subscription expired recently.",
-      "ver": "Unknown"
-    },
-    "GlobalBadges": {
-      "text": "Disabling or deleting the plugin will crash your Discord.",
       "ver": "Working"
     },
-    "NoDelete": {
-      "text": "Attempting to open the message logs will cause React to crash.",
-      "ver": "~162.0"
+    "GlobalBadges": {
+      "text": "Badges will no longer be displayed on profiles",
+      "ver": "~184.0"
     },
     "Osu": {
       "text": "Player stats will not show after running the slash command.",
