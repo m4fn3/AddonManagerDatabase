@@ -47,7 +47,7 @@
       "ver": "Working"
     },
     "GlobalBadges": {
-      "text": "Badges will no longer be displayed on profiles",
+      "text": "Badges will no longer be displayed on profiles.",
       "ver": "~184.0"
     },
     "Osu": {
@@ -55,11 +55,15 @@
       "ver": "~157.0"
     },
     "PictureLink": {
-      "text": "Viewing a profile asset may freeze your Discord",
+      "text": "Viewing a profile asset may freeze your Discord.",
       "ver" : "~164.0"
     },
+    "SecretMessage": {
+      "text": "Hijack Gift Button option will not work. You have to toggle the encryption in the plugin settings.",
+      "ver": "~190.0"
+    },
     "ShowAllActivities": {
-      "text": "Plugin does not show all activities sometimes. It can also crash Discord when connecting to a Voice Channel",
+      "text": "Plugin does not show all activities sometimes. It can also crash Discord when connecting to a Voice Channel.",
       "ver": "Unknown"
     },
     "ShowHiddenChannels": {
@@ -72,7 +76,7 @@
       "ver": "Unknown"
     },
     "Unfurl": {
-      "text": "Link will not generate after running the slash command",
+      "text": "Link will not generate after running the slash command.",
       "ver": "Unknown"
     },
     "UserDetails": {
@@ -83,16 +87,8 @@
       "text": "Plugin will not load at all.",
       "ver": "Unknown"
     },
-    "PronounDB": {
-      "text": "Plugin will not load at all.",
-      "ver": "~186.0"
-    },
-    "ReviewDB": {
-      "text": "Plugin will not load at all.",
-      "ver": "~186.0"
-    },
     "SuppressEmbeds": {
-      "text": "Plugin will crash React after long pressing on a message.",
+      "text": "Plugin will crash React after long pressing on a message containing an embed that you can suppress.",
       "ver": "~188.0"
     }
   },
