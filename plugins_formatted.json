@@ -421,9 +421,9 @@
   },
   "AddonManager": {
     "url": "https://raw.githubusercontent.com/m4fn3/AddonManager/master/dist/AddonManager.js",
-    "last_update": 1684655618,
+    "last_update": 1690958944,
     "description": "Manage plugins & themes easily!",
-    "version": "1.1.6",
+    "version": "1.1.7",
     "color": "#00ffff",
     "author": [
       {
