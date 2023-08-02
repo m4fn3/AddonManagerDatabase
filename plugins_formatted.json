@@ -348,9 +348,9 @@
   },
   "ReviewDB": {
     "url": "https://raw.githubusercontent.com/StupidityDB/EnmityPlugin/master/dist/ReviewDB.js",
-    "last_update": 1685182418,
+    "last_update": 1690903823,
     "description": "Review other users. These reviews are visible to anyone with this type of plugin on any platform.",
-    "version": "2.1.1",
+    "version": "2.1.2",
     "color": "#ff0069",
     "author": [
       {
@@ -366,9 +366,9 @@
   },
   "PronounDB": {
     "url": "https://raw.githubusercontent.com/acquitelol/enmity-pronoun-db/main/dist/PronounDB.js",
-    "last_update": 1683871512,
+    "last_update": 1690904091,
     "description": "Displays a Pronoun from PronounDB next to your name in the chat :3",
-    "version": "1.2.2",
+    "version": "1.2.3",
     "color": "#ff91ff",
     "author": [
       {
