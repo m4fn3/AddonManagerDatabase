@@ -1280,5 +1280,18 @@
     "color": "#f78bb1",
     "version": "1.4",
     "message_id": 1127015668588494858
+  },
+  "LuffyGear5": {
+    "url": "https://raw.githubusercontent.com/ngw69/enmity/main/LuffyGear5.json",
+    "description": "Theme Inspired By One Piece",
+    "author": [
+      {
+        "name": "mxdhav",
+        "id": "757530324686340197"
+      }
+    ],
+    "color": "#FF4500",
+    "version": "1.0",
+    "message_id": 1139268724294160505
   }
 }
