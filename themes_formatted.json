@@ -1293,5 +1293,17 @@
     "color": "#FF4500",
     "version": "1.0",
     "message_id": 1139268724294160505
+  },
+  "TokyoNight": {
+    "url": "https://raw.githubusercontent.com/punkflower/useless-shit/main/TokyoNight.json",
+    "description": "Dark comfy theme :3",
+    "author": [
+      {
+        "name": "Ashley",
+        "id": "499287211381096458"
+      }
+    ],
+    "version": "1.0",
+    "message_id": 1139543289666748476
   }
 }
