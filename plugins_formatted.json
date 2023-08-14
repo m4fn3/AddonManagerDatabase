@@ -605,9 +605,9 @@
   },
   "BetterTwitterEmbeds": {
     "url": "https://raw.githubusercontent.com/spinfal/enmity-plugins/master/dist/BetterTwitterEmbeds.js",
-    "last_update": 1680502842,
-    "description": "Convert Twitter links to FxTwitter links so the tweet embed is better.",
-    "version": "1.1.4",
+    "last_update": 1691942967,
+    "description": "Convert Twitter/X links to FxTwitter links so the tweet embed is better.",
+    "version": "1.1.5",
     "color": "#ff0069",
     "author": [
       {
