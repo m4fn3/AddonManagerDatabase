@@ -75,9 +75,9 @@
   },
   "SuppressEmbeds": {
     "url": "https://raw.githubusercontent.com/HypedDomi/Enmity-Stuff/main/dist/SuppressEmbeds.js",
-    "last_update": 1687003547,
+    "last_update": 1692538287,
     "description": "Allows you to Suppress/Unsuppress Embeds",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "color": "#E54B4B",
     "author": [
       {
