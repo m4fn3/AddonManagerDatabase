@@ -46,10 +46,6 @@
       "text": "Plugin may not function properly if your Nitro subscription expired recently.",
       "ver": "Working"
     },
-    "GlobalBadges": {
-      "text": "Badges do not display in User Settings/You Tab.",
-      "ver": "~184.0"
-    },
     "Osu": {
       "text": "Player stats will not show after running the slash command.",
       "ver": "~157.0"
