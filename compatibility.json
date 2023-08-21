@@ -47,7 +47,7 @@
       "ver": "Working"
     },
     "GlobalBadges": {
-      "text": "Badges will no longer be displayed on profiles.",
+      "text": "Badges do not display in User Settings/You Tab.",
       "ver": "~184.0"
     },
     "Osu": {
@@ -59,7 +59,7 @@
       "ver" : "~164.0"
     },
     "SecretMessage": {
-      "text": "Hijack Gift Button option will not work. You have to toggle the encryption in the plugin settings.",
+      "text": "Hijack Gift Button option will not work. Type something in the chat input and toggle encryption using the eye icon that appears.",
       "ver": "~190.0"
     },
     "ShowAllActivities": {
@@ -86,10 +86,6 @@
     "wttr": {
       "text": "Plugin will not load at all.",
       "ver": "Unknown"
-    },
-    "SuppressEmbeds": {
-      "text": "Plugin will crash React after long pressing on a message containing an embed that you can suppress.",
-      "ver": "~188.0"
     }
   },
   "theme": {
