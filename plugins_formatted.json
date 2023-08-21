@@ -435,9 +435,9 @@
   },
   "GlobalBadges": {
     "url": "https://raw.githubusercontent.com/HypedDomi/Enmity-Stuff/main/dist/GlobalBadges.js",
-    "last_update": 1686698566,
+    "last_update": 1692549766,
     "description": "Adds global badges from other client mods",
-    "version": "1.2.5",
+    "version": "1.2.6",
     "color": "#E54B4B",
     "author": [
       {
