@@ -1115,5 +1115,18 @@
         "id": "519760564755365888"
       }
     ]
+  },
+  "UnrealProfileThemes": {
+    "url": "https://raw.githubusercontent.com/Futuremappermydud/Emnity-UnrealProfileThemes/main/dist/UnrealProfileThemes.js",
+    "last_update": 1692789280,
+    "description": "Uses hidden 3y3 codes to allow you to change your profile theme colors for anyone using the plugin",
+    "version": "1.0.0",
+    "author": [
+      {
+        "name": "FutureMapper",
+        "id": "741727188809810181"
+      }
+    ],
+    "message_id": 1144004436587458611
   }
 }
