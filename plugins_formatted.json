@@ -905,13 +905,13 @@
   },
   "CreateWebhooks": {
     "url": "https://fifithebulldog.github.io/enmity-addons-store/plugins/CreateWebhooks.js",
-    "last_update": 1673868547,
+    "last_update": 1694084230,
     "description": "Create webhooks from the webhook management screens",
     "version": "2.0.1",
     "color": "#f9a418",
     "author": [
       {
-        "name": "FifiTheBulldog",
+        "name": "colin273",
         "id": "690213339862794285"
       }
     ],
@@ -919,13 +919,13 @@
   },
   "Freemoji": {
     "url": "https://fifithebulldog.github.io/enmity-addons-store/plugins/Freemoji.js",
-    "last_update": 1673868547,
+    "last_update": 1694084230,
     "description": "Send external emoji without Nitro as image links",
-    "version": "2.0.0",
+    "version": "2.0.2",
     "color": "#f9a418",
     "author": [
       {
-        "name": "FifiTheBulldog",
+        "name": "colin273",
         "id": "690213339862794285"
       }
     ],
@@ -933,13 +933,13 @@
   },
   "NoReplyMention": {
     "url": "https://fifithebulldog.github.io/enmity-addons-store/plugins/NoReplyMention.js",
-    "last_update": 1673868547,
+    "last_update": 1694084230,
     "description": "Disable reply pings by default",
     "version": "1.1.0",
     "color": "#f9a418",
     "author": [
       {
-        "name": "FifiTheBulldog",
+        "name": "colin273",
         "id": "690213339862794285"
       }
     ],
