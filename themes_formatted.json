@@ -994,9 +994,10 @@
   },
   "Blurple": {
     "url": "https://raw.githubusercontent.com/FelixDev754/Useful-Things-discord-etc.-/main/Blurple.json",
+    "description": "A theme based on Discord's accent color, Blurple.",
     "author": [
       {
-        "name": "Abby",
+        "name": "vm_akari",
         "id": "499287211381096458"
       }
     ],
