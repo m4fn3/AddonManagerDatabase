@@ -159,9 +159,9 @@
   },
   "EnmityYou": {
     "url": "https://raw.githubusercontent.com/acquitelol/enmity-you/mistress/dist/EnmityYou.js",
-    "last_update": 1685362356,
+    "last_update": 1694272157,
     "description": "Allows you to use Enmity inside of the new You Tab. Enable from DevTools Widget \\u279D Design Toggles :3",
-    "version": "1.2.4",
+    "version": "1.2.5",
     "color": "#ff91ff",
     "author": [
       {
