@@ -692,9 +692,9 @@
   },
   "NoTracking": {
     "url": "https://raw.githubusercontent.com/iCrazeiOS/Enmity-Plugins/main/Plugins/NoTracking/dist/NoTracking.js",
-    "last_update": 1662210180,
+    "last_update": 1694256294,
     "description": "Remove tracking parameters from links you send",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "author": [
       {
         "name": "iCraze",
