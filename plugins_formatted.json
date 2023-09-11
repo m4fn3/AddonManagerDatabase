@@ -247,9 +247,9 @@
   },
   "FakeSticker": {
     "url": "https://raw.githubusercontent.com/m4fn3/FakeSticker/master/dist/FakeSticker.js",
-    "last_update": 1682669010,
+    "last_update": 1694410187,
     "description": "Allows you to send stickers without Nitro",
-    "version": "1.0.0",
+    "version": "1.1.1",
     "color": "#556b2f",
     "author": [
       {
