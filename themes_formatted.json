@@ -1,14 +1,14 @@
 {
   "RoyalUndella": {
     "url": "https://raw.githubusercontent.com/Mortyick/enmity-themes/main/themes/RoyalUndella.json",
-    "description": "A somewhat pink and blue theme, with an anime girl on top of it.",
+    "description": "A somewhat pink and blue theme, with an anime girl.",
     "author": [
       {
         "name": "mortyick",
         "id": "705853948052897813"
       }
     ],
-    "version": "1.4",
+    "version": "1.6",
     "message_id": 1114623295900360906
   },
   "Gruvbox": {
