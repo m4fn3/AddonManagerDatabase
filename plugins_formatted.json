@@ -1141,5 +1141,18 @@
       }
     ],
     "message_id": 1150160505462333560
+  },
+  "ProfileSpotifies": {
+    "url": "https://raw.githubusercontent.com/Futuremappermydud/Emnity-ProfileSpotifies/main/dist/ProfileSpotifies.js",
+    "last_update": 1694702084,
+    "description": "Allows you to pin spotify links to your profile.",
+    "version": "1.0.0",
+    "author": [
+      {
+        "name": "FutureMapper",
+        "id": "741727188809810181"
+      }
+    ],
+    "message_id": 1152027217774264350
   }
 }

@@ -1,0 +1,5 @@
+{
+  "description": "ProfileSpotifies\n\nAllows you to embed spotify songs, artists, playlists, etc into your profile and allow anyone with this plugin to see them.\n\n- To use you need to find the id of each item you want. The easiesy way to do this is to copy the link to the song.\n- You can then take those ids and format them like so `spotify: track/5gFfE8UgFslvqjVQw7dktZ, track/085ngJ2SLzSY23HUljUptc:`\n- Make sure to include the type(which should be included in the url you copied)\n- Paste this somewhere in your bio\n\nDownload: https://raw.githubusercontent.com/Futuremappermydud/Emnity-ProfileSpotifies/main/dist/ProfileSpotifies.js\nSource: https://github.com/Futuremappermydud/Emnity-ProfileSpotifies",
+  "images": [],
+  "videos": []
+}
