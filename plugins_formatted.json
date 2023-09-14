@@ -1154,5 +1154,18 @@
       }
     ],
     "message_id": 1152027217774264350
+  },
+  "ShowConnections": {
+    "url": "https://raw.githubusercontent.com/Futuremappermydud/Emnity-ShowConnections/main/dist/ShowConnections.js",
+    "last_update": 1694530641,
+    "description": "Compacts the connection section of the user profile.",
+    "version": "1.0.0",
+    "author": [
+      {
+        "name": "FutureMapper",
+        "id": "741727188809810181"
+      }
+    ],
+    "message_id": 1152027723666047056
   }
 }
