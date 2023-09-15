@@ -1,5 +1,5 @@
 {
-  "description": "UnrealProfileThemes\n\nAllows you to fake having profile colors by encoding them into your bio, anyone with this plugin or the FakeProfileColors plugin on vencord can see these colors\n\nTo use just select the colors you want then click copy 3y3 and paste the value anywhere in your bio. If you wish to hide the missing character icons then enable \"Strip Missing Letters\" in settings\n\nDownload: https://raw.githubusercontent.com/Futuremappermydud/Emnity-UnrealProfileThemes/main/dist/UnrealProfileThemes.js\nSource: https://github.com/Futuremappermydud/Emnity-UnrealProfileThemes",
+  "description": "UnrealProfileThemes\n\nAllows you to fake having profile colors by encoding them into your bio, anyone with this plugin or the FakeProfileColors plugin on vencord can see these colors\n\nTo use just select the colors you want then click copy 3y3 and paste the value anywhere in your bio. If you wish to hide the missing character icons then enable \"Strip Missing Letters\" in settings\n\nEDIT: You may have to temporarily use english as your language for the 3y3 copy button to work.. I'll post a fix soon\n\nDownload: https://raw.githubusercontent.com/Futuremappermydud/Emnity-UnrealProfileThemes/main/dist/UnrealProfileThemes.js\nSource: https://github.com/Futuremappermydud/Emnity-UnrealProfileThemes",
   "images": [],
   "videos": []
 }
