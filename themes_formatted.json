@@ -1306,5 +1306,17 @@
     ],
     "version": "1.0",
     "message_id": 1139543289666748476
+  },
+  "Dark Space": {
+    "url": "https://raw.githubusercontent.com/TrueReplayJay/DarkSpace/main/DarkSpace.json",
+    "description": "Cosmic Salad's Dark Matter meets mortyick's Dawn Space with my own custom flare. Made for the iPhone. Updates occasionally.",
+    "author": [
+      {
+        "name": "ReplayJay",
+        "id": "563129175678910466"
+      }
+    ],
+    "version": "1.2.2",
+    "message_id": 1158241296935309404
   }
 }
