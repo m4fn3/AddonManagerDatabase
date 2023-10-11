@@ -1167,5 +1167,19 @@
       }
     ],
     "message_id": 1152027723666047056
+  },
+  "FreeAppIcons": {
+    "url": "https://raw.githubusercontent.com/SerStars/enmity-appicon/README/dist/FreeAppIcons.js",
+    "last_update": 1697019676,
+    "description": "Make the new Discord App Icons free.",
+    "version": "1.0.0",
+    "color": "#000001",
+    "author": [
+      {
+        "name": "SerStars",
+        "id": "861631850681729045"
+      }
+    ],
+    "message_id": 1161787573514031174
   }
 }
