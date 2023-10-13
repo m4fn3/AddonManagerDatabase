@@ -434,8 +434,8 @@
     "message_id": 1061996665646612490
   },
   "GlobalBadges": {
-    "url": "https://raw.githubusercontent.com/HypedDomi/Enmity-Stuff/main/dist/GlobalBadges.js",
-    "last_update": 1697186255,
+    "url": "https://raw.githubusercontent.com/domi-btnr/Enmity-Stuff/main/dist/GlobalBadges.js",
+    "last_update": 1697186385,
     "description": "Adds global badges from other client mods",
     "version": "1.2.6",
     "color": "#E54B4B",
