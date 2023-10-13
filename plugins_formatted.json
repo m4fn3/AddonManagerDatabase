@@ -530,8 +530,8 @@
     "message_id": 1036067393425903688
   },
   "ReplaceTimestamps": {
-    "url": "https://raw.githubusercontent.com/HypedDomi/Enmity-Stuff/main/dist/ReplaceTimestamps.js",
-    "last_update": 1697186255,
+    "url": "https://raw.githubusercontent.com/domi-btnr/Enmity-Stuff/main/dist/ReplaceTimestamps.js",
+    "last_update": 1697186385,
     "description": "Replaces plaintext 24 hour timestamps into Discord's timestamps",
     "version": "1.2.9",
     "color": "#E54B4B",

@@ -1,5 +1,5 @@
 {
-  "description": "ReplaceTimestamps\n\nReplaces plaintext 24 hour timestamps into Discord's timestamps\nExample: 6:40 --> <t:1666932038:t>\n\nDownload: https://raw.githubusercontent.com/HypedDomi/Enmity-Stuff/main/dist/ReplaceTimestamps.js\nSource: https://github.com/HypedDomi/Enmity-Stuff/tree/main/ReplaceTimestamps",
+  "description": "ReplaceTimestamps\n\nReplaces plaintext 24 hour timestamps into Discord's timestamps\nExample: 6:40 --> <t:1666932038:t>\n\nDownload: https://raw.githubusercontent.com/domi-btnr/Enmity-Stuff/main/dist/ReplaceTimestamps.js\nSource: https://github.com/domi-btnr/Enmity-Stuff/tree/main/ReplaceTimestamps",
   "images": [],
   "videos": []
 }
