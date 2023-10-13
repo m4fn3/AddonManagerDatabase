@@ -74,8 +74,8 @@
     "message_id": 1121809082387542151
   },
   "SuppressEmbeds": {
-    "url": "https://raw.githubusercontent.com/HypedDomi/Enmity-Stuff/main/dist/SuppressEmbeds.js",
-    "last_update": 1697186255,
+    "url": "https://raw.githubusercontent.com/domi-btnr/Enmity-Stuff/main/dist/SuppressEmbeds.js",
+    "last_update": 1697186385,
     "description": "Allows you to Suppress/Unsuppress Embeds",
     "version": "1.0.1",
     "color": "#E54B4B",
