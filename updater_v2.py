@@ -69,7 +69,9 @@ raw_gh_pattern = re.compile(r'https?://raw\.githubusercontent\.com/(?P<user>[\w_
 exclude_addons = {
     "plugin": [
         "https://plugins.panties.moe/plugins/EnableStaging.js",
-        "https://raw.githubusercontent.com/6days9weeks/EnableStaging/mistress/dist/EnableStaging.js"
+        "https://raw.githubusercontent.com/6days9weeks/EnableStaging/mistress/dist/EnableStaging.js",
+        "https://raw.githubusercontent.com/SerStars/EnmityPresence/README/src/Presence.js",
+        "https://raw.githubusercontent.com/SerStars/EnmityPlugins/README/StealEmoji/StealEmoji.js"
     ],
     "theme": []
 }

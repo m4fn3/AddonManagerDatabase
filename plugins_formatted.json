@@ -55,24 +55,6 @@
     ],
     "message_id": 1123479233017172019
   },
-  "Presence": {
-    "url": "https://raw.githubusercontent.com/SerStars/EnmityPresence/README/src/Presence.js",
-    "last_update": 1687497809,
-    "description": "A custom rich presence (RPC)",
-    "version": "1.0.0",
-    "color": "#000001",
-    "author": [
-      {
-        "name": "SerStars",
-        "id": "861631850681729045"
-      },
-      {
-        "name": "Fiery",
-        "id": "890228870559698955"
-      }
-    ],
-    "message_id": 1121809082387542151
-  },
   "SuppressEmbeds": {
     "url": "https://raw.githubusercontent.com/domi-btnr/Enmity-Stuff/main/dist/SuppressEmbeds.js",
     "last_update": 1697186385,
@@ -170,24 +152,6 @@
       }
     ],
     "message_id": 1110325679989461042
-  },
-  "StealEmoji": {
-    "url": "https://raw.githubusercontent.com/SerStars/EnmityPlugins/README/StealEmoji/StealEmoji.js",
-    "last_update": 1684377246,
-    "description": "With this plugin you can easily add emojis to your servers :D",
-    "version": "1.0.0",
-    "color": "#000001",
-    "author": [
-      {
-        "name": "SerStars",
-        "id": "861631850681729045"
-      },
-      {
-        "name": "Fiery",
-        "id": "890228870559698955"
-      }
-    ],
-    "message_id": 1107799327054758050
   },
   "RandomizeFileName": {
     "url": "https://raw.githubusercontent.com/m4fn3/RandomizeFileName/master/dist/RandomizeFileName.js",
