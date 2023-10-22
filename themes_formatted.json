@@ -1318,5 +1318,17 @@
     ],
     "version": "1.2.2",
     "message_id": 1158241296935309404
+  },
+  "Ataraxia": {
+    "url": "https://raw.githubusercontent.com/VodkaXMartini/EnmityTheme/main/Ataraxia.json",
+    "description": "A state of serene calmness",
+    "author": [
+      {
+        "name": "ft.vodka",
+        "id": "1068030255455015013"
+      }
+    ],
+    "color": "#6b8e4e",
+    "message_id": 1165543770230624266
   }
 }
