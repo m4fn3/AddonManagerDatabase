@@ -1330,5 +1330,21 @@
     ],
     "color": "#6b8e4e",
     "message_id": 1165543770230624266
+  },
+  "Amoled Bright": {
+    "url": "https://raw.githubusercontent.com/Kief5555/discord-themes/main/AMOLEDBright.json",
+    "description": "yes but black but a little brighter",
+    "author": [
+      {
+        "name": "Kief",
+        "id": "757661857891876904"
+      },
+      {
+        "name": "eternal",
+        "id": "263689920210534400"
+      }
+    ],
+    "version": "1.0.0",
+    "message_id": 1170403352312549386
   }
 }
