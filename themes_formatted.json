@@ -1346,5 +1346,18 @@
     ],
     "version": "1.0.0",
     "message_id": 1170403352312549386
+  },
+  "FrostedGlass": {
+    "url": "https://raw.githubusercontent.com/ngw69/enmity/main/FrostedGlass.json",
+    "description": "Orignal Author For BetterDiscord Theme: Gibbu#1211",
+    "author": [
+      {
+        "name": "mxdhav",
+        "id": "757530324686340197"
+      }
+    ],
+    "color": "#000000",
+    "version": "1.0",
+    "message_id": 1183472953451630695
   }
 }
