@@ -1359,5 +1359,18 @@
     "color": "#000000",
     "version": "1.0",
     "message_id": 1183472953451630695
+  },
+  "AmoledOrthinanosPurple": {
+    "url": "https://rosieorthinanos.dev/themes/AmoledOrthinanosPurple.json",
+    "description": "Amoled Purple revamp of my BetterDiscord theme.",
+    "author": [
+      {
+        "name": "Rosie",
+        "id": "99239287052054528"
+      }
+    ],
+    "color": "#c68bf7",
+    "version": "1.2",
+    "message_id": 1183835508208578620
   }
 }
