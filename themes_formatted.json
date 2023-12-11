@@ -1372,5 +1372,18 @@
     "color": "#c68bf7",
     "version": "1.2",
     "message_id": 1183835508208578620
+  },
+  "Fallout4": {
+    "url": "https://raw.githubusercontent.com/ngw69/enmity/main/Fallout4.json",
+    "description": "Orignal Author For BetterDiscord Theme: Bates#7075",
+    "author": [
+      {
+        "name": "mxdhav",
+        "id": "757530324686340197"
+      }
+    ],
+    "color": "#4aef97",
+    "version": "1.0",
+    "message_id": 1183855530398195813
   }
 }
