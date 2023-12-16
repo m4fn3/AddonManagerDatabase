@@ -1145,5 +1145,19 @@
       }
     ],
     "message_id": 1161787573514031174
+  },
+  "freeappicon": {
+    "url": "https://serstars.is-a.dev/Plumity/p/freeappicon.js",
+    "last_update": 1702634867,
+    "description": "Make the new Discord App Icons free.",
+    "version": "1.0.0",
+    "color": "#000001",
+    "author": [
+      {
+        "name": "SerStars",
+        "id": "861631850681729045"
+      }
+    ],
+    "message_id": 1161787573514031174
   }
 }
