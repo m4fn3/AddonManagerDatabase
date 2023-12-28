@@ -311,14 +311,15 @@
   },
   "Primrose": {
     "url": "https://github.com/imrevertz/Primrose/raw/main/Primrose.json",
-    "description": "I created this theme, using red and grey tones, because my favorite colors revolve around red, black, and grey. This theme was made by Revertz.",
+    "description": "Theme made by myrayuo, Based on my favourite colors.",
     "author": [
       {
-        "name": "Revertz",
-        "id": "1056288327399129108"
+        "name": "myrayuo",
+        "id": "940062409618497630"
       }
     ],
     "version": "1.0",
+    "color": "#6b8e4e",
     "message_id": 1085389317565853716
   },
   "Blushy": {
