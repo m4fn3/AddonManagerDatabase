@@ -1320,7 +1320,7 @@
     "message_id": 1158241296935309404
   },
   "Ataraxia": {
-    "url": "https://raw.githubusercontent.com/VodkaXMartini/EnmityTheme/main/Ataraxia.json",
+    "url": "https://github.com/imrevertz/Primrose/raw/main/Primrose.json",
     "description": "A state of serene calmness",
     "author": [
       {
@@ -1329,7 +1329,8 @@
       }
     ],
     "color": "#6b8e4e",
-    "message_id": 1165543770230624266
+    "version": "1.0",
+    "message_id": 1085389317565853716
   },
   "Amoled Bright": {
     "url": "https://raw.githubusercontent.com/Kief5555/discord-themes/main/AMOLEDBright.json",
