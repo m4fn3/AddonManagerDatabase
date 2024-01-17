@@ -311,15 +311,15 @@
   },
   "Primrose": {
     "url": "https://github.com/imrevertz/Primrose/raw/main/Primrose.json",
-    "description": "A state of serene calmness",
+    "description": "Theme made by Myrayuo, inspired by my favorite colors.",
     "author": [
       {
-        "name": "ft.vodka",
-        "id": "1068030255455015013"
+        "name": "myrayuo",
+        "id": "940062409618497630"
       }
     ],
-    "color": "#6b8e4e",
     "version": "1.0",
+    "color": "#6b8e4e",
     "message_id": 1085389317565853716
   },
   "Blushy": {
