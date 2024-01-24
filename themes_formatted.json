@@ -1399,5 +1399,18 @@
     ],
     "color": "#4d4463",
     "message_id": 1197985040240488541
+  },
+  "BetterDark": {
+    "url": "https://raw.githubusercontent.com/darealyeeto/BetterDark/main/BetterDark.json",
+    "description": "Dark mode, but darker, with white icons and grey in most aspects for usability.",
+    "author": [
+      {
+        "name": "darealyeeto",
+        "id": "980160393093730395"
+      }
+    ],
+    "color": "#242424",
+    "version": "1.0.6",
+    "message_id": 1199631359308742667
   }
 }
