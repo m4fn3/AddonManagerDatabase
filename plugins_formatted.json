@@ -554,7 +554,8 @@
     "message_id": 1030941911906787338
   },
   "GetThatRory": {
-    "url": "https://niko.earth/rawgh/EnPlugins/main/GetThatRory/Release/GetThatRory.js",
+    "url": "https://raw.githubusercontent.com/hauntii/EnPlugins/main/GetThatRory/Release/GetThatRory.js",
+    "last_update": 1665599315,
     "description": "Get some cute rory pics",
     "version": "1.0.0",
     "color": "0x\"+Math.floor(Math.random()*16777215).toString(16);const f={type:\"rich",
@@ -564,7 +565,6 @@
         "id": "341377368075796483"
       }
     ],
-    "last_update": 1665599315,
     "message_id": 1030245210288029757
   },
   "BetterTwitterEmbeds": {

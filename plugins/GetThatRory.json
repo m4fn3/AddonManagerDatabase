@@ -1,7 +1,5 @@
 {
-  "description": "GetThatRory\n\nGet pictures of everyone's favorite cat, Rory!\n\nAdds /rory to get over 100+ random Rory photos from https://rory.cat!\nDefaults to a random Rory, but you can also enter an ID.\n\n```\n/rory [id] [whisper]\n--> very cute cat photo\n```\n\nDownload:\nhttps://niko.earth/rawgh/EnPlugins/main/GetThatRory/Release/GetThatRory.js\n\nSource Code: https://niko.earth/github/EnPlugins/tree/main/GetThatRory/Source",
-  "images": [
-    "https://cdn.discordapp.com/attachments/961782195767365732/1030245210250301561/unknown.png"
-  ],
+  "description": "GetThatRory\n\nGet pictures of everyone's favorite cat, Rory!\n\nAdds /rory to get over 100+ random Rory photos from https://rory.cat!\nDefaults to a random Rory, but you can also enter an ID.\n\n```\n/rory [id] [whisper]\n--> very cute cat photo\n```\n\nDownload:\nhttps://raw.githubusercontent.com/hauntii/EnPlugins/main/GetThatRory/Release/GetThatRory.js\n\nSource Code: https://github.com/hauntii/EnPlugins/tree/main/GetThatRory/Source",
+  "images": [],
   "videos": []
 }
