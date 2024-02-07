@@ -1,5 +1,5 @@
 {
-  "description": "Unfurl\n\nShorten or lengthen your URLs!\n\nAdds /furl (Shorten URL) and /unfurl (Lengthen URL).\n\n```\n/furl:\n\nreally-long-link-that-you-need-to-make-shorter.i-am-not-real/i-like-pancakes?do-you=true&is-that-good=\"yes\"\n--> https://tny-snls.xyz/s/gksqpu\n\n/unfurl:\n\nhttps://rlyshrt.link\n--> https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/aÃÀâÄÄããÀäÄÃåÀAäÂÃÄáÀæäâÃÁæaææâàAÅåaÃÂäÂÀæäáãÁÃáAÆâÄâãããÆÂÄäàååæÃÅÄàããÄ...\n```\n\nDownload:\nhttps://niko.earth/rawgh/EnPlugins/main/Unfurl/Release/Unfurl.js\n\nSource Code: https://niko.earth/github/EnPlugins/tree/main/Unfurl/Source",
+  "description": "Unfurl\n\nShorten or lengthen your URLs!\n\nAdds /furl (Shorten URL) and /unfurl (Lengthen URL).\n\n```\n/furl:\n\nreally-long-link-that-you-need-to-make-shorter.i-am-not-real/i-like-pancakes?do-you=true&is-that-good=\"yes\"\n--> https://tny-snls.xyz/s/gksqpu\n\n/unfurl:\n\nhttps://rlyshrt.link\n--> https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/aÃÀâÄÄããÀäÄÃåÀAäÂÃÄáÀæäâÃÁæaææâàAÅåaÃÂäÂÀæäáãÁÃáAÆâÄâãããÆÂÄäàååæÃÅÄàããÄ...\n```\n\nDownload:\nhttps://raw.githubusercontent.com/hauntii/EnPlugins/main/Unfurl/Release/Unfurl.js\n\nSource Code: https://github.com/hauntii/EnPlugins/tree/main/Unfurl/Source",
   "images": [],
   "videos": []
 }
