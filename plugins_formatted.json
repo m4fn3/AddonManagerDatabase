@@ -1159,5 +1159,19 @@
       }
     ],
     "message_id": 1161787573514031174
+  },
+  "Splasher": {
+    "url": "https://raw.githubusercontent.com/hauntii/EnPlugins/main/Splasher/Release/Splasher.js",
+    "last_update": 1707306946,
+    "description": "Lets you use imgur pictures as profile banners!",
+    "version": "1.0.0",
+    "color": "#FFFEB1",
+    "author": [
+      {
+        "name": "Niko",
+        "id": "341377368075796483"
+      }
+    ],
+    "message_id": 1204907231947006004
   }
 }
