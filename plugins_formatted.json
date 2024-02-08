@@ -1173,5 +1173,18 @@
       }
     ],
     "message_id": 1204907231947006004
+  },
+  "ViewRaw": {
+    "url": "https://raw.githubusercontent.com/aeongdesu/ermplugins/main/plugins/ViewRaw/dist/ViewRaw.js",
+    "last_update": 1707369657,
+    "description": "View raw message data",
+    "version": "1.0.0",
+    "author": [
+      {
+        "name": "sapphire",
+        "id": "757982547861962752"
+      }
+    ],
+    "message_id": 1205162224726052904
   }
 }
