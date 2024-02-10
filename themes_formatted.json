@@ -1070,7 +1070,14 @@
     "message_id": 974925780935135262
   },
   "Stealth": {
-    "url": "https://raw.githubusercontent.com/Bobrobot1/EnmityStealth/main/Stealth.json",
+    "url": "https://raw.githubusercontent.com/9021007/EnmityStealth/main/Stealth.json",
+    "description": "A sleek, dark theme with hints of green.",
+    "author": [
+      {
+        "name": "9021007",
+        "id": "363450765307805696"
+      }
+    ],
     "message_id": 973641165939281960
   },
   "Matrix": {
