@@ -57,7 +57,7 @@
   },
   "SuppressEmbeds": {
     "url": "https://raw.githubusercontent.com/domi-btnr/Enmity-Stuff/main/dist/SuppressEmbeds.js",
-    "last_update": 1707641581,
+    "last_update": 1707643941,
     "description": "Allows you to Suppress/Unsuppress Embeds",
     "version": "1.1.0",
     "color": "#E54B4B",
@@ -399,7 +399,7 @@
   },
   "GlobalBadges": {
     "url": "https://raw.githubusercontent.com/domi-btnr/Enmity-Stuff/main/dist/GlobalBadges.js",
-    "last_update": 1707641581,
+    "last_update": 1707643941,
     "description": "Adds global badges from other client mods",
     "version": "1.2.6",
     "color": "#E54B4B",
@@ -495,7 +495,7 @@
   },
   "ReplaceTimestamps": {
     "url": "https://raw.githubusercontent.com/domi-btnr/Enmity-Stuff/main/dist/ReplaceTimestamps.js",
-    "last_update": 1707641581,
+    "last_update": 1707643941,
     "description": "Replaces plaintext 24 hour timestamps into Discord's timestamps",
     "version": "1.2.9",
     "color": "#E54B4B",
