@@ -1409,15 +1409,15 @@
   },
   "BetterDark": {
     "url": "https://raw.githubusercontent.com/darealyeeto/BetterDark/main/BetterDark.json",
-    "description": "Dark mode, but darker, with white icons and grey in most aspects for usability. Obviously won't work with light mode.",
+    "description": "Darker than dark.",
     "author": [
       {
         "name": "darealyeeto",
         "id": "980160393093730395"
       }
     ],
-    "color": "#242424",
-    "version": "1.0.7",
-    "message_id": 1206245070441947166
+    "color": "##848484",
+    "version": "1.1",
+    "message_id": 1206247334703271986
   }
 }
