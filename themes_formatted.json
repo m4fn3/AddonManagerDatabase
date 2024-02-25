@@ -1426,5 +1426,18 @@
     "color": "#ebdbb2",
     "version": "1.0.0",
     "message_id": 1109771267868987422
+  },
+  "BetterDark Red": {
+    "url": "https://raw.githubusercontent.com/darealyeeto/BetterDark/main/BetterDarkRed.json",
+    "description": "Darker than dark, with a twist of red.",
+    "author": [
+      {
+        "name": "darealyeeto",
+        "id": "980160393093730395"
+      }
+    ],
+    "color": "#EA5959",
+    "version": "1.11",
+    "message_id": 1206247400516091965
   }
 }
