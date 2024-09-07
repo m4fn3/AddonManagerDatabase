@@ -57,13 +57,13 @@
   },
   "SuppressEmbeds": {
     "url": "https://raw.githubusercontent.com/domi-btnr/Enmity-Stuff/main/dist/SuppressEmbeds.js",
-    "last_update": 1707643941,
+    "last_update": 1717684436,
     "description": "Allows you to Suppress/Unsuppress Embeds",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "color": "#E54B4B",
     "author": [
       {
-        "name": "HypedDomi",
+        "name": "domi.btnr",
         "id": "354191516979429376"
       }
     ],
@@ -85,9 +85,9 @@
   },
   "FreeNitroTheme": {
     "url": "https://raw.githubusercontent.com/m4fn3/FreeNitroTheme/master/dist/FreeNitroTheme.js",
-    "last_update": 1700119364,
+    "last_update": 1722880581,
     "description": "Use Nitro Themes for FREE",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "color": "#800080",
     "author": [
       {
@@ -344,14 +344,18 @@
   },
   "BetterStatusIndicator": {
     "url": "https://raw.githubusercontent.com/m4fn3/BetterStatusIndicator/master/dist/BetterStatusIndicator.js",
-    "last_update": 1683785350,
+    "last_update": 1715360754,
     "description": "Reveal statuses for every platform user is using with customizable color.",
-    "version": "1.1.1",
+    "version": "1.2.0",
     "color": "#da70d6",
     "author": [
       {
         "name": "mafu",
         "id": "519760564755365888"
+      },
+      {
+        "name": "Niko",
+        "id": "341377368075796483"
       }
     ],
     "message_id": 1074718213771907182
@@ -385,9 +389,9 @@
   },
   "AddonManager": {
     "url": "https://raw.githubusercontent.com/m4fn3/AddonManager/master/dist/AddonManager.js",
-    "last_update": 1690958944,
+    "last_update": 1715376833,
     "description": "Manage plugins & themes easily!",
-    "version": "1.1.7",
+    "version": "1.1.8",
     "color": "#00ffff",
     "author": [
       {
@@ -399,13 +403,13 @@
   },
   "GlobalBadges": {
     "url": "https://raw.githubusercontent.com/domi-btnr/Enmity-Stuff/main/dist/GlobalBadges.js",
-    "last_update": 1707643941,
+    "last_update": 1717684436,
     "description": "Adds global badges from other client mods",
-    "version": "1.2.6",
+    "version": "1.2.7",
     "color": "#E54B4B",
     "author": [
       {
-        "name": "HypedDomi",
+        "name": "domi.btnr",
         "id": "354191516979429376"
       }
     ],
@@ -495,13 +499,13 @@
   },
   "ReplaceTimestamps": {
     "url": "https://raw.githubusercontent.com/domi-btnr/Enmity-Stuff/main/dist/ReplaceTimestamps.js",
-    "last_update": 1707643941,
+    "last_update": 1724235534,
     "description": "Replaces plaintext 24 hour timestamps into Discord's timestamps",
-    "version": "1.2.9",
+    "version": "1.3.0",
     "color": "#E54B4B",
     "author": [
       {
-        "name": "HypedDomi",
+        "name": "domi.btnr",
         "id": "354191516979429376"
       }
     ],
@@ -869,7 +873,7 @@
   },
   "CreateWebhooks": {
     "url": "https://fifithebulldog.github.io/enmity-addons-store/plugins/CreateWebhooks.js",
-    "last_update": 1694084230,
+    "last_update": 1716738836,
     "description": "Create webhooks from the webhook management screens",
     "version": "2.0.1",
     "color": "#f9a418",
@@ -883,9 +887,9 @@
   },
   "Freemoji": {
     "url": "https://fifithebulldog.github.io/enmity-addons-store/plugins/Freemoji.js",
-    "last_update": 1694084230,
+    "last_update": 1716738836,
     "description": "Send external emoji without Nitro as image links",
-    "version": "2.0.2",
+    "version": "2.0.3",
     "color": "#f9a418",
     "author": [
       {
@@ -897,7 +901,7 @@
   },
   "NoReplyMention": {
     "url": "https://fifithebulldog.github.io/enmity-addons-store/plugins/NoReplyMention.js",
-    "last_update": 1694084230,
+    "last_update": 1716738836,
     "description": "Disable reply pings by default",
     "version": "1.1.0",
     "color": "#f9a418",
@@ -1176,7 +1180,7 @@
   },
   "ViewRaw": {
     "url": "https://raw.githubusercontent.com/aeongdesu/ermplugins/main/plugins/ViewRaw/dist/ViewRaw.js",
-    "last_update": 1707369657,
+    "last_update": 1721542443,
     "description": "View raw message data",
     "version": "1.0.0",
     "author": [
