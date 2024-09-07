@@ -1,7 +1,5 @@
 {
   "description": "User Details\n\nShows joined at & created at dates on user profiles.\n\nDownload: https://raw.githubusercontent.com/discord-modifications/enmity-addons/main/Plugins/UserDetails/dist/UserDetails.js\n\nSource: https://github.com/discord-modifications/enmity-addons/tree/main/Plugins/UserDetails",
   "images": [],
-  "videos": [
-    "https://cdn.discordapp.com/attachments/961782195767365732/997652658590601266/RPReplay_Final1657929115.mp4"
-  ]
+  "videos": []
 }

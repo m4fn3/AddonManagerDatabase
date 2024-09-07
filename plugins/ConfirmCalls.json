@@ -1,7 +1,5 @@
 {
   "description": "ConfirmCalls\n\nMakes sure that you want to call before you wake up your friend at 3:00 AM\n\nDownload: https://raw.githubusercontent.com/DebianProgrammer/enmity-plugins/main/ConfirmCalls/dist/ConfirmCalls.js\nSource: https://github.com/DebianProgrammer/enmity-plugins/tree/main/ConfirmCalls",
-  "images": [
-    "https://cdn.discordapp.com/attachments/961782195767365732/1070519919478837258/img.png"
-  ],
+  "images": [],
   "videos": []
 }

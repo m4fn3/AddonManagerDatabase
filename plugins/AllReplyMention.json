@@ -1,7 +1,5 @@
 {
   "description": "AllReplyMention\nAdd replies without mention to the mentions tab\n\nDownload: https://github.com/lexisother/Enmity-Plugins/raw/master/AllReplyMention/dist/AllReplyMention.js\nSource: https://github.com/lexisother/Enmity-Plugins/tree/master/AllReplyMention",
-  "images": [
-    "https://cdn.discordapp.com/attachments/961782195767365732/994699383016804432/unknown.png"
-  ],
+  "images": [],
   "videos": []
 }

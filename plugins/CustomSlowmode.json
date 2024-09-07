@@ -1,7 +1,5 @@
 {
   "description": "CustomSlowmode \n\nEasily modify the slowmode values that you can set on channels!\nNo more are the days of 5-second slowmode; use 1 second instead so your members aren't waiting in agony.\n\nDownload: https://raw.githubusercontent.com/spinfal/enmity-plugins/master/dist/CustomSlowmode.js\nSource: https://github.com/spinfal/enmity-plugins/tree/master/CustomSlowmode",
-  "images": [
-    "https://cdn.discordapp.com/attachments/961782195767365732/1037998935878418442/unknown.png"
-  ],
+  "images": [],
   "videos": []
 }

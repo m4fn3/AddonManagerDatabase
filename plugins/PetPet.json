@@ -1,7 +1,5 @@
 {
   "description": "PetPet  \n\nEasily create a PetPet gif from a provided image using a command!\n\nDownload: https://raw.githubusercontent.com/spinfal/enmity-plugins/master/dist/PetPet.js\nSource: https://github.com/spinfal/enmity-plugins/tree/master/PetPet",
-  "images": [
-    "https://cdn.discordapp.com/attachments/961782195767365732/1034986160344277042/IMG_0518.png"
-  ],
+  "images": [],
   "videos": []
 }

@@ -1,7 +1,5 @@
 {
   "description": "Mute New Guilds\n\nMute newly joined servers with configurable settings.\n\nDownload: https://raw.githubusercontent.com/attic0001/enmityaddons/main/Plugins/MuteNewGuilds/dist/MuteNewGuilds.js\nSource: https://github.com/attic0001/enmityaddons/edit/main/Plugins/MuteNewGuilds",
-  "images": [
-    "https://cdn.discordapp.com/attachments/961782195767365732/1007413052158775366/IMG_4803.png"
-  ],
+  "images": [],
   "videos": []
 }

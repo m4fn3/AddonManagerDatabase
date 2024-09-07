@@ -1,4 +1,167 @@
 {
+  "EmotesPlus": {
+    "url": "https://raw.githubusercontent.com/byeoon/EmotesPlus/main/dist/EmotesPlus.js",
+    "last_update": 1723841276,
+    "description": "Enhanced mobile emote management.",
+    "version": "1.1.0",
+    "color": "#00007d",
+    "author": [
+      {
+        "name": "byeoon",
+        "id": "1167275288036655133"
+      }
+    ],
+    "message_id": 1246508003637854288
+  },
+  "Last.FM": {
+    "url": "https://raw.githubusercontent.com/Kief5555/EnmityPlugins/master/Last.Fm/build/Last.FM.js",
+    "last_update": 1717218248,
+    "description": "Last.fm RPC for now playing",
+    "version": "0.1",
+    "color": "#f69220",
+    "author": [
+      {
+        "name": "Kief",
+        "id": "757661857891876904"
+      }
+    ],
+    "message_id": 1246466857620340777
+  },
+  "HideChatButtons": {
+    "url": "https://serstars.is-a.dev/plugins/p/HideChatButtons.js",
+    "last_update": 1717154507,
+    "description": "Hide the unnecessary icons from the chat bar",
+    "version": "1.0.0",
+    "color": "#000001",
+    "author": [
+      {
+        "name": "SerStars",
+        "id": "861631850681729045"
+      }
+    ],
+    "message_id": 1246197266612617326
+  },
+  "ActionSheetFinder": {
+    "url": "https://raw.githubusercontent.com/byeoon/ActionSheetFinder/main/dist/ActionSheetFinder.js",
+    "last_update": 1712163927,
+    "description": "Lists all ActionSheets to debug logs.",
+    "version": "1.0.0",
+    "color": "#00007d",
+    "author": [
+      {
+        "name": "byeoon",
+        "id": "1167275288036655133"
+      }
+    ],
+    "message_id": 1226380809628418140
+  },
+  "Catgirls": {
+    "url": "https://raw.githubusercontent.com/byeoon/CatgirlsPluginV2/main/dist/Catgirls.js",
+    "last_update": 1723140306,
+    "description": "Sends images from the nekos.life API. \\u0E05\\u2022\\u03C9\\u2022\\u0E05",
+    "version": "2.0.3",
+    "color": "#00007d",
+    "author": [
+      {
+        "name": "beerpsi, byeoon",
+        "id": "1167275288036655133"
+      }
+    ],
+    "message_id": 1226379006467772498
+  },
+  "ViewRaw": {
+    "url": "https://raw.githubusercontent.com/aeongdesu/ermplugins/main/plugins/ViewRaw/dist/ViewRaw.js",
+    "last_update": 1721542443,
+    "description": "View raw message data",
+    "version": "1.0.0",
+    "author": [
+      {
+        "name": "sapphire",
+        "id": "757982547861962752"
+      }
+    ],
+    "message_id": 1205162224726052904
+  },
+  "Splasher": {
+    "url": "https://raw.githubusercontent.com/hauntii/EnPlugins/main/Splasher/Release/Splasher.js",
+    "last_update": 1707312094,
+    "description": "Lets you use imgur pictures as profile banners!",
+    "version": "1.0.0",
+    "color": "#FFFEB1",
+    "author": [
+      {
+        "name": "Niko",
+        "id": "341377368075796483"
+      }
+    ],
+    "message_id": 1204907231947006004
+  },
+  "freeappicon": {
+    "url": "https://serstars.is-a.dev/plugins/p/freeappicon.js",
+    "last_update": 1717154507,
+    "description": "Make the new Discord App Icons free.",
+    "version": "1.0.0",
+    "color": "#000001",
+    "author": [
+      {
+        "name": "SerStars",
+        "id": "861631850681729045"
+      }
+    ],
+    "message_id": 1161787573514031174
+  },
+  "ShowConnections": {
+    "url": "https://raw.githubusercontent.com/Futuremappermydud/Emnity-ShowConnections/main/dist/ShowConnections.js",
+    "last_update": 1694530641,
+    "description": "Compacts the connection section of the user profile.",
+    "version": "1.0.0",
+    "author": [
+      {
+        "name": "FutureMapper",
+        "id": "741727188809810181"
+      }
+    ],
+    "message_id": 1152027723666047056
+  },
+  "ProfileSpotifies": {
+    "url": "https://raw.githubusercontent.com/Futuremappermydud/Emnity-ProfileSpotifies/main/dist/ProfileSpotifies.js",
+    "last_update": 1694702084,
+    "description": "Allows you to pin spotify links to your profile.",
+    "version": "1.0.0",
+    "author": [
+      {
+        "name": "FutureMapper",
+        "id": "741727188809810181"
+      }
+    ],
+    "message_id": 1152027217774264350
+  },
+  "SpotifyPreview": {
+    "url": "https://raw.githubusercontent.com/fres621/enmityplugins/main/SpotifyPreview/dist/SpotifyPreview.js",
+    "last_update": 1694257449,
+    "description": "Lets you preview (30s of audio) Spotify songs by pressing the links.",
+    "version": "1.0.0",
+    "author": [
+      {
+        "name": "fres",
+        "id": "843448897737064448"
+      }
+    ],
+    "message_id": 1150160505462333560
+  },
+  "UnrealProfileThemes": {
+    "url": "https://raw.githubusercontent.com/Futuremappermydud/Emnity-UnrealProfileThemes/main/dist/UnrealProfileThemes.js",
+    "last_update": 1692789280,
+    "description": "Uses hidden 3y3 codes to allow you to change your profile theme colors for anyone using the plugin",
+    "version": "1.0.0",
+    "author": [
+      {
+        "name": "FutureMapper",
+        "id": "741727188809810181"
+      }
+    ],
+    "message_id": 1144004436587458611
+  },
   "HighlightCode": {
     "url": "https://raw.githubusercontent.com/m4fn3/HighlightCode/master/dist/HighlightCode.js",
     "last_update": 1689140348,
@@ -599,11 +762,6 @@
     ],
     "message_id": 1029345387225554974
   },
-  "SilentTyping": {
-    "url": "https://plugins.panties.moe/plugins/SilentTyping.js",
-    "last_update": 1652093260,
-    "message_id": 1027887859803357206
-  },
   "Dislate": {
     "url": "https://raw.githubusercontent.com/acquitelol/dislate/main/dist/Dislate.js",
     "last_update": 1689579317,
@@ -685,20 +843,6 @@
     ],
     "message_id": 1014742006930620466
   },
-  "Fart": {
-    "url": "https://raw.githubusercontent.com/ItzOnlyAnimal/EnmityPloogins/main/Fart/dist/Fart.js",
-    "last_update": 1661776288,
-    "description": "the epic fart plugin but enmity edition :)",
-    "version": "1.0.1",
-    "color": "#43e1c1",
-    "author": [
-      {
-        "name": "Animal",
-        "id": "118437263754395652"
-      }
-    ],
-    "message_id": 1013927462947790848
-  },
   "ShowHiddenChannels": {
     "url": "https://raw.githubusercontent.com/discord-modifications/enmity-addons/main/Plugins/ShowHiddenChannels/dist/ShowHiddenChannels.js",
     "last_update": 1672709339,
@@ -741,17 +885,7 @@
     "message_id": 1010921195312513095
   },
   "Dashless": {
-    "url": "https://github.com/ssense1337/enmity-plugins/raw/main/Dashless/dist/Dashless.js",
-    "last_update": 1660183275,
-    "description": "Changes dashes in text channel names to spaces.",
-    "version": "1.0.0",
-    "color": "#64D3FF",
-    "author": [
-      {
-        "name": "ssense",
-        "id": "146080957965795328"
-      }
-    ],
+    "url": "https://cdn.discordapp.com/attachments/950979198904852481/1010935443245760552/Dashless.js",
     "message_id": 1010921068401262652
   },
   "MuteNewGuilds": {
@@ -945,72 +1079,6 @@
     "description": "Get the weather",
     "message_id": 963140147065552998
   },
-  "UrbanDict": {
-    "url": "https://mugman.catvibers.me/Enmity-Plugins/plugins/UrbanDict.js",
-    "last_update": 1674800367,
-    "description": "Search Urban Dictionary",
-    "version": "1.5.0",
-    "author": [
-      {
-        "name": "mugman",
-        "id": "990032448115073064"
-      }
-    ],
-    "message_id": 962568909544914975
-  },
-  "owoifier": {
-    "url": "https://beerpiss.github.io/enmity/plugins/owoifier.js",
-    "last_update": 1651648206,
-    "description": "hewwowo ^w^ i am ywouw wowowst nyightmawe",
-    "message_id": 961809571251372042
-  },
-  "Timestamps": {
-    "url": "https://beerpiss.github.io/enmity/plugins/Timestamps.js",
-    "last_update": 1651648206,
-    "message_id": 961808478572265502
-  },
-  "RawMessage": {
-    "url": "https://beerpiss.github.io/enmity/plugins/RawMessage.js",
-    "last_update": 1651648206,
-    "description": "Sends a raw message with Markdown escaped.",
-    "message_id": 961807892170801204
-  },
-  "Osu": {
-    "url": "https://beerpiss.github.io/enmity/plugins/Osu.js",
-    "last_update": 1651648206,
-    "description": "Gets information about an osu! player",
-    "message_id": 961807087703310387
-  },
-  "Eval": {
-    "url": "https://beerpiss.github.io/enmity/plugins/Eval.js",
-    "last_update": 1651648206,
-    "description": "Evaluates JS",
-    "message_id": 961806173361799219
-  },
-  "Emojipasta": {
-    "url": "https://beerpiss.github.io/enmity/plugins/Emojipasta.js",
-    "last_update": 1651648206,
-    "description": "Generates an emojipasta from \\u25B6\\u{1F449} the \\u{1F44F}\\u{1F458} given \\u{1F448}\\u{1F464} text. \\u{1F631}",
-    "message_id": 961804870862663750
-  },
-  "Catgirls": {
-    "url": "https://beerpiss.github.io/enmity/plugins/Catgirls.js",
-    "last_update": 1651648206,
-    "description": "Sends an image from the nekos.life API.",
-    "message_id": 961803718825762837
-  },
-  "Catboys": {
-    "url": "https://beerpiss.github.io/enmity/plugins/Catboys.js",
-    "last_update": 1651648206,
-    "description": "Sends an image from the catboys.com API.",
-    "message_id": 961802665396932650
-  },
-  "Bottom": {
-    "url": "https://beerpiss.github.io/enmity/plugins/Bottom.js",
-    "last_update": 1651648206,
-    "description": "Translate and send text as bottom \\u{1F97A}",
-    "message_id": 961801373052198942
-  },
   "ReactDevTools": {
     "url": "https://raw.githubusercontent.com/xenos1337/enmity-plugins/main/ReactDevTools/dist/ReactDevTools.js",
     "last_update": 1668425499,
@@ -1083,112 +1151,5 @@
         "id": "519760564755365888"
       }
     ]
-  },
-  "UnrealProfileThemes": {
-    "url": "https://raw.githubusercontent.com/Futuremappermydud/Emnity-UnrealProfileThemes/main/dist/UnrealProfileThemes.js",
-    "last_update": 1692789280,
-    "description": "Uses hidden 3y3 codes to allow you to change your profile theme colors for anyone using the plugin",
-    "version": "1.0.0",
-    "author": [
-      {
-        "name": "FutureMapper",
-        "id": "741727188809810181"
-      }
-    ],
-    "message_id": 1144004436587458611
-  },
-  "SpotifyPreview": {
-    "url": "https://raw.githubusercontent.com/fres621/enmityplugins/main/SpotifyPreview/dist/SpotifyPreview.js",
-    "last_update": 1694257449,
-    "description": "Lets you preview (30s of audio) Spotify songs by pressing the links.",
-    "version": "1.0.0",
-    "author": [
-      {
-        "name": "fres",
-        "id": "843448897737064448"
-      }
-    ],
-    "message_id": 1150160505462333560
-  },
-  "ProfileSpotifies": {
-    "url": "https://raw.githubusercontent.com/Futuremappermydud/Emnity-ProfileSpotifies/main/dist/ProfileSpotifies.js",
-    "last_update": 1694702084,
-    "description": "Allows you to pin spotify links to your profile.",
-    "version": "1.0.0",
-    "author": [
-      {
-        "name": "FutureMapper",
-        "id": "741727188809810181"
-      }
-    ],
-    "message_id": 1152027217774264350
-  },
-  "ShowConnections": {
-    "url": "https://raw.githubusercontent.com/Futuremappermydud/Emnity-ShowConnections/main/dist/ShowConnections.js",
-    "last_update": 1694530641,
-    "description": "Compacts the connection section of the user profile.",
-    "version": "1.0.0",
-    "author": [
-      {
-        "name": "FutureMapper",
-        "id": "741727188809810181"
-      }
-    ],
-    "message_id": 1152027723666047056
-  },
-  "FreeAppIcons": {
-    "url": "https://raw.githubusercontent.com/SerStars/enmity-appicon/README/dist/FreeAppIcons.js",
-    "last_update": 1697019676,
-    "description": "Make the new Discord App Icons free.",
-    "version": "1.0.0",
-    "color": "#000001",
-    "author": [
-      {
-        "name": "SerStars",
-        "id": "861631850681729045"
-      }
-    ],
-    "message_id": 1161787573514031174
-  },
-  "freeappicon": {
-    "url": "https://serstars.is-a.dev/Plumity/p/freeappicon.js",
-    "last_update": 1705987191,
-    "description": "Make the new Discord App Icons free.",
-    "version": "1.0.0",
-    "color": "#000001",
-    "author": [
-      {
-        "name": "SerStars",
-        "id": "861631850681729045"
-      }
-    ],
-    "message_id": 1161787573514031174
-  },
-  "Splasher": {
-    "url": "https://raw.githubusercontent.com/hauntii/EnPlugins/main/Splasher/Release/Splasher.js",
-    "last_update": 1707312094,
-    "description": "Lets you use imgur pictures as profile banners!",
-    "version": "1.0.0",
-    "color": "#FFFEB1",
-    "author": [
-      {
-        "name": "Niko",
-        "id": "341377368075796483"
-      }
-    ],
-    "message_id": 1204907231947006004
-  },
-  "ViewRaw": {
-    "url": "https://raw.githubusercontent.com/aeongdesu/ermplugins/main/plugins/ViewRaw/dist/ViewRaw.js",
-    "last_update": 1721542443,
-    "description": "View raw message data",
-    "version": "1.0.0",
-    "author": [
-      {
-        "name": "sapphire",
-        "id": "757982547861962752"
-      }
-    ],
-    "message_id": 1205162224726052904
   }
 }

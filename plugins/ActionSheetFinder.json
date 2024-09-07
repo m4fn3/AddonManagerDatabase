@@ -1,0 +1,5 @@
+{
+  "description": "# ActionSheetFinder \nA useful utility for plugin developers to figure out what ActionSheet you pressed. Will output as a Toast and additionally will show up in the Debug Logs.\n\nDownload: https://raw.githubusercontent.com/byeoon/ActionSheetFinder/main/dist/ActionSheetFinder.js\nSource: https://github.com/byeoon/ActionSheetFinder\n(Don't forget to leave a ⭐ on the repo if you like it / find it useful!)",
+  "images": [],
+  "videos": []
+}

@@ -1,8 +1,5 @@
 {
   "description": "EnmityYou\n\nAllows you to access Enmity's settings on the experimental new YouTab which was introduced several versions ago but is now force-enabled by Discord in the new alphas with the Tabs UI enabled. Previews for this plugin are provided below.\n\n(*Notes:*\n*- You may need to disable the new Tabs UI to install the plugin, after which point you should be able to enable it again.*\n*- If you experience any crashes when attempting to open the new YouTab, please restart your client and try again.*\n*- If you're on an older alpha, aka any Discord version under 180, please do* *not* *use this. It will not work.*)\n\nDownload: https://raw.githubusercontent.com/acquitelol/enmity-you/mistress/dist/EnmityYou.js\nSource: https://github.com/acquitelol/enmity-you",
-  "images": [
-    "https://cdn.discordapp.com/attachments/961782195767365732/1110325680056578058/IMG_4940.png",
-    "https://cdn.discordapp.com/attachments/961782195767365732/1110325680287272970/IMG_4941.png"
-  ],
+  "images": [],
   "videos": []
 }

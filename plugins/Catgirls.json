@@ -1,7 +1,5 @@
 {
-  "description": "————————————————\nCatgirls\nGets images of catgirls from the https://nekos.life API.\n\nFeatures:\n- Catgirls! ＼(=^‥^)/’`\n- Whispers images by default, so you don't accidentally send hentai.\n- Clear separation of SFW and NSFW image categories, so you have no excuse if you send hentai with this plugin :3\n\nDownload: https://beerpiss.github.io/enmity/plugins/Catgirls.js\nStore: https://beerpiss.github.io/enmity",
-  "images": [
-    "https://cdn.discordapp.com/attachments/961782195767365732/961803718918029462/IMG_1328.png"
-  ],
+  "description": "# Catgirls V2\n *This is a plugin that was no longer maintained by the previous developer (beerpsi) and I decided to pick it back up and fix it. *\n\nUse slash commands to get pictures from the nekos.life API.\n\nDownload: https://raw.githubusercontent.com/byeoon/CatgirlsPluginV2/main/dist/Catgirls.js\nSource: https://github.com/byeoon/CatgirlsPluginV2\n(Don't forget to leave a ⭐ on the repo if you like it!)",
+  "images": [],
   "videos": []
 }

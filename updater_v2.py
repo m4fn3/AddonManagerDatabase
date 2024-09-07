@@ -24,7 +24,7 @@ bot = commands.Bot("!", self_bot=True)
 
 # 設定
 debug = False
-do_dump_all = False
+do_dump_all = True
 get_last_updated = True
 
 # データ

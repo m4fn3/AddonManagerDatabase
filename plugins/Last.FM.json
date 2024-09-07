@@ -1,0 +1,5 @@
+{
+  "description": "# Last.FM\n\n Last.FM Rich Presence pulled from the Last.FM API (for now playing). \n If your music app supports Last.FM, but not discord RPC, you can use this.\n\nFor Apple Music mobile, this app can be combined with Eavescrob for a RPC\n\nDownload: https://raw.githubusercontent.com/Kief5555/EnmityPlugins/master/Last.Fm/build/Last.FM.js\nSource: https://github.com/Kief5555/EnmityPlugins/tree/master/Last.Fm/src\n\n(Don't forget to leave a ⭐ on the repo if you like it or find it useful!)",
+  "images": [],
+  "videos": []
+}
