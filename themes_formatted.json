@@ -20,10 +20,10 @@
   },
   "PurpleGalaxy": {
     "url": "https://raw.githubusercontent.com/VodkaXMartini/EnmityTheme/main/PurpleGalaxy.json",
-    "description": "A light purple sky theme",
+    "description": "A purple sky theme made by vodka",
     "author": [
       {
-        "name": "Vodka Martini",
+        "name": "Vodka",
         "id": "1068030255455015013"
       }
     ],
@@ -40,7 +40,7 @@
       }
     ],
     "color": "#000000",
-    "version": "2.0",
+    "version": "2.2",
     "message_id": 1101078089481588796
   },
   "ClearVision": {
@@ -52,7 +52,7 @@
         "id": "757530324686340197"
       }
     ],
-    "version": "1.0",
+    "version": "1.1",
     "message_id": 1100824877642031185
   },
   "Serene_Horizon": {
@@ -64,7 +64,7 @@
         "id": "757530324686340197"
       }
     ],
-    "version": "1.1",
+    "version": "1.2",
     "message_id": 1100822868222296114
   },
   "Katana": {
@@ -639,7 +639,7 @@
         "id": "848518188195250176"
       }
     ],
-    "version": "1.0",
+    "version": "1.1",
     "message_id": 1008773047215472731
   },
   "RosieBlue": {
@@ -712,14 +712,14 @@
   },
   "Discord_Dark": {
     "url": "https://syndishanx.github.io/Discord-Dark/Enmity/Discord_Dark.json",
-    "description": "A Github Dark Theme for Discord Mobile",
+    "description": "A Github Dark Theme for Enmity",
     "author": [
       {
         "name": "SyndiShanX",
         "id": "178394162381455360"
       }
     ],
-    "version": "1.16",
+    "version": "2.0",
     "message_id": 999856916970864650
   },
   "Colr": {
@@ -1300,7 +1300,7 @@
       }
     ],
     "color": "#FF4500",
-    "version": "1.0",
+    "version": "1.2",
     "message_id": 1139268724294160505
   },
   "TokyoNight": {
@@ -1336,8 +1336,8 @@
         "id": "1068030255455015013"
       }
     ],
-    "color": "#6b8e4e",
     "version": "1.0",
+    "color": "#6b8e4e",
     "message_id": 1085389317565853716
   },
   "Amoled Bright": {
@@ -1366,7 +1366,7 @@
       }
     ],
     "color": "#000000",
-    "version": "1.0",
+    "version": "1.2",
     "message_id": 1183472953451630695
   },
   "AmoledOrthinanosPurple": {
@@ -1428,6 +1428,36 @@
     "message_id": 1109771267868987422
   },
   "BetterDark Red": {
+    "url": "https://raw.githubusercontent.com/darealyeeto/BetterDark/main/BetterDarkRed.json",
+    "description": "Darker than dark, with a twist of red.",
+    "author": [
+      {
+        "name": "darealyeeto",
+        "id": "980160393093730395"
+      }
+    ],
+    "color": "#EA5959",
+    "version": "1.12",
+    "message_id": 1211443611460436058
+  },
+  "Frappe": {
+    "url": "https://raw.githubusercontent.com/catppuccin/enmity/main/themes/Frappe.json",
+    "description": "☕️ Catppuccin Frappe.",
+    "author": [
+      {
+        "name": "112c",
+        "id": "696446023815397456"
+      },
+      {
+        "name": "InvitedToHell",
+        "id": "469514043053309952"
+      }
+    ],
+    "color": "#ca9ee6",
+    "version": "1.7",
+    "message_id": 1029526597428072571
+  },
+  "BetterDarkRed": {
     "url": "https://raw.githubusercontent.com/darealyeeto/BetterDark/main/BetterDarkRed.json",
     "description": "Darker than dark, with a twist of red.",
     "author": [
